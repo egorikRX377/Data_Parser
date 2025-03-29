@@ -1,0 +1,472 @@
+[
+    {
+        "title": "ЛМ ФИЛИАЛ \"ОРШАНСКАЯ ТЭЦ\" РУП \"ВИТЕБСКЭНЕРГО\" 2023",
+        "Nid": "6701",
+        "field_geo_point": "3313",
+        "title_1": "Филиал «Оршанская ТЭЦ» РУП «Витебскэнерго»",
+        "field_source": "3320",
+        "title_2": "Территория предприятия и его санитарно-защитная зона, г. Орша, ул. Южная, 1",
+        "field_period": "2023 ",
+        "year": "2023",
+        "timestamp": "2025-03-30 01:49:10",
+        "substances": [
+            {
+                "name": "Нефтепродукты",
+                "substance_id": "239",
+                "units": "мг/кг",
+                "units_id": "280",
+                "actual_value": "137",
+                "pdk": "1263",
+                "quarterly_average": null,
+                "local_analytical_average": null,
+                "analytical_actual_value": null
+            },
+            {
+                "name": "Бенз(а)пирен",
+                "substance_id": "183",
+                "units": "мг/кг",
+                "units_id": "280",
+                "actual_value": "0.08",
+                "pdk": "0.14",
+                "quarterly_average": null,
+                "local_analytical_average": null,
+                "analytical_actual_value": null
+            },
+            {
+                "name": "Кадмий",
+                "substance_id": "50",
+                "units": "мг/кг",
+                "units_id": "280",
+                "actual_value": "0.25",
+                "pdk": "3.13",
+                "quarterly_average": null,
+                "local_analytical_average": null,
+                "analytical_actual_value": null
+            },
+            {
+                "name": "Медь",
+                "substance_id": "29",
+                "units": "мг/кг",
+                "units_id": "280",
+                "actual_value": "31.9",
+                "pdk": "114",
+                "quarterly_average": null,
+                "local_analytical_average": null,
+                "analytical_actual_value": null
+            },
+            {
+                "name": "Никель",
+                "substance_id": "32",
+                "units": "мг/кг",
+                "units_id": "280",
+                "actual_value": "361",
+                "pdk": "74.8",
+                "quarterly_average": null,
+                "local_analytical_average": null,
+                "analytical_actual_value": null
+            },
+            {
+                "name": "Нитраты",
+                "substance_id": "65",
+                "units": "мг/кг",
+                "units_id": "280",
+                "actual_value": "20.46",
+                "pdk": "439",
+                "quarterly_average": null,
+                "local_analytical_average": null,
+                "analytical_actual_value": null
+            },
+            {
+                "name": "Полихлорированные бифенилы",
+                "substance_id": "157",
+                "units": "мг/кг",
+                "units_id": "280",
+                "actual_value": "0.227",
+                "pdk": "0.35",
+                "quarterly_average": null,
+                "local_analytical_average": null,
+                "analytical_actual_value": null
+            },
+            {
+                "name": "Ртуть",
+                "substance_id": "72",
+                "units": "мг/кг",
+                "units_id": "280",
+                "actual_value": "0.1",
+                "pdk": "9.59",
+                "quarterly_average": null,
+                "local_analytical_average": null,
+                "analytical_actual_value": null
+            },
+            {
+                "name": "Свинец",
+                "substance_id": "51",
+                "units": "мг/кг",
+                "units_id": "280",
+                "actual_value": "16.3",
+                "pdk": "153",
+                "quarterly_average": null,
+                "local_analytical_average": null,
+                "analytical_actual_value": null
+            },
+            {
+                "name": "сульфаты",
+                "substance_id": "64",
+                "units": "мг/кг",
+                "units_id": "280",
+                "actual_value": "41.2",
+                "pdk": "692",
+                "quarterly_average": null,
+                "local_analytical_average": null,
+                "analytical_actual_value": null
+            },
+            {
+                "name": "Хром",
+                "substance_id": "31",
+                "units": "мг/кг",
+                "units_id": "280",
+                "actual_value": "64.1",
+                "pdk": "166",
+                "quarterly_average": null,
+                "local_analytical_average": null,
+                "analytical_actual_value": null
+            },
+            {
+                "name": "Цинк",
+                "substance_id": "30",
+                "units": "мг/кг",
+                "units_id": "280",
+                "actual_value": "101",
+                "pdk": "323",
+                "quarterly_average": null,
+                "local_analytical_average": null,
+                "analytical_actual_value": null
+            }
+        ]
+    },
+    {
+        "title": "ЛМ КУП «ОРШАНСКАЯ СПЕЦАВТОБАЗА» 2022",
+        "Nid": "6697",
+        "field_geo_point": "3308",
+        "title_1": "КУП «Оршанская спецавтобаза» (полигон ТКО г. Орша)",
+        "field_source": "3315",
+        "title_2": "Санитарно-защитная зона полигона ТКО г. Орша, Оршанский р-н, д. Белево",
+        "field_period": "2022 ",
+        "year": "2022",
+        "timestamp": "2025-03-30 01:49:10",
+        "substances": [
+            {
+                "name": "Кадмий",
+                "substance_id": "50",
+                "units": "мг/кг",
+                "units_id": "280",
+                "actual_value": "0.25",
+                "pdk": "3.86",
+                "quarterly_average": null,
+                "local_analytical_average": null,
+                "analytical_actual_value": null
+            },
+            {
+                "name": "Медь",
+                "substance_id": "29",
+                "units": "мг/кг",
+                "units_id": "280",
+                "actual_value": "22.5",
+                "pdk": "141",
+                "quarterly_average": null,
+                "local_analytical_average": null,
+                "analytical_actual_value": null
+            },
+            {
+                "name": "Мышьяк",
+                "substance_id": "73",
+                "units": "мг/кг",
+                "units_id": "280",
+                "actual_value": "0.1",
+                "pdk": "34.6",
+                "quarterly_average": null,
+                "local_analytical_average": null,
+                "analytical_actual_value": null
+            },
+            {
+                "name": "Нефтепродукты",
+                "substance_id": "239",
+                "units": "мг/кг",
+                "units_id": "280",
+                "actual_value": "46.83",
+                "pdk": "1560",
+                "quarterly_average": null,
+                "local_analytical_average": null,
+                "analytical_actual_value": null
+            },
+            {
+                "name": "Никель",
+                "substance_id": "32",
+                "units": "мг/кг",
+                "units_id": "280",
+                "actual_value": "32.6195",
+                "pdk": "92.4",
+                "quarterly_average": null,
+                "local_analytical_average": null,
+                "analytical_actual_value": null
+            },
+            {
+                "name": "Ртуть",
+                "substance_id": "72",
+                "units": "мг/кг",
+                "units_id": "280",
+                "actual_value": "0.1",
+                "pdk": "11.8",
+                "quarterly_average": null,
+                "local_analytical_average": null,
+                "analytical_actual_value": null
+            },
+            {
+                "name": "Свинец",
+                "substance_id": "51",
+                "units": "мг/кг",
+                "units_id": "280",
+                "actual_value": "23.494",
+                "pdk": "189",
+                "quarterly_average": null,
+                "local_analytical_average": null,
+                "analytical_actual_value": null
+            },
+            {
+                "name": "Хром",
+                "substance_id": "31",
+                "units": "мг/кг",
+                "units_id": "280",
+                "actual_value": "57.9",
+                "pdk": "205",
+                "quarterly_average": null,
+                "local_analytical_average": null,
+                "analytical_actual_value": null
+            },
+            {
+                "name": "Цинк",
+                "substance_id": "30",
+                "units": "мг/кг",
+                "units_id": "280",
+                "actual_value": "73.6",
+                "pdk": "399",
+                "quarterly_average": null,
+                "local_analytical_average": null,
+                "analytical_actual_value": null
+            }
+        ]
+    },
+    {
+        "title": "ЛМ КУП «ОРШАНСКАЯ СПЕЦАВТОБАЗА» 2022",
+        "Nid": "6695",
+        "field_geo_point": "3309",
+        "title_1": "КУП «Оршанская спецавтобаза» (полигон ТКО г.п. Ореховск)",
+        "field_source": "3316",
+        "title_2": "Санитарно-защитная зона полигона ТКО г.п. Ореховск, в 30 км от г. Орша и в 5 км от г.п. Ореховск",
+        "field_period": "2022 ",
+        "year": "2022",
+        "timestamp": "2025-03-30 01:49:10",
+        "substances": [
+            {
+                "name": "Кадмий",
+                "substance_id": "50",
+                "units": "мг/кг",
+                "units_id": "280",
+                "actual_value": "0.5837",
+                "pdk": "3.86",
+                "quarterly_average": null,
+                "local_analytical_average": null,
+                "analytical_actual_value": null
+            },
+            {
+                "name": "Медь",
+                "substance_id": "29",
+                "units": "мг/кг",
+                "units_id": "280",
+                "actual_value": "20.6",
+                "pdk": "141",
+                "quarterly_average": null,
+                "local_analytical_average": null,
+                "analytical_actual_value": null
+            },
+            {
+                "name": "Мышьяк",
+                "substance_id": "73",
+                "units": "мг/кг",
+                "units_id": "280",
+                "actual_value": "0.1",
+                "pdk": "34.6",
+                "quarterly_average": null,
+                "local_analytical_average": null,
+                "analytical_actual_value": null
+            },
+            {
+                "name": "Нефтепродукты",
+                "substance_id": "239",
+                "units": "мг/кг",
+                "units_id": "280",
+                "actual_value": "25.67",
+                "pdk": "1560",
+                "quarterly_average": null,
+                "local_analytical_average": null,
+                "analytical_actual_value": null
+            },
+            {
+                "name": "Никель",
+                "substance_id": "32",
+                "units": "мг/кг",
+                "units_id": "280",
+                "actual_value": "59.4264",
+                "pdk": "92.4",
+                "quarterly_average": null,
+                "local_analytical_average": null,
+                "analytical_actual_value": null
+            },
+            {
+                "name": "Ртуть",
+                "substance_id": "72",
+                "units": "мг/кг",
+                "units_id": "280",
+                "actual_value": "0.1",
+                "pdk": "11.8",
+                "quarterly_average": null,
+                "local_analytical_average": null,
+                "analytical_actual_value": null
+            },
+            {
+                "name": "Свинец",
+                "substance_id": "51",
+                "units": "мг/кг",
+                "units_id": "280",
+                "actual_value": "24.209",
+                "pdk": "189",
+                "quarterly_average": null,
+                "local_analytical_average": null,
+                "analytical_actual_value": null
+            },
+            {
+                "name": "Хром",
+                "substance_id": "31",
+                "units": "мг/кг",
+                "units_id": "280",
+                "actual_value": "65.7",
+                "pdk": "205",
+                "quarterly_average": null,
+                "local_analytical_average": null,
+                "analytical_actual_value": null
+            },
+            {
+                "name": "Цинк",
+                "substance_id": "30",
+                "units": "мг/кг",
+                "units_id": "280",
+                "actual_value": "202.6",
+                "pdk": "399",
+                "quarterly_average": null,
+                "local_analytical_average": null,
+                "analytical_actual_value": null
+            }
+        ]
+    },
+    {
+        "title": "ЛМ ФИЛИАЛ «ОРШАВОДОКАНАЛ» УП «ВИТЕБСКОБЛВОДОКАНАЛ» 2023",
+        "Nid": "6694",
+        "field_geo_point": "3314",
+        "title_1": "Филиал «Оршаводоканал» УП «Витебскоблводоканал»",
+        "field_source": "3321",
+        "title_2": "Прилегающая территория иловых площадок объекта «Очистные сооружения канализации г. Орша», г. Орша, ул. Южная",
+        "field_period": "2023 ",
+        "year": "2023",
+        "timestamp": "2025-03-30 01:49:10",
+        "substances": [
+            {
+                "name": "Кадмий",
+                "substance_id": "50",
+                "units": "мг/кг",
+                "units_id": "280",
+                "actual_value": "0.49",
+                "pdk": "2.02",
+                "quarterly_average": null,
+                "local_analytical_average": null,
+                "analytical_actual_value": null
+            },
+            {
+                "name": "Мышьяк",
+                "substance_id": "73",
+                "units": "мг/кг",
+                "units_id": "280",
+                "actual_value": "0.1",
+                "pdk": "18.1",
+                "quarterly_average": null,
+                "local_analytical_average": null,
+                "analytical_actual_value": null
+            },
+            {
+                "name": "Нефтепродукты",
+                "substance_id": "239",
+                "units": "мг/кг",
+                "units_id": "280",
+                "actual_value": "186.73",
+                "pdk": "817",
+                "quarterly_average": null,
+                "local_analytical_average": null,
+                "analytical_actual_value": null
+            },
+            {
+                "name": "Никель",
+                "substance_id": "32",
+                "units": "мг/кг",
+                "units_id": "280",
+                "actual_value": "19.8",
+                "pdk": "48.4",
+                "quarterly_average": null,
+                "local_analytical_average": null,
+                "analytical_actual_value": null
+            },
+            {
+                "name": "Нитраты",
+                "substance_id": "65",
+                "units": "мг/кг",
+                "units_id": "280",
+                "actual_value": "52.6",
+                "pdk": "284",
+                "quarterly_average": null,
+                "local_analytical_average": null,
+                "analytical_actual_value": null
+            },
+            {
+                "name": "Ртуть",
+                "substance_id": "72",
+                "units": "мг/кг",
+                "units_id": "280",
+                "actual_value": "0.1",
+                "pdk": "6.2",
+                "quarterly_average": null,
+                "local_analytical_average": null,
+                "analytical_actual_value": null
+            },
+            {
+                "name": "Свинец",
+                "substance_id": "51",
+                "units": "мг/кг",
+                "units_id": "280",
+                "actual_value": "25.6",
+                "pdk": "99.2",
+                "quarterly_average": null,
+                "local_analytical_average": null,
+                "analytical_actual_value": null
+            },
+            {
+                "name": "Хром",
+                "substance_id": "31",
+                "units": "мг/кг",
+                "units_id": "280",
+                "actual_value": "99.6",
+                "pdk": "107",
+                "quarterly_average": null,
+                "local_analytical_average": null,
+                "analytical_actual_value": null
+            }
+        ]
+    }
+]

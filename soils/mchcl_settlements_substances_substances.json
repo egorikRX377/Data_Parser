@@ -1,0 +1,4657 @@
+[
+    {
+        "title": "1873-1943",
+        "Nid": "2026",
+        "field_geo_point": "1873",
+        "title_1": "ул. Юбилейная, у школы № 10",
+        "field_source": "1943",
+        "title_2": "ул. Юбилейная, у школы № 10",
+        "field_period": "2020",
+        "year": "2020",
+        "timestamp": "2025-03-30 01:49:11",
+        "substances": [
+            {
+                "name": "Нефть и нефтепродукты в растворенном и эмульгированном состоянии",
+                "substance_id": "15",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "100",
+                "soderz": "49.2"
+            },
+            {
+                "name": "сульфаты",
+                "substance_id": "64",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "160",
+                "soderz": "33.1"
+            },
+            {
+                "name": "Нитраты",
+                "substance_id": "65",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "130",
+                "soderz": "24.6"
+            },
+            {
+                "name": "Бенз(а)пирен",
+                "substance_id": "183",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "0.02",
+                "soderz": "-"
+            },
+            {
+                "name": "кадмий(Cd)",
+                "substance_id": "67",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "0.5",
+                "soderz": "0.2"
+            },
+            {
+                "name": "цинк(Zn)",
+                "substance_id": "68",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "55",
+                "soderz": "53.1"
+            },
+            {
+                "name": "свинец(Pb)",
+                "substance_id": "69",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "32",
+                "soderz": "26.4"
+            },
+            {
+                "name": "медь(Cu)",
+                "substance_id": "70",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "33",
+                "soderz": "25.7"
+            },
+            {
+                "name": "никель(Ni)",
+                "substance_id": "71",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "20",
+                "soderz": "6.3"
+            },
+            {
+                "name": "Хром",
+                "substance_id": "31",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "100",
+                "soderz": "14.2"
+            },
+            {
+                "name": "Ртуть",
+                "substance_id": "72",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "2.1",
+                "soderz": "0.0"
+            },
+            {
+                "name": "Мышьяк",
+                "substance_id": "73",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "2",
+                "soderz": "12.6"
+            },
+            {
+                "name": "хлориды",
+                "substance_id": "74",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "360",
+                "soderz": "57.5"
+            },
+            {
+                "name": "ПХД",
+                "substance_id": "75",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "0.02",
+                "soderz": "-"
+            },
+            {
+                "name": "ph",
+                "substance_id": "76",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "-",
+                "soderz": "7.73"
+            }
+        ]
+    },
+    {
+        "title": "1874-1944",
+        "Nid": "2027",
+        "field_geo_point": "1874",
+        "title_1": "сквер у “Дистанции защитных лесонасаждений”",
+        "field_source": "1944",
+        "title_2": "сквер у “Дистанции защитных лесонасаждений”",
+        "field_period": "2020",
+        "year": "2020",
+        "timestamp": "2025-03-30 01:49:11",
+        "substances": [
+            {
+                "name": "Нефть и нефтепродукты в растворенном и эмульгированном состоянии",
+                "substance_id": "15",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "100",
+                "soderz": "55.0"
+            },
+            {
+                "name": "сульфаты",
+                "substance_id": "64",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "160",
+                "soderz": "22.1"
+            },
+            {
+                "name": "Нитраты",
+                "substance_id": "65",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "130",
+                "soderz": "22.4"
+            },
+            {
+                "name": "Бенз(а)пирен",
+                "substance_id": "183",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "0.02",
+                "soderz": "-"
+            },
+            {
+                "name": "кадмий(Cd)",
+                "substance_id": "67",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "0.5",
+                "soderz": "0.1"
+            },
+            {
+                "name": "цинк(Zn)",
+                "substance_id": "68",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "55",
+                "soderz": "33.7"
+            },
+            {
+                "name": "свинец(Pb)",
+                "substance_id": "69",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "32",
+                "soderz": "10.4"
+            },
+            {
+                "name": "медь(Cu)",
+                "substance_id": "70",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "33",
+                "soderz": "9.2"
+            },
+            {
+                "name": "никель(Ni)",
+                "substance_id": "71",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "20",
+                "soderz": "5.2"
+            },
+            {
+                "name": "Хром",
+                "substance_id": "31",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "100",
+                "soderz": "14.4"
+            },
+            {
+                "name": "Ртуть",
+                "substance_id": "72",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "2.1",
+                "soderz": "0.1"
+            },
+            {
+                "name": "Мышьяк",
+                "substance_id": "73",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "2",
+                "soderz": "7.7"
+            },
+            {
+                "name": "хлориды",
+                "substance_id": "74",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "360",
+                "soderz": "<45.8"
+            },
+            {
+                "name": "ПХД",
+                "substance_id": "75",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "0.02",
+                "soderz": "-"
+            },
+            {
+                "name": "ph",
+                "substance_id": "76",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "-",
+                "soderz": "6.16"
+            }
+        ]
+    },
+    {
+        "title": "1875-1945",
+        "Nid": "2028",
+        "field_geo_point": "1875",
+        "title_1": "ул. Тимирязева, ж/д техникум",
+        "field_source": "1945",
+        "title_2": "ул. Тимирязева, ж/д техникум",
+        "field_period": "2020",
+        "year": "2020",
+        "timestamp": "2025-03-30 01:49:11",
+        "substances": [
+            {
+                "name": "Нефть и нефтепродукты в растворенном и эмульгированном состоянии",
+                "substance_id": "15",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "100",
+                "soderz": "58.4"
+            },
+            {
+                "name": "сульфаты",
+                "substance_id": "64",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "160",
+                "soderz": "44.2"
+            },
+            {
+                "name": "Нитраты",
+                "substance_id": "65",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "130",
+                "soderz": "11.0"
+            },
+            {
+                "name": "Бенз(а)пирен",
+                "substance_id": "183",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "0.02",
+                "soderz": "-"
+            },
+            {
+                "name": "кадмий(Cd)",
+                "substance_id": "67",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "0.5",
+                "soderz": "0.1"
+            },
+            {
+                "name": "цинк(Zn)",
+                "substance_id": "68",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "55",
+                "soderz": "45.9"
+            },
+            {
+                "name": "свинец(Pb)",
+                "substance_id": "69",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "32",
+                "soderz": "6.9"
+            },
+            {
+                "name": "медь(Cu)",
+                "substance_id": "70",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "33",
+                "soderz": "6.8"
+            },
+            {
+                "name": "никель(Ni)",
+                "substance_id": "71",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "20",
+                "soderz": "3.8"
+            },
+            {
+                "name": "Хром",
+                "substance_id": "31",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "100",
+                "soderz": "14.2"
+            },
+            {
+                "name": "Ртуть",
+                "substance_id": "72",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "2.1",
+                "soderz": "0.1"
+            },
+            {
+                "name": "Мышьяк",
+                "substance_id": "73",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "2",
+                "soderz": "4.5"
+            },
+            {
+                "name": "хлориды",
+                "substance_id": "74",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "360",
+                "soderz": "58.9"
+            },
+            {
+                "name": "ПХД",
+                "substance_id": "75",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "0.02",
+                "soderz": "-"
+            },
+            {
+                "name": "ph",
+                "substance_id": "76",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "-",
+                "soderz": "7.59"
+            }
+        ]
+    },
+    {
+        "title": "1876-1946",
+        "Nid": "2029",
+        "field_geo_point": "1876",
+        "title_1": "ул. Мичурина, еловая лесопосадка у магазина",
+        "field_source": "1946",
+        "title_2": "ул. Мичурина, еловая лесопосадка у магазина",
+        "field_period": "2020",
+        "year": "2020",
+        "timestamp": "2025-03-30 01:49:11",
+        "substances": [
+            {
+                "name": "Нефть и нефтепродукты в растворенном и эмульгированном состоянии",
+                "substance_id": "15",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "100",
+                "soderz": "64.5"
+            },
+            {
+                "name": "сульфаты",
+                "substance_id": "64",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "160",
+                "soderz": "51.4"
+            },
+            {
+                "name": "Нитраты",
+                "substance_id": "65",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "130",
+                "soderz": "5.9"
+            },
+            {
+                "name": "Бенз(а)пирен",
+                "substance_id": "183",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "0.02",
+                "soderz": "-"
+            },
+            {
+                "name": "кадмий(Cd)",
+                "substance_id": "67",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "0.5",
+                "soderz": "0.1"
+            },
+            {
+                "name": "цинк(Zn)",
+                "substance_id": "68",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "55",
+                "soderz": "41.8"
+            },
+            {
+                "name": "свинец(Pb)",
+                "substance_id": "69",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "32",
+                "soderz": "10.6"
+            },
+            {
+                "name": "медь(Cu)",
+                "substance_id": "70",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "33",
+                "soderz": "9.5"
+            },
+            {
+                "name": "никель(Ni)",
+                "substance_id": "71",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "20",
+                "soderz": "3.4"
+            },
+            {
+                "name": "Хром",
+                "substance_id": "31",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "100",
+                "soderz": "13.1"
+            },
+            {
+                "name": "Ртуть",
+                "substance_id": "72",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "2.1",
+                "soderz": "0.1"
+            },
+            {
+                "name": "Мышьяк",
+                "substance_id": "73",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "2",
+                "soderz": "3.4"
+            },
+            {
+                "name": "хлориды",
+                "substance_id": "74",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "360",
+                "soderz": "87.0"
+            },
+            {
+                "name": "ПХД",
+                "substance_id": "75",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "0.02",
+                "soderz": "-"
+            },
+            {
+                "name": "ph",
+                "substance_id": "76",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "-",
+                "soderz": "7.25"
+            }
+        ]
+    },
+    {
+        "title": "1877-1947",
+        "Nid": "2030",
+        "field_geo_point": "1877",
+        "title_1": "ул. Дальняя, 35, у забора ж/д больницы",
+        "field_source": "1947",
+        "title_2": "ул. Дальняя, 35, у забора ж/д больницы",
+        "field_period": "2020",
+        "year": "2020",
+        "timestamp": "2025-03-30 01:49:11",
+        "substances": [
+            {
+                "name": "Нефть и нефтепродукты в растворенном и эмульгированном состоянии",
+                "substance_id": "15",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "100",
+                "soderz": "90.0"
+            },
+            {
+                "name": "сульфаты",
+                "substance_id": "64",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "160",
+                "soderz": "66.3"
+            },
+            {
+                "name": "Нитраты",
+                "substance_id": "65",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "130",
+                "soderz": "<2.8"
+            },
+            {
+                "name": "Бенз(а)пирен",
+                "substance_id": "183",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "0.02",
+                "soderz": "0.011"
+            },
+            {
+                "name": "кадмий(Cd)",
+                "substance_id": "67",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "0.5",
+                "soderz": "0.1"
+            },
+            {
+                "name": "цинк(Zn)",
+                "substance_id": "68",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "55",
+                "soderz": "42.7"
+            },
+            {
+                "name": "свинец(Pb)",
+                "substance_id": "69",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "32",
+                "soderz": "8.3"
+            },
+            {
+                "name": "медь(Cu)",
+                "substance_id": "70",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "33",
+                "soderz": "20.4"
+            },
+            {
+                "name": "никель(Ni)",
+                "substance_id": "71",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "20",
+                "soderz": "3.9"
+            },
+            {
+                "name": "Хром",
+                "substance_id": "31",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "100",
+                "soderz": "2.8"
+            },
+            {
+                "name": "Ртуть",
+                "substance_id": "72",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "2.1",
+                "soderz": "<0.01"
+            },
+            {
+                "name": "Мышьяк",
+                "substance_id": "73",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "2",
+                "soderz": "4.1"
+            },
+            {
+                "name": "хлориды",
+                "substance_id": "74",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "360",
+                "soderz": "61.4"
+            },
+            {
+                "name": "ПХД",
+                "substance_id": "75",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "0.02",
+                "soderz": "<0.0001"
+            },
+            {
+                "name": "ph",
+                "substance_id": "76",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "-",
+                "soderz": "7.21"
+            }
+        ]
+    },
+    {
+        "title": "1855-1925",
+        "Nid": "1999",
+        "field_geo_point": "1855",
+        "title_1": "ул .1-го Мая, 51(парк Героев)",
+        "field_source": "1925",
+        "title_2": "ул .1-го Мая, 51(парк Героев)",
+        "field_period": "2020",
+        "year": "2020",
+        "timestamp": "2025-03-30 01:49:11",
+        "substances": [
+            {
+                "name": "Нефть и нефтепродукты в растворенном и эмульгированном состоянии",
+                "substance_id": "15",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "100",
+                "soderz": "36.0"
+            },
+            {
+                "name": "сульфаты",
+                "substance_id": "64",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "160",
+                "soderz": "29.3"
+            },
+            {
+                "name": "Нитраты",
+                "substance_id": "65",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "130",
+                "soderz": "14.1"
+            },
+            {
+                "name": "Бенз(а)пирен",
+                "substance_id": "183",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "0.02",
+                "soderz": "-"
+            },
+            {
+                "name": "кадмий(Cd)",
+                "substance_id": "67",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "0.5",
+                "soderz": "0.2"
+            },
+            {
+                "name": "цинк(Zn)",
+                "substance_id": "68",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "55",
+                "soderz": "42.4"
+            },
+            {
+                "name": "свинец(Pb)",
+                "substance_id": "69",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "32",
+                "soderz": "7.1"
+            },
+            {
+                "name": "медь(Cu)",
+                "substance_id": "70",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "33",
+                "soderz": "8.4"
+            },
+            {
+                "name": "никель(Ni)",
+                "substance_id": "71",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "20",
+                "soderz": "10.8"
+            },
+            {
+                "name": "Хром",
+                "substance_id": "31",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "100",
+                "soderz": "14.1"
+            },
+            {
+                "name": "Ртуть",
+                "substance_id": "72",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "2.1",
+                "soderz": "0.0"
+            },
+            {
+                "name": "Мышьяк",
+                "substance_id": "73",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "2",
+                "soderz": "8.5"
+            },
+            {
+                "name": "хлориды",
+                "substance_id": "74",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "360",
+                "soderz": "<45.8"
+            },
+            {
+                "name": "ПХД",
+                "substance_id": "75",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "0.02",
+                "soderz": "-"
+            },
+            {
+                "name": "ph",
+                "substance_id": "76",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "-",
+                "soderz": "7.21"
+            }
+        ]
+    },
+    {
+        "title": "1856-1926",
+        "Nid": "2000",
+        "field_geo_point": "1856",
+        "title_1": "ДК з-да \"Оршастройматериалы \"",
+        "field_source": "1926",
+        "title_2": "ДК з-да \"Оршастройматериалы \"",
+        "field_period": "2020",
+        "year": "2020",
+        "timestamp": "2025-03-30 01:49:11",
+        "substances": [
+            {
+                "name": "Нефть и нефтепродукты в растворенном и эмульгированном состоянии",
+                "substance_id": "15",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "100",
+                "soderz": "43.8"
+            },
+            {
+                "name": "сульфаты",
+                "substance_id": "64",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "160",
+                "soderz": "44.2"
+            },
+            {
+                "name": "Нитраты",
+                "substance_id": "65",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "130",
+                "soderz": "5.1"
+            },
+            {
+                "name": "Бенз(а)пирен",
+                "substance_id": "183",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "0.02",
+                "soderz": "-"
+            },
+            {
+                "name": "кадмий(Cd)",
+                "substance_id": "67",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "0.5",
+                "soderz": "0.1"
+            },
+            {
+                "name": "цинк(Zn)",
+                "substance_id": "68",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "55",
+                "soderz": "31.7"
+            },
+            {
+                "name": "свинец(Pb)",
+                "substance_id": "69",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "32",
+                "soderz": "6.1"
+            },
+            {
+                "name": "медь(Cu)",
+                "substance_id": "70",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "33",
+                "soderz": "3.0"
+            },
+            {
+                "name": "никель(Ni)",
+                "substance_id": "71",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "20",
+                "soderz": "2.7"
+            },
+            {
+                "name": "Хром",
+                "substance_id": "31",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "100",
+                "soderz": "10.0"
+            },
+            {
+                "name": "Ртуть",
+                "substance_id": "72",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "2.1",
+                "soderz": "<0.01"
+            },
+            {
+                "name": "Мышьяк",
+                "substance_id": "73",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "2",
+                "soderz": "3.0"
+            },
+            {
+                "name": "хлориды",
+                "substance_id": "74",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "360",
+                "soderz": "51.1"
+            },
+            {
+                "name": "ПХД",
+                "substance_id": "75",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "0.02",
+                "soderz": "-"
+            },
+            {
+                "name": "ph",
+                "substance_id": "76",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "-",
+                "soderz": "7.56"
+            }
+        ]
+    },
+    {
+        "title": "1857-1927",
+        "Nid": "2002",
+        "field_geo_point": "1857",
+        "title_1": "ул. 1-го Мая, у лесоторговой базы",
+        "field_source": "1927",
+        "title_2": "ул. 1-го Мая, у лесоторговой базы",
+        "field_period": "2020",
+        "year": "2020",
+        "timestamp": "2025-03-30 01:49:11",
+        "substances": [
+            {
+                "name": "Нефть и нефтепродукты в растворенном и эмульгированном состоянии",
+                "substance_id": "15",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "100",
+                "soderz": "62.0"
+            },
+            {
+                "name": "сульфаты",
+                "substance_id": "64",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "160",
+                "soderz": "37.0"
+            },
+            {
+                "name": "Нитраты",
+                "substance_id": "65",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "130",
+                "soderz": "15.9"
+            },
+            {
+                "name": "Бенз(а)пирен",
+                "substance_id": "183",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "0.02",
+                "soderz": "-"
+            },
+            {
+                "name": "кадмий(Cd)",
+                "substance_id": "67",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "0.5",
+                "soderz": "0.1"
+            },
+            {
+                "name": "цинк(Zn)",
+                "substance_id": "68",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "55",
+                "soderz": "44.3"
+            },
+            {
+                "name": "свинец(Pb)",
+                "substance_id": "69",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "32",
+                "soderz": "9.8"
+            },
+            {
+                "name": "медь(Cu)",
+                "substance_id": "70",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "33",
+                "soderz": "4.3"
+            },
+            {
+                "name": "никель(Ni)",
+                "substance_id": "71",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "20",
+                "soderz": "3.3"
+            },
+            {
+                "name": "Хром",
+                "substance_id": "31",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "100",
+                "soderz": "5.9"
+            },
+            {
+                "name": "Ртуть",
+                "substance_id": "72",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "2.1",
+                "soderz": "0.1"
+            },
+            {
+                "name": "Мышьяк",
+                "substance_id": "73",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "2",
+                "soderz": "2.8"
+            },
+            {
+                "name": "хлориды",
+                "substance_id": "74",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "360",
+                "soderz": "46.9"
+            },
+            {
+                "name": "ПХД",
+                "substance_id": "75",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "0.02",
+                "soderz": "-"
+            },
+            {
+                "name": "ph",
+                "substance_id": "76",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "-",
+                "soderz": "6.94"
+            }
+        ]
+    },
+    {
+        "title": "1858-1928",
+        "Nid": "2003",
+        "field_geo_point": "1858",
+        "title_1": "ул. 1-го Мая, автошкола, автодром",
+        "field_source": "1928",
+        "title_2": "ул. 1-го Мая, автошкола, автодром",
+        "field_period": "2020",
+        "year": "2020",
+        "timestamp": "2025-03-30 01:49:11",
+        "substances": [
+            {
+                "name": "Нефть и нефтепродукты в растворенном и эмульгированном состоянии",
+                "substance_id": "15",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "100",
+                "soderz": "44.3"
+            },
+            {
+                "name": "сульфаты",
+                "substance_id": "64",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "160",
+                "soderz": "55.2"
+            },
+            {
+                "name": "Нитраты",
+                "substance_id": "65",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "130",
+                "soderz": "11.2"
+            },
+            {
+                "name": "Бенз(а)пирен",
+                "substance_id": "183",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "0.02",
+                "soderz": "-"
+            },
+            {
+                "name": "кадмий(Cd)",
+                "substance_id": "67",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "0.5",
+                "soderz": "0.1"
+            },
+            {
+                "name": "цинк(Zn)",
+                "substance_id": "68",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "55",
+                "soderz": "2.5"
+            },
+            {
+                "name": "свинец(Pb)",
+                "substance_id": "69",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "32",
+                "soderz": "92.6"
+            },
+            {
+                "name": "медь(Cu)",
+                "substance_id": "70",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "33",
+                "soderz": "22.2"
+            },
+            {
+                "name": "никель(Ni)",
+                "substance_id": "71",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "20",
+                "soderz": "14.1"
+            },
+            {
+                "name": "Хром",
+                "substance_id": "31",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "100",
+                "soderz": "42.4"
+            },
+            {
+                "name": "Ртуть",
+                "substance_id": "72",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "2.1",
+                "soderz": "<0.01"
+            },
+            {
+                "name": "Мышьяк",
+                "substance_id": "73",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "2",
+                "soderz": "4.5"
+            },
+            {
+                "name": "хлориды",
+                "substance_id": "74",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "360",
+                "soderz": "58.9"
+            },
+            {
+                "name": "ПХД",
+                "substance_id": "75",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "0.02",
+                "soderz": "-"
+            },
+            {
+                "name": "ph",
+                "substance_id": "76",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "-",
+                "soderz": "7.45"
+            }
+        ]
+    },
+    {
+        "title": "1859-1929",
+        "Nid": "2005",
+        "field_geo_point": "1859",
+        "title_1": "пер. 5-й Пригородный, 6",
+        "field_source": "1929",
+        "title_2": "пер. 5-й Пригородный, 6",
+        "field_period": "2020",
+        "year": "2020",
+        "timestamp": "2025-03-30 01:49:11",
+        "substances": [
+            {
+                "name": "Нефть и нефтепродукты в растворенном и эмульгированном состоянии",
+                "substance_id": "15",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "100",
+                "soderz": "60.8"
+            },
+            {
+                "name": "сульфаты",
+                "substance_id": "64",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "160",
+                "soderz": "62.4"
+            },
+            {
+                "name": "Нитраты",
+                "substance_id": "65",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "130",
+                "soderz": "2.8"
+            },
+            {
+                "name": "Бенз(а)пирен",
+                "substance_id": "183",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "0.02",
+                "soderz": "-"
+            },
+            {
+                "name": "кадмий(Cd)",
+                "substance_id": "67",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "0.5",
+                "soderz": "0.1"
+            },
+            {
+                "name": "цинк(Zn)",
+                "substance_id": "68",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "55",
+                "soderz": "31.6"
+            },
+            {
+                "name": "свинец(Pb)",
+                "substance_id": "69",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "32",
+                "soderz": "8.1"
+            },
+            {
+                "name": "медь(Cu)",
+                "substance_id": "70",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "33",
+                "soderz": "3.5"
+            },
+            {
+                "name": "никель(Ni)",
+                "substance_id": "71",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "20",
+                "soderz": "4.7"
+            },
+            {
+                "name": "Хром",
+                "substance_id": "31",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "100",
+                "soderz": "6.8"
+            },
+            {
+                "name": "Ртуть",
+                "substance_id": "72",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "2.1",
+                "soderz": "0.0"
+            },
+            {
+                "name": "Мышьяк",
+                "substance_id": "73",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "2",
+                "soderz": "2.2"
+            },
+            {
+                "name": "хлориды",
+                "substance_id": "74",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "360",
+                "soderz": "47.9"
+            },
+            {
+                "name": "ПХД",
+                "substance_id": "75",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "0.02",
+                "soderz": "-"
+            },
+            {
+                "name": "ph",
+                "substance_id": "76",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "-",
+                "soderz": "7.28"
+            }
+        ]
+    },
+    {
+        "title": "1860-1930",
+        "Nid": "2006",
+        "field_geo_point": "1860",
+        "title_1": "ул. Шевченко, берег р. Днепр",
+        "field_source": "1930",
+        "title_2": "ул. Шевченко, берег р. Днепр",
+        "field_period": "2020",
+        "year": "2020",
+        "timestamp": "2025-03-30 01:49:11",
+        "substances": [
+            {
+                "name": "Нефть и нефтепродукты в растворенном и эмульгированном состоянии",
+                "substance_id": "15",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "100",
+                "soderz": "70.6"
+            },
+            {
+                "name": "сульфаты",
+                "substance_id": "64",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "160",
+                "soderz": "59.1"
+            },
+            {
+                "name": "Нитраты",
+                "substance_id": "65",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "130",
+                "soderz": "7.9"
+            },
+            {
+                "name": "Бенз(а)пирен",
+                "substance_id": "183",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "0.02",
+                "soderz": "-"
+            },
+            {
+                "name": "кадмий(Cd)",
+                "substance_id": "67",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "0.5",
+                "soderz": "0.1"
+            },
+            {
+                "name": "цинк(Zn)",
+                "substance_id": "68",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "55",
+                "soderz": "117.2"
+            },
+            {
+                "name": "свинец(Pb)",
+                "substance_id": "69",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "32",
+                "soderz": "17.4"
+            },
+            {
+                "name": "медь(Cu)",
+                "substance_id": "70",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "33",
+                "soderz": "15.0"
+            },
+            {
+                "name": "никель(Ni)",
+                "substance_id": "71",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "20",
+                "soderz": "5.9"
+            },
+            {
+                "name": "Хром",
+                "substance_id": "31",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "100",
+                "soderz": "15.4"
+            },
+            {
+                "name": "Ртуть",
+                "substance_id": "72",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "2.1",
+                "soderz": "0.0"
+            },
+            {
+                "name": "Мышьяк",
+                "substance_id": "73",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "2",
+                "soderz": "5.5"
+            },
+            {
+                "name": "хлориды",
+                "substance_id": "74",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "360",
+                "soderz": "56.1"
+            },
+            {
+                "name": "ПХД",
+                "substance_id": "75",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "0.02",
+                "soderz": "-"
+            },
+            {
+                "name": "ph",
+                "substance_id": "76",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "-",
+                "soderz": "7.63"
+            }
+        ]
+    },
+    {
+        "title": "1861-1931",
+        "Nid": "2007",
+        "field_geo_point": "1861",
+        "title_1": "ул. Белинского, Геологопоисковая партия",
+        "field_source": "1931",
+        "title_2": "ул. Белинского, Геологопоисковая партия",
+        "field_period": "2020",
+        "year": "2020",
+        "timestamp": "2025-03-30 01:49:11",
+        "substances": [
+            {
+                "name": "Нефть и нефтепродукты в растворенном и эмульгированном состоянии",
+                "substance_id": "15",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "100",
+                "soderz": "262.0"
+            },
+            {
+                "name": "сульфаты",
+                "substance_id": "64",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "160",
+                "soderz": "66.3"
+            },
+            {
+                "name": "Нитраты",
+                "substance_id": "65",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "130",
+                "soderz": "<2.8"
+            },
+            {
+                "name": "Бенз(а)пирен",
+                "substance_id": "183",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "0.02",
+                "soderz": "0.011"
+            },
+            {
+                "name": "кадмий(Cd)",
+                "substance_id": "67",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "0.5",
+                "soderz": "0.1"
+            },
+            {
+                "name": "цинк(Zn)",
+                "substance_id": "68",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "55",
+                "soderz": "38.0"
+            },
+            {
+                "name": "свинец(Pb)",
+                "substance_id": "69",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "32",
+                "soderz": "8.8"
+            },
+            {
+                "name": "медь(Cu)",
+                "substance_id": "70",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "33",
+                "soderz": "5.0"
+            },
+            {
+                "name": "никель(Ni)",
+                "substance_id": "71",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "20",
+                "soderz": "3.0"
+            },
+            {
+                "name": "Хром",
+                "substance_id": "31",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "100",
+                "soderz": "8.6"
+            },
+            {
+                "name": "Ртуть",
+                "substance_id": "72",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "2.1",
+                "soderz": "0.1"
+            },
+            {
+                "name": "Мышьяк",
+                "substance_id": "73",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "2",
+                "soderz": "2.3"
+            },
+            {
+                "name": "хлориды",
+                "substance_id": "74",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "360",
+                "soderz": "99.8"
+            },
+            {
+                "name": "ПХД",
+                "substance_id": "75",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "0.02",
+                "soderz": "<0.0001"
+            },
+            {
+                "name": "ph",
+                "substance_id": "76",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "-",
+                "soderz": "7.46"
+            }
+        ]
+    },
+    {
+        "title": "1862-1932",
+        "Nid": "2009",
+        "field_geo_point": "1862",
+        "title_1": "ул. Ленина, сквер у медучилища",
+        "field_source": "1932",
+        "title_2": "ул. Ленина, сквер у медучилища",
+        "field_period": "2020",
+        "year": "2020",
+        "timestamp": "2025-03-30 01:49:11",
+        "substances": [
+            {
+                "name": "Нефть и нефтепродукты в растворенном и эмульгированном состоянии",
+                "substance_id": "15",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "100",
+                "soderz": "40.1"
+            },
+            {
+                "name": "сульфаты",
+                "substance_id": "64",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "160",
+                "soderz": "33.1"
+            },
+            {
+                "name": "Нитраты",
+                "substance_id": "65",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "130",
+                "soderz": "13.2"
+            },
+            {
+                "name": "Бенз(а)пирен",
+                "substance_id": "183",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "0.02",
+                "soderz": "-"
+            },
+            {
+                "name": "кадмий(Cd)",
+                "substance_id": "67",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "0.5",
+                "soderz": "0.1"
+            },
+            {
+                "name": "цинк(Zn)",
+                "substance_id": "68",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "55",
+                "soderz": "38.3"
+            },
+            {
+                "name": "свинец(Pb)",
+                "substance_id": "69",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "32",
+                "soderz": "8.7"
+            },
+            {
+                "name": "медь(Cu)",
+                "substance_id": "70",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "33",
+                "soderz": "5.0"
+            },
+            {
+                "name": "никель(Ni)",
+                "substance_id": "71",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "20",
+                "soderz": "3.3"
+            },
+            {
+                "name": "Хром",
+                "substance_id": "31",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "100",
+                "soderz": "9.8"
+            },
+            {
+                "name": "Ртуть",
+                "substance_id": "72",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "2.1",
+                "soderz": "0.1"
+            },
+            {
+                "name": "Мышьяк",
+                "substance_id": "73",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "2",
+                "soderz": "2.5"
+            },
+            {
+                "name": "хлориды",
+                "substance_id": "74",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "360",
+                "soderz": "81.3"
+            },
+            {
+                "name": "ПХД",
+                "substance_id": "75",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "0.02",
+                "soderz": "-"
+            },
+            {
+                "name": "ph",
+                "substance_id": "76",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "-",
+                "soderz": "6.88"
+            }
+        ]
+    },
+    {
+        "title": "1863-1933",
+        "Nid": "2010",
+        "field_geo_point": "1863",
+        "title_1": "р-н Кобыляки, ветстанция",
+        "field_source": "1933",
+        "title_2": "р-н Кобыляки, ветстанция",
+        "field_period": "2020",
+        "year": "2020",
+        "timestamp": "2025-03-30 01:49:11",
+        "substances": [
+            {
+                "name": "Нефть и нефтепродукты в растворенном и эмульгированном состоянии",
+                "substance_id": "15",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "100",
+                "soderz": "100"
+            },
+            {
+                "name": "сульфаты",
+                "substance_id": "64",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "160",
+                "soderz": "160"
+            },
+            {
+                "name": "Нитраты",
+                "substance_id": "65",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "130",
+                "soderz": "130"
+            },
+            {
+                "name": "Бенз(а)пирен",
+                "substance_id": "183",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "0.02",
+                "soderz": "0.02"
+            },
+            {
+                "name": "кадмий(Cd)",
+                "substance_id": "67",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "0.5",
+                "soderz": "0.5"
+            },
+            {
+                "name": "цинк(Zn)",
+                "substance_id": "68",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "55",
+                "soderz": "55"
+            },
+            {
+                "name": "свинец(Pb)",
+                "substance_id": "69",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "32",
+                "soderz": "32"
+            },
+            {
+                "name": "медь(Cu)",
+                "substance_id": "70",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "33",
+                "soderz": "33"
+            },
+            {
+                "name": "никель(Ni)",
+                "substance_id": "71",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "20",
+                "soderz": "20"
+            },
+            {
+                "name": "Хром",
+                "substance_id": "31",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "100",
+                "soderz": "100"
+            },
+            {
+                "name": "Ртуть",
+                "substance_id": "72",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "2.1",
+                "soderz": "2.1"
+            },
+            {
+                "name": "Мышьяк",
+                "substance_id": "73",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "2",
+                "soderz": "2"
+            },
+            {
+                "name": "хлориды",
+                "substance_id": "74",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "360",
+                "soderz": "360"
+            },
+            {
+                "name": "ПХД",
+                "substance_id": "75",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "0.02",
+                "soderz": "0.02"
+            },
+            {
+                "name": "ph",
+                "substance_id": "76",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "-",
+                "soderz": "7.67"
+            }
+        ]
+    },
+    {
+        "title": "1864-1934",
+        "Nid": "2012",
+        "field_geo_point": "1864",
+        "title_1": "у ДК з-да \" Легмаш \"",
+        "field_source": "1934",
+        "title_2": "у ДК з-да \" Легмаш \"",
+        "field_period": "2020",
+        "year": "2020",
+        "timestamp": "2025-03-30 01:49:11",
+        "substances": [
+            {
+                "name": "Нефть и нефтепродукты в растворенном и эмульгированном состоянии",
+                "substance_id": "15",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "100",
+                "soderz": "69.8"
+            },
+            {
+                "name": "сульфаты",
+                "substance_id": "64",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "160",
+                "soderz": "59.1"
+            },
+            {
+                "name": "Нитраты",
+                "substance_id": "65",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "130",
+                "soderz": "<2.8"
+            },
+            {
+                "name": "Бенз(а)пирен",
+                "substance_id": "183",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "0.02",
+                "soderz": "-"
+            },
+            {
+                "name": "кадмий(Cd)",
+                "substance_id": "67",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "0.5",
+                "soderz": "0.1"
+            },
+            {
+                "name": "цинк(Zn)",
+                "substance_id": "68",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "55",
+                "soderz": "52.4"
+            },
+            {
+                "name": "свинец(Pb)",
+                "substance_id": "69",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "32",
+                "soderz": "7.5"
+            },
+            {
+                "name": "медь(Cu)",
+                "substance_id": "70",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "33",
+                "soderz": "1.9"
+            },
+            {
+                "name": "никель(Ni)",
+                "substance_id": "71",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "20",
+                "soderz": "5.0"
+            },
+            {
+                "name": "Хром",
+                "substance_id": "31",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "100",
+                "soderz": "5.4"
+            },
+            {
+                "name": "Ртуть",
+                "substance_id": "72",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "2.1",
+                "soderz": "0.1"
+            },
+            {
+                "name": "Мышьяк",
+                "substance_id": "73",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "2",
+                "soderz": "1.9"
+            },
+            {
+                "name": "хлориды",
+                "substance_id": "74",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "360",
+                "soderz": "55.0"
+            },
+            {
+                "name": "ПХД",
+                "substance_id": "75",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "0.02",
+                "soderz": "-"
+            },
+            {
+                "name": "ph",
+                "substance_id": "76",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "-",
+                "soderz": "7.02"
+            }
+        ]
+    },
+    {
+        "title": "1865-1935",
+        "Nid": "2013",
+        "field_geo_point": "1865",
+        "title_1": "ул. Локомотивная,19, ЛЭП",
+        "field_source": "1935",
+        "title_2": "ул. Локомотивная,19, ЛЭП",
+        "field_period": "2020",
+        "year": "2020",
+        "timestamp": "2025-03-30 01:49:11",
+        "substances": [
+            {
+                "name": "Нефть и нефтепродукты в растворенном и эмульгированном состоянии",
+                "substance_id": "15",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "100",
+                "soderz": "45.5"
+            },
+            {
+                "name": "сульфаты",
+                "substance_id": "64",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "160",
+                "soderz": "150.8"
+            },
+            {
+                "name": "Нитраты",
+                "substance_id": "65",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "130",
+                "soderz": "8.7"
+            },
+            {
+                "name": "Бенз(а)пирен",
+                "substance_id": "183",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "0.02",
+                "soderz": "-"
+            },
+            {
+                "name": "кадмий(Cd)",
+                "substance_id": "67",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "0.5",
+                "soderz": "0.2"
+            },
+            {
+                "name": "цинк(Zn)",
+                "substance_id": "68",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "55",
+                "soderz": "36.7"
+            },
+            {
+                "name": "свинец(Pb)",
+                "substance_id": "69",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "32",
+                "soderz": "5.8"
+            },
+            {
+                "name": "медь(Cu)",
+                "substance_id": "70",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "33",
+                "soderz": "12.2"
+            },
+            {
+                "name": "никель(Ni)",
+                "substance_id": "71",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "20",
+                "soderz": "3.3"
+            },
+            {
+                "name": "Хром",
+                "substance_id": "31",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "100",
+                "soderz": "11.6"
+            },
+            {
+                "name": "Ртуть",
+                "substance_id": "72",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "2.1",
+                "soderz": "0.1"
+            },
+            {
+                "name": "Мышьяк",
+                "substance_id": "73",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "2",
+                "soderz": "5.9"
+            },
+            {
+                "name": "хлориды",
+                "substance_id": "74",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "360",
+                "soderz": "53.6"
+            },
+            {
+                "name": "ПХД",
+                "substance_id": "75",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "0.02",
+                "soderz": "-"
+            },
+            {
+                "name": "ph",
+                "substance_id": "76",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "-",
+                "soderz": "7.62"
+            }
+        ]
+    },
+    {
+        "title": "1866-1936",
+        "Nid": "2014",
+        "field_geo_point": "1866",
+        "title_1": "ул. Колоса, 21, дет.сад",
+        "field_source": "1936",
+        "title_2": "ул. Колоса, 21, дет.сад",
+        "field_period": "2020",
+        "year": "2020",
+        "timestamp": "2025-03-30 01:49:11",
+        "substances": [
+            {
+                "name": "Нефть и нефтепродукты в растворенном и эмульгированном состоянии",
+                "substance_id": "15",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "100",
+                "soderz": "29.5"
+            },
+            {
+                "name": "сульфаты",
+                "substance_id": "64",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "160",
+                "soderz": "135.9"
+            },
+            {
+                "name": "Нитраты",
+                "substance_id": "65",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "130",
+                "soderz": "<2.8"
+            },
+            {
+                "name": "Бенз(а)пирен",
+                "substance_id": "183",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "0.02",
+                "soderz": "-"
+            },
+            {
+                "name": "кадмий(Cd)",
+                "substance_id": "67",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "0.5",
+                "soderz": "0.1"
+            },
+            {
+                "name": "цинк(Zn)",
+                "substance_id": "68",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "55",
+                "soderz": "20.9"
+            },
+            {
+                "name": "свинец(Pb)",
+                "substance_id": "69",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "32",
+                "soderz": "3.6"
+            },
+            {
+                "name": "медь(Cu)",
+                "substance_id": "70",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "33",
+                "soderz": "4.8"
+            },
+            {
+                "name": "никель(Ni)",
+                "substance_id": "71",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "20",
+                "soderz": "2.9"
+            },
+            {
+                "name": "Хром",
+                "substance_id": "31",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "100",
+                "soderz": "10.3"
+            },
+            {
+                "name": "Ртуть",
+                "substance_id": "72",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "2.1",
+                "soderz": "0.3"
+            },
+            {
+                "name": "Мышьяк",
+                "substance_id": "73",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "2",
+                "soderz": "3.4"
+            },
+            {
+                "name": "хлориды",
+                "substance_id": "74",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "360",
+                "soderz": "134.5"
+            },
+            {
+                "name": "ПХД",
+                "substance_id": "75",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "0.02",
+                "soderz": "-"
+            },
+            {
+                "name": "ph",
+                "substance_id": "76",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "-",
+                "soderz": "7.73"
+            }
+        ]
+    },
+    {
+        "title": "1867-1937",
+        "Nid": "2015",
+        "field_geo_point": "1867",
+        "title_1": "ул. Соболя, 2",
+        "field_source": "1937",
+        "title_2": "ул. Соболя, 2",
+        "field_period": "2020",
+        "year": "2020",
+        "timestamp": "2025-03-30 01:49:11",
+        "substances": [
+            {
+                "name": "Нефть и нефтепродукты в растворенном и эмульгированном состоянии",
+                "substance_id": "15",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "100",
+                "soderz": "115.0"
+            },
+            {
+                "name": "сульфаты",
+                "substance_id": "64",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "160",
+                "soderz": "55.2"
+            },
+            {
+                "name": "Нитраты",
+                "substance_id": "65",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "130",
+                "soderz": "4.6"
+            },
+            {
+                "name": "Бенз(а)пирен",
+                "substance_id": "183",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "0.02",
+                "soderz": "-"
+            },
+            {
+                "name": "кадмий(Cd)",
+                "substance_id": "67",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "0.5",
+                "soderz": "0.1"
+            },
+            {
+                "name": "цинк(Zn)",
+                "substance_id": "68",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "55",
+                "soderz": "62.7"
+            },
+            {
+                "name": "свинец(Pb)",
+                "substance_id": "69",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "32",
+                "soderz": "119.1"
+            },
+            {
+                "name": "медь(Cu)",
+                "substance_id": "70",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "33",
+                "soderz": "72.8"
+            },
+            {
+                "name": "никель(Ni)",
+                "substance_id": "71",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "20",
+                "soderz": "4.3"
+            },
+            {
+                "name": "Хром",
+                "substance_id": "31",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "100",
+                "soderz": "3.5"
+            },
+            {
+                "name": "Ртуть",
+                "substance_id": "72",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "2.1",
+                "soderz": "0.0"
+            },
+            {
+                "name": "Мышьяк",
+                "substance_id": "73",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "2",
+                "soderz": "5.9"
+            },
+            {
+                "name": "хлориды",
+                "substance_id": "74",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "360",
+                "soderz": "<45.8"
+            },
+            {
+                "name": "ПХД",
+                "substance_id": "75",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "0.02",
+                "soderz": "-"
+            },
+            {
+                "name": "ph",
+                "substance_id": "76",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "-",
+                "soderz": "7.78"
+            }
+        ]
+    },
+    {
+        "title": "1868-1938",
+        "Nid": "2018",
+        "field_geo_point": "1868",
+        "title_1": "ул. Заслонова, сквер у ДК “Железнодорожников”",
+        "field_source": "1938",
+        "title_2": "ул. Заслонова, сквер у ДК “Железнодорожников”",
+        "field_period": "2020",
+        "year": "2020",
+        "timestamp": "2025-03-30 01:49:11",
+        "substances": [
+            {
+                "name": "Нефть и нефтепродукты в растворенном и эмульгированном состоянии",
+                "substance_id": "15",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "100",
+                "soderz": "92.0"
+            },
+            {
+                "name": "сульфаты",
+                "substance_id": "64",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "160",
+                "soderz": "48.0"
+            },
+            {
+                "name": "Нитраты",
+                "substance_id": "65",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "130",
+                "soderz": "<2.8"
+            },
+            {
+                "name": "Бенз(а)пирен",
+                "substance_id": "183",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "0.02",
+                "soderz": "0.017"
+            },
+            {
+                "name": "кадмий(Cd)",
+                "substance_id": "67",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "0.5",
+                "soderz": "0.1"
+            },
+            {
+                "name": "цинк(Zn)",
+                "substance_id": "68",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "55",
+                "soderz": "44.5"
+            },
+            {
+                "name": "свинец(Pb)",
+                "substance_id": "69",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "32",
+                "soderz": "7.7"
+            },
+            {
+                "name": "медь(Cu)",
+                "substance_id": "70",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "33",
+                "soderz": "1.9"
+            },
+            {
+                "name": "никель(Ni)",
+                "substance_id": "71",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "20",
+                "soderz": "4.8"
+            },
+            {
+                "name": "Хром",
+                "substance_id": "31",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "100",
+                "soderz": "5.7"
+            },
+            {
+                "name": "Ртуть",
+                "substance_id": "72",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "2.1",
+                "soderz": "0.1"
+            },
+            {
+                "name": "Мышьяк",
+                "substance_id": "73",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "2",
+                "soderz": "3.1"
+            },
+            {
+                "name": "хлориды",
+                "substance_id": "74",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "360",
+                "soderz": "49.0"
+            },
+            {
+                "name": "ПХД",
+                "substance_id": "75",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "0.02",
+                "soderz": "<0.0001"
+            },
+            {
+                "name": "ph",
+                "substance_id": "76",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "-",
+                "soderz": "7.04"
+            }
+        ]
+    },
+    {
+        "title": "1869-1939",
+        "Nid": "2020",
+        "field_geo_point": "1869",
+        "title_1": "ул. Инженерная, у бани",
+        "field_source": "1939",
+        "title_2": "ул. Инженерная, у бани",
+        "field_period": "2020",
+        "year": "2020",
+        "timestamp": "2025-03-30 01:49:11",
+        "substances": [
+            {
+                "name": "Нефть и нефтепродукты в растворенном и эмульгированном состоянии",
+                "substance_id": "15",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "100",
+                "soderz": "59.0"
+            },
+            {
+                "name": "сульфаты",
+                "substance_id": "64",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "160",
+                "soderz": "37.0"
+            },
+            {
+                "name": "Нитраты",
+                "substance_id": "65",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "130",
+                "soderz": "<2.8"
+            },
+            {
+                "name": "Бенз(а)пирен",
+                "substance_id": "183",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "0.02",
+                "soderz": "-"
+            },
+            {
+                "name": "кадмий(Cd)",
+                "substance_id": "67",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "0.5",
+                "soderz": "0.1"
+            },
+            {
+                "name": "цинк(Zn)",
+                "substance_id": "68",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "55",
+                "soderz": "41.6"
+            },
+            {
+                "name": "свинец(Pb)",
+                "substance_id": "69",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "32",
+                "soderz": "7.4"
+            },
+            {
+                "name": "медь(Cu)",
+                "substance_id": "70",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "33",
+                "soderz": "3.0"
+            },
+            {
+                "name": "никель(Ni)",
+                "substance_id": "71",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "20",
+                "soderz": "4.9"
+            },
+            {
+                "name": "Хром",
+                "substance_id": "31",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "100",
+                "soderz": "5.0"
+            },
+            {
+                "name": "Ртуть",
+                "substance_id": "72",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "2.1",
+                "soderz": "0.1"
+            },
+            {
+                "name": "Мышьяк",
+                "substance_id": "73",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "2",
+                "soderz": "6.7"
+            },
+            {
+                "name": "хлориды",
+                "substance_id": "74",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "360",
+                "soderz": "61.4"
+            },
+            {
+                "name": "ПХД",
+                "substance_id": "75",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "0.02",
+                "soderz": "-"
+            },
+            {
+                "name": "ph",
+                "substance_id": "76",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "-",
+                "soderz": "6.05"
+            }
+        ]
+    },
+    {
+        "title": "1870-1940",
+        "Nid": "2022",
+        "field_geo_point": "1870",
+        "title_1": "вблизи контейнерной базы",
+        "field_source": "1940",
+        "title_2": "вблизи контейнерной базы",
+        "field_period": "2020",
+        "year": "2020",
+        "timestamp": "2025-03-30 01:49:11",
+        "substances": [
+            {
+                "name": "Нефть и нефтепродукты в растворенном и эмульгированном состоянии",
+                "substance_id": "15",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "100",
+                "soderz": "112.0"
+            },
+            {
+                "name": "сульфаты",
+                "substance_id": "64",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "160",
+                "soderz": "117.7"
+            },
+            {
+                "name": "Нитраты",
+                "substance_id": "65",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "130",
+                "soderz": "8.1"
+            },
+            {
+                "name": "Бенз(а)пирен",
+                "substance_id": "183",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "0.02",
+                "soderz": "-"
+            },
+            {
+                "name": "кадмий(Cd)",
+                "substance_id": "67",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "0.5",
+                "soderz": "0.1"
+            },
+            {
+                "name": "цинк(Zn)",
+                "substance_id": "68",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "55",
+                "soderz": "40.6"
+            },
+            {
+                "name": "свинец(Pb)",
+                "substance_id": "69",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "32",
+                "soderz": "10.3"
+            },
+            {
+                "name": "медь(Cu)",
+                "substance_id": "70",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "33",
+                "soderz": "27.2"
+            },
+            {
+                "name": "никель(Ni)",
+                "substance_id": "71",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "20",
+                "soderz": "4.1"
+            },
+            {
+                "name": "Хром",
+                "substance_id": "31",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "100",
+                "soderz": "69.3"
+            },
+            {
+                "name": "Ртуть",
+                "substance_id": "72",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "2.1",
+                "soderz": "0.0"
+            },
+            {
+                "name": "Мышьяк",
+                "substance_id": "73",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "2",
+                "soderz": "7.9"
+            },
+            {
+                "name": "хлориды",
+                "substance_id": "74",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "360",
+                "soderz": "90.9"
+            },
+            {
+                "name": "ПХД",
+                "substance_id": "75",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "0.02",
+                "soderz": "-"
+            },
+            {
+                "name": "ph",
+                "substance_id": "76",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "-",
+                "soderz": "7.98"
+            }
+        ]
+    },
+    {
+        "title": "1871-1941",
+        "Nid": "2024",
+        "field_geo_point": "1871",
+        "title_1": "сквер у механико-технологического техникума",
+        "field_source": "1941",
+        "title_2": "сквер у механико-технологического техникума",
+        "field_period": "2020",
+        "year": "2020",
+        "timestamp": "2025-03-30 01:49:11",
+        "substances": [
+            {
+                "name": "Нефть и нефтепродукты в растворенном и эмульгированном состоянии",
+                "substance_id": "15",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "100",
+                "soderz": "38.0"
+            },
+            {
+                "name": "сульфаты",
+                "substance_id": "64",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "160",
+                "soderz": "37.0"
+            },
+            {
+                "name": "Нитраты",
+                "substance_id": "65",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "130",
+                "soderz": "6.5"
+            },
+            {
+                "name": "Бенз(а)пирен",
+                "substance_id": "183",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "0.02",
+                "soderz": "-"
+            },
+            {
+                "name": "кадмий(Cd)",
+                "substance_id": "67",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "0.5",
+                "soderz": "0.1"
+            },
+            {
+                "name": "цинк(Zn)",
+                "substance_id": "68",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "55",
+                "soderz": "104.1"
+            },
+            {
+                "name": "свинец(Pb)",
+                "substance_id": "69",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "32",
+                "soderz": "12.0"
+            },
+            {
+                "name": "медь(Cu)",
+                "substance_id": "70",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "33",
+                "soderz": "30.6"
+            },
+            {
+                "name": "никель(Ni)",
+                "substance_id": "71",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "20",
+                "soderz": "4.3"
+            },
+            {
+                "name": "Хром",
+                "substance_id": "31",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "100",
+                "soderz": "45.5"
+            },
+            {
+                "name": "Ртуть",
+                "substance_id": "72",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "2.1",
+                "soderz": "0.0"
+            },
+            {
+                "name": "Мышьяк",
+                "substance_id": "73",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "2",
+                "soderz": "10.1"
+            },
+            {
+                "name": "хлориды",
+                "substance_id": "74",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "360",
+                "soderz": "66.0"
+            },
+            {
+                "name": "ПХД",
+                "substance_id": "75",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "0.02",
+                "soderz": "-"
+            },
+            {
+                "name": "ph",
+                "substance_id": "76",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "-",
+                "soderz": "7.15"
+            }
+        ]
+    },
+    {
+        "title": "1872-1942",
+        "Nid": "2025",
+        "field_geo_point": "1872",
+        "title_1": "пер. Октябрьский, у спорт. площадки\nГеографические координаты\n",
+        "field_source": "1942",
+        "title_2": "пер. Октябрьский, у спорт. площадки\nГеографические координаты\n",
+        "field_period": "2020",
+        "year": "2020",
+        "timestamp": "2025-03-30 01:49:11",
+        "substances": [
+            {
+                "name": "Нефть и нефтепродукты в растворенном и эмульгированном состоянии",
+                "substance_id": "15",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "100",
+                "soderz": "60.4"
+            },
+            {
+                "name": "сульфаты",
+                "substance_id": "64",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "160",
+                "soderz": "59.1"
+            },
+            {
+                "name": "Нитраты",
+                "substance_id": "65",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "130",
+                "soderz": "14.1"
+            },
+            {
+                "name": "Бенз(а)пирен",
+                "substance_id": "183",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "0.02",
+                "soderz": "0.019"
+            },
+            {
+                "name": "кадмий(Cd)",
+                "substance_id": "67",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "0.5",
+                "soderz": "0.2"
+            },
+            {
+                "name": "цинк(Zn)",
+                "substance_id": "68",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "55",
+                "soderz": "40.7"
+            },
+            {
+                "name": "свинец(Pb)",
+                "substance_id": "69",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "32",
+                "soderz": "15.2"
+            },
+            {
+                "name": "медь(Cu)",
+                "substance_id": "70",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "33",
+                "soderz": "19.2"
+            },
+            {
+                "name": "никель(Ni)",
+                "substance_id": "71",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "20",
+                "soderz": "3.8"
+            },
+            {
+                "name": "Хром",
+                "substance_id": "31",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "100",
+                "soderz": "12.3"
+            },
+            {
+                "name": "Ртуть",
+                "substance_id": "72",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "2.1",
+                "soderz": "0.1"
+            },
+            {
+                "name": "Мышьяк",
+                "substance_id": "73",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "2",
+                "soderz": "5.6"
+            },
+            {
+                "name": "хлориды",
+                "substance_id": "74",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "360",
+                "soderz": "47.9"
+            },
+            {
+                "name": "ПХД",
+                "substance_id": "75",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "0.02",
+                "soderz": "<0.0001"
+            },
+            {
+                "name": "ph",
+                "substance_id": "76",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "-",
+                "soderz": "7.33"
+            }
+        ]
+    },
+    {
+        "title": "1843-1913",
+        "Nid": "1985",
+        "field_geo_point": "1843",
+        "title_1": "ул. Красноармейская, сквер",
+        "field_source": "1913",
+        "title_2": "ул. Красноармейская, сквер",
+        "field_period": "2020",
+        "year": "2020",
+        "timestamp": "2025-03-30 01:49:11",
+        "substances": [
+            {
+                "name": "Нефть и нефтепродукты в растворенном и эмульгированном состоянии",
+                "substance_id": "15",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "100",
+                "soderz": "100.2"
+            },
+            {
+                "name": "сульфаты",
+                "substance_id": "64",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "160",
+                "soderz": "37"
+            },
+            {
+                "name": "Нитраты",
+                "substance_id": "65",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "130",
+                "soderz": "19.5"
+            },
+            {
+                "name": "Бенз(а)пирен",
+                "substance_id": "183",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "0.02",
+                "soderz": "-"
+            },
+            {
+                "name": "кадмий(Cd)",
+                "substance_id": "67",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "0.5",
+                "soderz": "0.13"
+            },
+            {
+                "name": "цинк(Zn)",
+                "substance_id": "68",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "55",
+                "soderz": "55.4"
+            },
+            {
+                "name": "свинец(Pb)",
+                "substance_id": "69",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "32",
+                "soderz": "11.7"
+            },
+            {
+                "name": "медь(Cu)",
+                "substance_id": "70",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "33",
+                "soderz": "20.8"
+            },
+            {
+                "name": "никель(Ni)",
+                "substance_id": "71",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "20",
+                "soderz": "5.8"
+            },
+            {
+                "name": "Хром",
+                "substance_id": "31",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "100",
+                "soderz": "13.4"
+            },
+            {
+                "name": "Ртуть",
+                "substance_id": "72",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "2.1",
+                "soderz": "0.23"
+            },
+            {
+                "name": "Мышьяк",
+                "substance_id": "73",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "-",
+                "soderz": "-"
+            },
+            {
+                "name": "хлориды",
+                "substance_id": "74",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "360",
+                "soderz": "102.2"
+            },
+            {
+                "name": "ПХД",
+                "substance_id": "75",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "0.02",
+                "soderz": "-"
+            },
+            {
+                "name": "ph",
+                "substance_id": "76",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "-",
+                "soderz": "7.54"
+            }
+        ]
+    },
+    {
+        "title": "1844-1914",
+        "Nid": "1981",
+        "field_geo_point": "1844",
+        "title_1": "ул. Шолохова, 31",
+        "field_source": "1914",
+        "title_2": "ул. Шолохова, 31",
+        "field_period": "2020",
+        "year": "2020",
+        "timestamp": "2025-03-30 01:49:11",
+        "substances": [
+            {
+                "name": "Нефть и нефтепродукты в растворенном и эмульгированном состоянии",
+                "substance_id": "15",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "100",
+                "soderz": "94.5"
+            },
+            {
+                "name": "сульфаты",
+                "substance_id": "64",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "160",
+                "soderz": "73.5"
+            },
+            {
+                "name": "Нитраты",
+                "substance_id": "65",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "1300",
+                "soderz": "21.4"
+            },
+            {
+                "name": "Бенз(а)пирен",
+                "substance_id": "183",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "0.02",
+                "soderz": "0.014"
+            },
+            {
+                "name": "кадмий(Cd)",
+                "substance_id": "67",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "0.5",
+                "soderz": "0.14"
+            },
+            {
+                "name": "цинк(Zn)",
+                "substance_id": "68",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "55",
+                "soderz": "59.5"
+            },
+            {
+                "name": "свинец(Pb)",
+                "substance_id": "69",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "32",
+                "soderz": "8.5"
+            },
+            {
+                "name": "медь(Cu)",
+                "substance_id": "70",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "33",
+                "soderz": "17.2"
+            },
+            {
+                "name": "никель(Ni)",
+                "substance_id": "71",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "20",
+                "soderz": "13.3"
+            },
+            {
+                "name": "Хром",
+                "substance_id": "31",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "100",
+                "soderz": "14.3"
+            },
+            {
+                "name": "Ртуть",
+                "substance_id": "72",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "2.1",
+                "soderz": "0.22"
+            },
+            {
+                "name": "Мышьяк",
+                "substance_id": "73",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "2",
+                "soderz": "6.9"
+            },
+            {
+                "name": "хлориды",
+                "substance_id": "74",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "360",
+                "soderz": "51.1"
+            },
+            {
+                "name": "ПХД",
+                "substance_id": "75",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "0.02",
+                "soderz": "<0.0001"
+            },
+            {
+                "name": "ph",
+                "substance_id": "76",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "-",
+                "soderz": "7.68"
+            }
+        ]
+    },
+    {
+        "title": "1845-1915",
+        "Nid": "1987",
+        "field_geo_point": "1845",
+        "title_1": "перекресток. пер. Цветочного и ул. Набережной",
+        "field_source": "1915",
+        "title_2": "перекресток. пер. Цветочного и ул. Набережной",
+        "field_period": "2020",
+        "year": "2020",
+        "timestamp": "2025-03-30 01:49:11",
+        "substances": [
+            {
+                "name": "Нефть и нефтепродукты в растворенном и эмульгированном состоянии",
+                "substance_id": "15",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "100",
+                "soderz": "107.5"
+            },
+            {
+                "name": "сульфаты",
+                "substance_id": "64",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "160",
+                "soderz": "110.5"
+            },
+            {
+                "name": "Нитраты",
+                "substance_id": "65",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "130",
+                "soderz": "10.0"
+            },
+            {
+                "name": "Бенз(а)пирен",
+                "substance_id": "183",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "0.02",
+                "soderz": "-"
+            },
+            {
+                "name": "кадмий(Cd)",
+                "substance_id": "67",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "0.5",
+                "soderz": "0.2"
+            },
+            {
+                "name": "цинк(Zn)",
+                "substance_id": "68",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "55",
+                "soderz": "141.1"
+            },
+            {
+                "name": "свинец(Pb)",
+                "substance_id": "69",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "32",
+                "soderz": "11.1"
+            },
+            {
+                "name": "медь(Cu)",
+                "substance_id": "70",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "33",
+                "soderz": "14.8"
+            },
+            {
+                "name": "никель(Ni)",
+                "substance_id": "71",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "20",
+                "soderz": "3.7"
+            },
+            {
+                "name": "Хром",
+                "substance_id": "31",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "100",
+                "soderz": "15.5"
+            },
+            {
+                "name": "Ртуть",
+                "substance_id": "72",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "2.1",
+                "soderz": "0.3"
+            },
+            {
+                "name": "Мышьяк",
+                "substance_id": "73",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "2",
+                "soderz": "7.9"
+            },
+            {
+                "name": "хлориды",
+                "substance_id": "74",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "360",
+                "soderz": "95.1"
+            },
+            {
+                "name": "ПХД",
+                "substance_id": "75",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "0.02",
+                "soderz": "-"
+            },
+            {
+                "name": "ph",
+                "substance_id": "76",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "-",
+                "soderz": "6.98"
+            }
+        ]
+    },
+    {
+        "title": "1846-1916",
+        "Nid": "1988",
+        "field_geo_point": "1846",
+        "title_1": "микрорайон Заднепровье, между детским домом и профилакторием",
+        "field_source": "1916",
+        "title_2": "микрорайон Заднепровье, между детским домом и профилакторием",
+        "field_period": "2020",
+        "year": "2020",
+        "timestamp": "2025-03-30 01:49:11",
+        "substances": [
+            {
+                "name": "Нефть и нефтепродукты в растворенном и эмульгированном состоянии",
+                "substance_id": "15",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "100",
+                "soderz": "97.3"
+            },
+            {
+                "name": "сульфаты",
+                "substance_id": "64",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "160",
+                "soderz": "59.1"
+            },
+            {
+                "name": "Нитраты",
+                "substance_id": "65",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "130",
+                "soderz": "12.0"
+            },
+            {
+                "name": "Бенз(а)пирен",
+                "substance_id": "183",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "0.02",
+                "soderz": "-"
+            },
+            {
+                "name": "кадмий(Cd)",
+                "substance_id": "67",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "0.5",
+                "soderz": "0.1"
+            },
+            {
+                "name": "цинк(Zn)",
+                "substance_id": "68",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "55",
+                "soderz": "57.1"
+            },
+            {
+                "name": "свинец(Pb)",
+                "substance_id": "69",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "32",
+                "soderz": "9.3"
+            },
+            {
+                "name": "медь(Cu)",
+                "substance_id": "70",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "33",
+                "soderz": "13.4"
+            },
+            {
+                "name": "никель(Ni)",
+                "substance_id": "71",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "20",
+                "soderz": "3.7"
+            },
+            {
+                "name": "Хром",
+                "substance_id": "31",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "100",
+                "soderz": "13.6"
+            },
+            {
+                "name": "Ртуть",
+                "substance_id": "72",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "2.1",
+                "soderz": "0.3"
+            },
+            {
+                "name": "Мышьяк",
+                "substance_id": "73",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "2",
+                "soderz": "8.4"
+            },
+            {
+                "name": "хлориды",
+                "substance_id": "74",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "360",
+                "soderz": "55.0"
+            },
+            {
+                "name": "ПХД",
+                "substance_id": "75",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "0.02",
+                "soderz": "-"
+            },
+            {
+                "name": "ph",
+                "substance_id": "76",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "-",
+                "soderz": "7.18"
+            }
+        ]
+    },
+    {
+        "title": "1847-1917",
+        "Nid": "1989",
+        "field_geo_point": "1847",
+        "title_1": "ул. Горецкая, 25",
+        "field_source": "1917",
+        "title_2": "ул. Горецкая, 25",
+        "field_period": "2020",
+        "year": "2020",
+        "timestamp": "2025-03-30 01:49:11",
+        "substances": [
+            {
+                "name": "Нефть и нефтепродукты в растворенном и эмульгированном состоянии",
+                "substance_id": "15",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "100",
+                "soderz": "20.9"
+            },
+            {
+                "name": "сульфаты",
+                "substance_id": "64",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "160",
+                "soderz": "102.8"
+            },
+            {
+                "name": "Нитраты",
+                "substance_id": "65",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "130",
+                "soderz": "7.1"
+            },
+            {
+                "name": "Бенз(а)пирен",
+                "substance_id": "183",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "0.02",
+                "soderz": "<0.01"
+            },
+            {
+                "name": "кадмий(Cd)",
+                "substance_id": "67",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "2.1",
+                "soderz": "<0.01"
+            },
+            {
+                "name": "цинк(Zn)",
+                "substance_id": "68",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "55",
+                "soderz": "37.2"
+            },
+            {
+                "name": "свинец(Pb)",
+                "substance_id": "69",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "32",
+                "soderz": "6.8"
+            },
+            {
+                "name": "медь(Cu)",
+                "substance_id": "70",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "33",
+                "soderz": "8.4"
+            },
+            {
+                "name": "никель(Ni)",
+                "substance_id": "71",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "20",
+                "soderz": "3.4"
+            },
+            {
+                "name": "Хром",
+                "substance_id": "31",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "100",
+                "soderz": "14.5"
+            },
+            {
+                "name": "Ртуть",
+                "substance_id": "72",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "2.1",
+                "soderz": "<0.01"
+            },
+            {
+                "name": "Мышьяк",
+                "substance_id": "73",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "2",
+                "soderz": "4.8"
+            },
+            {
+                "name": "хлориды",
+                "substance_id": "74",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "360",
+                "soderz": "60.0"
+            },
+            {
+                "name": "ПХД",
+                "substance_id": "75",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "0.02",
+                "soderz": "<0.0001"
+            },
+            {
+                "name": "ph",
+                "substance_id": "76",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "-",
+                "soderz": "7.65"
+            }
+        ]
+    },
+    {
+        "title": "1848-1918",
+        "Nid": "1990",
+        "field_geo_point": "1848",
+        "title_1": "пр. Текстильщиков, 5, сквер",
+        "field_source": "1918",
+        "title_2": "пр. Текстильщиков, 5, сквер",
+        "field_period": "2020",
+        "year": "2020",
+        "timestamp": "2025-03-30 01:49:11",
+        "substances": [
+            {
+                "name": "Нефть и нефтепродукты в растворенном и эмульгированном состоянии",
+                "substance_id": "15",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "100",
+                "soderz": "120.0"
+            },
+            {
+                "name": "сульфаты",
+                "substance_id": "64",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "160",
+                "soderz": "73.5"
+            },
+            {
+                "name": "Нитраты",
+                "substance_id": "65",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "130",
+                "soderz": "22.4"
+            },
+            {
+                "name": "Бенз(а)пирен",
+                "substance_id": "183",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "0.02",
+                "soderz": "-"
+            },
+            {
+                "name": "кадмий(Cd)",
+                "substance_id": "67",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "0.5",
+                "soderz": "0.2"
+            },
+            {
+                "name": "цинк(Zn)",
+                "substance_id": "68",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "55",
+                "soderz": "64.7"
+            },
+            {
+                "name": "свинец(Pb)",
+                "substance_id": "69",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "32",
+                "soderz": "22.8"
+            },
+            {
+                "name": "медь(Cu)",
+                "substance_id": "70",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "33",
+                "soderz": "70.0"
+            },
+            {
+                "name": "никель(Ni)",
+                "substance_id": "71",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "20",
+                "soderz": "15.2"
+            },
+            {
+                "name": "Хром",
+                "substance_id": "31",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "100",
+                "soderz": "13.8"
+            },
+            {
+                "name": "Ртуть",
+                "substance_id": "72",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "2.1",
+                "soderz": "0.2"
+            },
+            {
+                "name": "Мышьяк",
+                "substance_id": "73",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "2",
+                "soderz": "3.5"
+            },
+            {
+                "name": "хлориды",
+                "substance_id": "74",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "360",
+                "soderz": "<45.8"
+            },
+            {
+                "name": "ПХД",
+                "substance_id": "75",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "0.02",
+                "soderz": "-"
+            },
+            {
+                "name": "ph",
+                "substance_id": "76",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "-",
+                "soderz": "7.5"
+            }
+        ]
+    },
+    {
+        "title": "1849-1919",
+        "Nid": "1991",
+        "field_geo_point": "1849",
+        "title_1": "ул. Шкловская, 66",
+        "field_source": "1919",
+        "title_2": "ул. Шкловская, 66",
+        "field_period": "2020",
+        "year": "2020",
+        "timestamp": "2025-03-30 01:49:11",
+        "substances": [
+            {
+                "name": "Нефть и нефтепродукты в растворенном и эмульгированном состоянии",
+                "substance_id": "15",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "100",
+                "soderz": "26.3"
+            },
+            {
+                "name": "сульфаты",
+                "substance_id": "64",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "160",
+                "soderz": "59.1"
+            },
+            {
+                "name": "Нитраты",
+                "substance_id": "65",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "130",
+                "soderz": "7.6"
+            },
+            {
+                "name": "Бенз(а)пирен",
+                "substance_id": "183",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "0.02",
+                "soderz": "-"
+            },
+            {
+                "name": "кадмий(Cd)",
+                "substance_id": "67",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "0.5",
+                "soderz": "<0.01"
+            },
+            {
+                "name": "цинк(Zn)",
+                "substance_id": "68",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "55",
+                "soderz": "38.9"
+            },
+            {
+                "name": "свинец(Pb)",
+                "substance_id": "69",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "32",
+                "soderz": "7.4"
+            },
+            {
+                "name": "медь(Cu)",
+                "substance_id": "70",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "33",
+                "soderz": "2.7"
+            },
+            {
+                "name": "никель(Ni)",
+                "substance_id": "71",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "20",
+                "soderz": "5.3"
+            },
+            {
+                "name": "Хром",
+                "substance_id": "31",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "100",
+                "soderz": "5.2"
+            },
+            {
+                "name": "Ртуть",
+                "substance_id": "72",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "2.1",
+                "soderz": "<0.01"
+            },
+            {
+                "name": "Мышьяк",
+                "substance_id": "73",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "2",
+                "soderz": "4.7"
+            },
+            {
+                "name": "хлориды",
+                "substance_id": "74",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "360",
+                "soderz": "53.6"
+            },
+            {
+                "name": "ПХД",
+                "substance_id": "75",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "0.02",
+                "soderz": "-"
+            },
+            {
+                "name": "ph",
+                "substance_id": "76",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "-",
+                "soderz": "7.22"
+            }
+        ]
+    },
+    {
+        "title": "1850-1920",
+        "Nid": "1992",
+        "field_geo_point": "1850",
+        "title_1": "ул. Маркса, напротив библиотеки  им. Пушкина",
+        "field_source": "1920",
+        "title_2": "ул. Маркса, напротив библиотеки  им. Пушкина",
+        "field_period": "2020",
+        "year": "2020",
+        "timestamp": "2025-03-30 01:49:11",
+        "substances": [
+            {
+                "name": "Нефть и нефтепродукты в растворенном и эмульгированном состоянии",
+                "substance_id": "15",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "100",
+                "soderz": "122.8"
+            },
+            {
+                "name": "сульфаты",
+                "substance_id": "64",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "160",
+                "soderz": "51.4"
+            },
+            {
+                "name": "Нитраты",
+                "substance_id": "65",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "130",
+                "soderz": "30.2"
+            },
+            {
+                "name": "Бенз(а)пирен",
+                "substance_id": "183",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "0.02",
+                "soderz": "-"
+            },
+            {
+                "name": "кадмий(Cd)",
+                "substance_id": "67",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "0.5",
+                "soderz": "0.2"
+            },
+            {
+                "name": "цинк(Zn)",
+                "substance_id": "68",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "55",
+                "soderz": "53.1"
+            },
+            {
+                "name": "свинец(Pb)",
+                "substance_id": "69",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "32",
+                "soderz": "74.2"
+            },
+            {
+                "name": "медь(Cu)",
+                "substance_id": "70",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "33",
+                "soderz": "25.8"
+            },
+            {
+                "name": "никель(Ni)",
+                "substance_id": "71",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "20",
+                "soderz": "14.1"
+            },
+            {
+                "name": "Хром",
+                "substance_id": "31",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "100",
+                "soderz": "49.7"
+            },
+            {
+                "name": "Ртуть",
+                "substance_id": "72",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "2.1",
+                "soderz": "<0.01"
+            },
+            {
+                "name": "Мышьяк",
+                "substance_id": "73",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "2",
+                "soderz": "3.0"
+            },
+            {
+                "name": "хлориды",
+                "substance_id": "74",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "360",
+                "soderz": "93.0"
+            },
+            {
+                "name": "ПХД",
+                "substance_id": "75",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "0.02",
+                "soderz": "-"
+            },
+            {
+                "name": "ph",
+                "substance_id": "76",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "-",
+                "soderz": "7.6"
+            }
+        ]
+    },
+    {
+        "title": "1851-1921",
+        "Nid": "1994",
+        "field_geo_point": "1851",
+        "title_1": "пер. Музейный, 12",
+        "field_source": "1921",
+        "title_2": "пер. Музейный, 12",
+        "field_period": "2020",
+        "year": "2020",
+        "timestamp": "2025-03-30 01:49:11",
+        "substances": [
+            {
+                "name": "Нефть и нефтепродукты в растворенном и эмульгированном состоянии",
+                "substance_id": "15",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "100",
+                "soderz": "39.8"
+            },
+            {
+                "name": "сульфаты",
+                "substance_id": "64",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "160",
+                "soderz": "66.3"
+            },
+            {
+                "name": "Нитраты",
+                "substance_id": "65",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "130",
+                "soderz": "15.9"
+            },
+            {
+                "name": "Бенз(а)пирен",
+                "substance_id": "183",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "0.02",
+                "soderz": "0.036"
+            },
+            {
+                "name": "кадмий(Cd)",
+                "substance_id": "67",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "0.5",
+                "soderz": "0.1"
+            },
+            {
+                "name": "цинк(Zn)",
+                "substance_id": "68",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "55",
+                "soderz": "53.3"
+            },
+            {
+                "name": "свинец(Pb)",
+                "substance_id": "69",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "32",
+                "soderz": "7.3"
+            },
+            {
+                "name": "медь(Cu)",
+                "substance_id": "70",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "33",
+                "soderz": "9.1"
+            },
+            {
+                "name": "никель(Ni)",
+                "substance_id": "71",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "20",
+                "soderz": "3.5"
+            },
+            {
+                "name": "Хром",
+                "substance_id": "31",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "100",
+                "soderz": "13.7"
+            },
+            {
+                "name": "Ртуть",
+                "substance_id": "72",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "2.1",
+                "soderz": "0.0"
+            },
+            {
+                "name": "Мышьяк",
+                "substance_id": "73",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "2",
+                "soderz": "5.9"
+            },
+            {
+                "name": "хлориды",
+                "substance_id": "74",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "360",
+                "soderz": "<45.8"
+            },
+            {
+                "name": "ПХД",
+                "substance_id": "75",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "0.02",
+                "soderz": "<0.0001"
+            },
+            {
+                "name": "ph",
+                "substance_id": "76",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "-",
+                "soderz": "7.48"
+            }
+        ]
+    },
+    {
+        "title": "1852-1922",
+        "Nid": "1995",
+        "field_geo_point": "1852",
+        "title_1": "ул. Энгельса, напротив кладбища, в р-не з-да \" Красный борец \"",
+        "field_source": "1922",
+        "title_2": "ул. Энгельса, напротив кладбища, в р-не з-да \" Красный борец \"",
+        "field_period": "2020",
+        "year": "2020",
+        "timestamp": "2025-03-30 01:49:11",
+        "substances": [
+            {
+                "name": "Нефть и нефтепродукты в растворенном и эмульгированном состоянии",
+                "substance_id": "15",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "100",
+                "soderz": "7.3"
+            },
+            {
+                "name": "сульфаты",
+                "substance_id": "64",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "160",
+                "soderz": "102.8"
+            },
+            {
+                "name": "Нитраты",
+                "substance_id": "65",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "130",
+                "soderz": "3.3"
+            },
+            {
+                "name": "Бенз(а)пирен",
+                "substance_id": "183",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "0.02",
+                "soderz": "<0.01"
+            },
+            {
+                "name": "кадмий(Cd)",
+                "substance_id": "67",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "0.5",
+                "soderz": "0.1"
+            },
+            {
+                "name": "цинк(Zn)",
+                "substance_id": "68",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "55",
+                "soderz": "53.3"
+            },
+            {
+                "name": "свинец(Pb)",
+                "substance_id": "69",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "32",
+                "soderz": "7.4"
+            },
+            {
+                "name": "медь(Cu)",
+                "substance_id": "70",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "33",
+                "soderz": "5.2"
+            },
+            {
+                "name": "никель(Ni)",
+                "substance_id": "71",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "20",
+                "soderz": "3.0"
+            },
+            {
+                "name": "Хром",
+                "substance_id": "31",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "100",
+                "soderz": "12.8"
+            },
+            {
+                "name": "Ртуть",
+                "substance_id": "72",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "2.1",
+                "soderz": "<0.01"
+            },
+            {
+                "name": "Мышьяк",
+                "substance_id": "73",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "2",
+                "soderz": "2.4"
+            },
+            {
+                "name": "хлориды",
+                "substance_id": "74",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "360",
+                "soderz": "79.2"
+            },
+            {
+                "name": "ПХД",
+                "substance_id": "75",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "0.02",
+                "soderz": "<0.0001"
+            },
+            {
+                "name": "ph",
+                "substance_id": "76",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "-",
+                "soderz": "7.38"
+            }
+        ]
+    },
+    {
+        "title": "1853-1923",
+        "Nid": "1997",
+        "field_geo_point": "1853",
+        "title_1": "при въезде в д. Липки",
+        "field_source": "1923",
+        "title_2": "при въезде в д. Липки",
+        "field_period": "2020",
+        "year": "2020",
+        "timestamp": "2025-03-30 01:49:11",
+        "substances": [
+            {
+                "name": "Нефть и нефтепродукты в растворенном и эмульгированном состоянии",
+                "substance_id": "15",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "100",
+                "soderz": "120.8"
+            },
+            {
+                "name": "сульфаты",
+                "substance_id": "64",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "160",
+                "soderz": "51.4"
+            },
+            {
+                "name": "Нитраты",
+                "substance_id": "65",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "130",
+                "soderz": "10.7"
+            },
+            {
+                "name": "Бенз(а)пирен",
+                "substance_id": "183",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "0.02",
+                "soderz": "0.02"
+            },
+            {
+                "name": "кадмий(Cd)",
+                "substance_id": "67",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "0.5",
+                "soderz": "0.1"
+            },
+            {
+                "name": "цинк(Zn)",
+                "substance_id": "68",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "55",
+                "soderz": "56.4"
+            },
+            {
+                "name": "свинец(Pb)",
+                "substance_id": "69",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "32",
+                "soderz": "10.3"
+            },
+            {
+                "name": "медь(Cu)",
+                "substance_id": "70",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "33",
+                "soderz": "10.0"
+            },
+            {
+                "name": "никель(Ni)",
+                "substance_id": "71",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "20",
+                "soderz": "11.6"
+            },
+            {
+                "name": "Хром",
+                "substance_id": "31",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "100",
+                "soderz": "13.4"
+            },
+            {
+                "name": "Ртуть",
+                "substance_id": "72",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "2.1",
+                "soderz": "0.4"
+            },
+            {
+                "name": "Мышьяк",
+                "substance_id": "73",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "2",
+                "soderz": "4.2"
+            },
+            {
+                "name": "хлориды",
+                "substance_id": "74",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "360",
+                "soderz": "57.5"
+            },
+            {
+                "name": "ПХД",
+                "substance_id": "75",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "0.02",
+                "soderz": "<0.0001"
+            },
+            {
+                "name": "ph",
+                "substance_id": "76",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "-",
+                "soderz": "7.54"
+            }
+        ]
+    },
+    {
+        "title": "1854-1924",
+        "Nid": "1996",
+        "field_geo_point": "1854",
+        "title_1": "в конце д. Ерошевичи",
+        "field_source": "1924",
+        "title_2": "в конце д. Ерошевичи",
+        "field_period": "2020",
+        "year": "2020",
+        "timestamp": "2025-03-30 01:49:11",
+        "substances": [
+            {
+                "name": "Нефть и нефтепродукты в растворенном и эмульгированном состоянии",
+                "substance_id": "15",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "100",
+                "soderz": "8.0"
+            },
+            {
+                "name": "сульфаты",
+                "substance_id": "64",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "160",
+                "soderz": "139.8"
+            },
+            {
+                "name": "Нитраты",
+                "substance_id": "65",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "130",
+                "soderz": "<2.8"
+            },
+            {
+                "name": "Бенз(а)пирен",
+                "substance_id": "183",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "0.02",
+                "soderz": "-"
+            },
+            {
+                "name": "кадмий(Cd)",
+                "substance_id": "67",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "0.5",
+                "soderz": "0.1"
+            },
+            {
+                "name": "цинк(Zn)",
+                "substance_id": "68",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "55",
+                "soderz": "20.4"
+            },
+            {
+                "name": "свинец(Pb)",
+                "substance_id": "69",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "32",
+                "soderz": "3.5"
+            },
+            {
+                "name": "медь(Cu)",
+                "substance_id": "70",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "33",
+                "soderz": "3.8"
+            },
+            {
+                "name": "никель(Ni)",
+                "substance_id": "71",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "20",
+                "soderz": "4.8"
+            },
+            {
+                "name": "Хром",
+                "substance_id": "31",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "100",
+                "soderz": "11.5"
+            },
+            {
+                "name": "Ртуть",
+                "substance_id": "72",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "2.1",
+                "soderz": "0.0"
+            },
+            {
+                "name": "Мышьяк",
+                "substance_id": "73",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "2",
+                "soderz": "3.0"
+            },
+            {
+                "name": "хлориды",
+                "substance_id": "74",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "360",
+                "soderz": "158.3"
+            },
+            {
+                "name": "ПХД",
+                "substance_id": "75",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "0.02",
+                "soderz": "-"
+            },
+            {
+                "name": "ph",
+                "substance_id": "76",
+                "units": null,
+                "units_id": null,
+                "pdk_odk": "-",
+                "soderz": "7.28"
+            }
+        ]
+    }
+]
