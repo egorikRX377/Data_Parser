@@ -1,0 +1,104 @@
+[
+    {
+        "node": {
+            "title": "2187 - 2108",
+            "Nid": "2472",
+            "timestamp": "2025-04-01 01:08:37",
+            "field_geo_point": "2108",
+            "field_source": "2187",
+            "field_period": "",
+            "title_1": "Филиал Оршанский хлебозавод ОАО \"Витебскхлебпром\"",
+            "title_2": "Филиал Оршанский хлебозавод ОАО \"Витебскхлебпром\"",
+            "substances": [
+                {
+                    "field_name_of_substance": "Железо (II) оксид (в пересчете на железо)",
+                    "field_name_of_substance_id": "77",
+                    "field_code": "123",
+                    "field_danger_class": "3",
+                    "field_znachenie": "0.002",
+                    "field_year_value": "0.002"
+                },
+                {
+                    "field_name_of_substance": "Марганец и его соединения в пересчете на марганец (IY) оксид",
+                    "field_name_of_substance_id": "79",
+                    "field_code": "143",
+                    "field_danger_class": "2",
+                    "field_znachenie": "0.001",
+                    "field_year_value": "0.001"
+                },
+                {
+                    "field_name_of_substance": "Азот (IV) оксид (азота диоксид)",
+                    "field_name_of_substance_id": "84",
+                    "field_code": "301",
+                    "field_danger_class": "2",
+                    "field_znachenie": "0.22",
+                    "field_year_value": "3.143"
+                },
+                {
+                    "field_name_of_substance": "Азот (IV) оксид (азота диоксид)",
+                    "field_name_of_substance_id": "84",
+                    "field_code": "304",
+                    "field_danger_class": "3",
+                    "field_znachenie": "0.001",
+                    "field_year_value": "0.512"
+                },
+                {
+                    "field_name_of_substance": "Углерод оксид (окись углерода, угарный газ)",
+                    "field_name_of_substance_id": "201",
+                    "field_code": "337",
+                    "field_danger_class": "4",
+                    "field_znachenie": "0.214",
+                    "field_year_value": "3.532"
+                },
+                {
+                    "field_name_of_substance": "Фтористые газообразные соединения (в пересчете на фтор): - гидрофторид",
+                    "field_name_of_substance_id": "100",
+                    "field_code": "342",
+                    "field_danger_class": "2",
+                    "field_znachenie": "0.001",
+                    "field_year_value": "0.001"
+                },
+                {
+                    "field_name_of_substance": "Бенз(а)пирен",
+                    "field_name_of_substance_id": "183",
+                    "field_code": "703",
+                    "field_danger_class": "1",
+                    "field_znachenie": "1.0E-6",
+                    "field_year_value": "1.0E-6"
+                },
+                {
+                    "field_name_of_substance": "Этанол (этиловый спирт)",
+                    "field_name_of_substance_id": "114",
+                    "field_code": "1061",
+                    "field_danger_class": "4",
+                    "field_znachenie": "0.564",
+                    "field_year_value": "10.002"
+                },
+                {
+                    "field_name_of_substance": "Ацетальдегид (уксусный альдегид",
+                    "field_name_of_substance_id": "167",
+                    "field_code": "1317",
+                    "field_danger_class": "3",
+                    "field_znachenie": "0.022",
+                    "field_year_value": "0.379"
+                },
+                {
+                    "field_name_of_substance": "Уксусная кислота",
+                    "field_name_of_substance_id": "168",
+                    "field_code": "1555",
+                    "field_danger_class": "3",
+                    "field_znachenie": "0.081",
+                    "field_year_value": "1.355"
+                },
+                {
+                    "field_name_of_substance": "Пыль древесная",
+                    "field_name_of_substance_id": "123",
+                    "field_code": "2936",
+                    "field_danger_class": "3",
+                    "field_znachenie": "0.036",
+                    "field_year_value": "0.028"
+                }
+            ]
+        }
+    }
+]

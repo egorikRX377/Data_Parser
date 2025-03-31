@@ -1,0 +1,40 @@
+[
+    {
+        "node": {
+            "title": "2176 - 2097",
+            "Nid": "2498",
+            "timestamp": "2025-04-01 01:08:37",
+            "field_geo_point": "2097",
+            "field_source": "2176",
+            "field_period": "",
+            "title_1": "Филиал «Оршаводоканал»",
+            "title_2": "Филиал «Оршаводоканал»",
+            "substances": [
+                {
+                    "field_name_of_substance": "Аммиак",
+                    "field_name_of_substance_id": "9",
+                    "field_code": "303",
+                    "field_danger_class": "4",
+                    "field_znachenie": "0.239",
+                    "field_year_value": "7.543"
+                },
+                {
+                    "field_name_of_substance": "Сероводород",
+                    "field_name_of_substance_id": "128",
+                    "field_code": "333",
+                    "field_danger_class": "2",
+                    "field_znachenie": "0.007",
+                    "field_year_value": "0.239"
+                },
+                {
+                    "field_name_of_substance": "Метан",
+                    "field_name_of_substance_id": "129",
+                    "field_code": "410",
+                    "field_danger_class": "4",
+                    "field_znachenie": "0.875",
+                    "field_year_value": "27.534"
+                }
+            ]
+        }
+    }
+]

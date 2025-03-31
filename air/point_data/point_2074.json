@@ -1,0 +1,56 @@
+[
+    {
+        "node": {
+            "title": "2153 - 2074",
+            "Nid": "2474",
+            "timestamp": "2025-04-01 01:08:37",
+            "field_geo_point": "2074",
+            "field_source": "2153",
+            "field_period": "",
+            "title_1": "Оршанская дистанция пути УП ”Минское  отделение Белорусской железной дороги“",
+            "title_2": "Оршанская дистанция пути УП ”Минское  отделение Белорусской железной дороги“",
+            "substances": [
+                {
+                    "field_name_of_substance": "Азот (IV) оксид (азота диоксид)",
+                    "field_name_of_substance_id": "84",
+                    "field_code": "301",
+                    "field_danger_class": "2",
+                    "field_znachenie": "0.007",
+                    "field_year_value": "0.116"
+                },
+                {
+                    "field_name_of_substance": "Азот (IV) оксид (азота диоксид)",
+                    "field_name_of_substance_id": "84",
+                    "field_code": "304",
+                    "field_danger_class": "3",
+                    "field_znachenie": "0.001",
+                    "field_year_value": "0.006"
+                },
+                {
+                    "field_name_of_substance": "Сера диоксид (ангидрид сернистый",
+                    "field_name_of_substance_id": "86",
+                    "field_code": "330",
+                    "field_danger_class": "3",
+                    "field_znachenie": "0.175",
+                    "field_year_value": "0.945"
+                },
+                {
+                    "field_name_of_substance": "Углерод оксид (окись углерода, угарный газ)",
+                    "field_name_of_substance_id": "201",
+                    "field_code": "337",
+                    "field_danger_class": "4",
+                    "field_znachenie": "0.355",
+                    "field_year_value": "1.988"
+                },
+                {
+                    "field_name_of_substance": "Твердые частицы (недифференцированная по составу пыль/аэрозоль)",
+                    "field_name_of_substance_id": "10",
+                    "field_code": "2902",
+                    "field_danger_class": "3",
+                    "field_znachenie": "0.267",
+                    "field_year_value": "2.071"
+                }
+            ]
+        }
+    }
+]

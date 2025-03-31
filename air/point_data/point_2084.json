@@ -1,0 +1,120 @@
+[
+    {
+        "node": {
+            "title": "2163 - 2084",
+            "Nid": "2484",
+            "timestamp": "2025-04-01 01:08:37",
+            "field_geo_point": "2084",
+            "field_source": "2163",
+            "field_period": "",
+            "title_1": "ПУП  ”Оршанский мясоконсервный комбинат“",
+            "title_2": "ПУП  ”Оршанский мясоконсервный комбинат“",
+            "substances": [
+                {
+                    "field_name_of_substance": "Железо и его соединения (в пересчете на железо)",
+                    "field_name_of_substance_id": "99",
+                    "field_code": "130",
+                    "field_danger_class": "3",
+                    "field_znachenie": "0.046",
+                    "field_year_value": "0.083"
+                },
+                {
+                    "field_name_of_substance": "Натрий гидроксид (натр едкий",
+                    "field_name_of_substance_id": "80",
+                    "field_code": "150",
+                    "field_danger_class": "0",
+                    "field_znachenie": "0.001",
+                    "field_year_value": "0.004"
+                },
+                {
+                    "field_name_of_substance": "Свинец и его неорганические соединения (в пересчете на свинец)",
+                    "field_name_of_substance_id": "82",
+                    "field_code": "184",
+                    "field_danger_class": "1",
+                    "field_znachenie": "5.0E-6",
+                    "field_year_value": "1.0E-6"
+                },
+                {
+                    "field_name_of_substance": "Азот (IV) оксид (азота диоксид)",
+                    "field_name_of_substance_id": "84",
+                    "field_code": "301",
+                    "field_danger_class": "2",
+                    "field_znachenie": "0.058",
+                    "field_year_value": "0.323"
+                },
+                {
+                    "field_name_of_substance": "Аммиак",
+                    "field_name_of_substance_id": "9",
+                    "field_code": "303",
+                    "field_danger_class": "4",
+                    "field_znachenie": "0.088",
+                    "field_year_value": "2.28"
+                },
+                {
+                    "field_name_of_substance": "Сера диоксид (ангидрид сернистый",
+                    "field_name_of_substance_id": "86",
+                    "field_code": "330",
+                    "field_danger_class": "3",
+                    "field_znachenie": "0.01",
+                    "field_year_value": "0.099"
+                },
+                {
+                    "field_name_of_substance": "Сероводород",
+                    "field_name_of_substance_id": "128",
+                    "field_code": "333",
+                    "field_danger_class": "2",
+                    "field_znachenie": "0.001",
+                    "field_year_value": "0.001"
+                },
+                {
+                    "field_name_of_substance": "Углерод оксид (окись углерода, угарный газ)",
+                    "field_name_of_substance_id": "201",
+                    "field_code": "337",
+                    "field_danger_class": "4",
+                    "field_znachenie": "0.967",
+                    "field_year_value": "2.036"
+                },
+                {
+                    "field_name_of_substance": "Фтористые газообразные соединения (в пересчете на фтор): - гидрофторид",
+                    "field_name_of_substance_id": "100",
+                    "field_code": "342",
+                    "field_danger_class": "2",
+                    "field_znachenie": "0.001",
+                    "field_year_value": "0.001"
+                },
+                {
+                    "field_name_of_substance": "Метан",
+                    "field_name_of_substance_id": "129",
+                    "field_code": "410",
+                    "field_danger_class": "4",
+                    "field_znachenie": "0.169",
+                    "field_year_value": "2.904"
+                },
+                {
+                    "field_name_of_substance": "Фенолы летучие (фенольный индекс)",
+                    "field_name_of_substance_id": "149",
+                    "field_code": "1071",
+                    "field_danger_class": "2",
+                    "field_znachenie": "0.001",
+                    "field_year_value": "0.001"
+                },
+                {
+                    "field_name_of_substance": "Формальдегид (метаналь)",
+                    "field_name_of_substance_id": "105",
+                    "field_code": "1325",
+                    "field_danger_class": "2",
+                    "field_znachenie": "0.003",
+                    "field_year_value": "0.057"
+                },
+                {
+                    "field_name_of_substance": "Твердые частицы (недифференцированная по составу пыль/аэрозоль)",
+                    "field_name_of_substance_id": "10",
+                    "field_code": "2902",
+                    "field_danger_class": "3",
+                    "field_znachenie": "0.279",
+                    "field_year_value": "0.881"
+                }
+            ]
+        }
+    }
+]

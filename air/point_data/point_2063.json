@@ -1,0 +1,144 @@
+[
+    {
+        "node": {
+            "title": "2142 - 2063",
+            "Nid": "2462",
+            "timestamp": "2025-04-01 01:08:38",
+            "field_geo_point": "2063",
+            "field_source": "2142",
+            "field_period": "",
+            "title_1": "ОАО ”Экомол“",
+            "title_2": "ОАО ”Экомол“",
+            "substances": [
+                {
+                    "field_name_of_substance": "Кадмий и его соединения (в пересчете на кадмий)",
+                    "field_name_of_substance_id": "78",
+                    "field_code": "124",
+                    "field_danger_class": "1",
+                    "field_znachenie": "8.0E-6",
+                    "field_year_value": "1.0E-6"
+                },
+                {
+                    "field_name_of_substance": "Никель и его соединения (в пересчете на никель)",
+                    "field_name_of_substance_id": "104",
+                    "field_code": "160",
+                    "field_danger_class": "1",
+                    "field_znachenie": "0.00643",
+                    "field_year_value": "9.0E-5"
+                },
+                {
+                    "field_name_of_substance": "Ртуть и ее соединения (в пересчете на ртуть)",
+                    "field_name_of_substance_id": "81",
+                    "field_code": "183",
+                    "field_danger_class": "1",
+                    "field_znachenie": "8.0E-6",
+                    "field_year_value": "2.0E-6"
+                },
+                {
+                    "field_name_of_substance": "Свинец и его неорганические соединения (в пересчете на свинец)",
+                    "field_name_of_substance_id": "82",
+                    "field_code": "184",
+                    "field_danger_class": "1",
+                    "field_znachenie": "1.0E-6",
+                    "field_year_value": "1.0E-6"
+                },
+                {
+                    "field_name_of_substance": "Азот (IV) оксид (азота диоксид)",
+                    "field_name_of_substance_id": "84",
+                    "field_code": "301",
+                    "field_danger_class": "2",
+                    "field_znachenie": "0.249",
+                    "field_year_value": "4.272"
+                },
+                {
+                    "field_name_of_substance": "Азот (IV) оксид (азота диоксид)",
+                    "field_name_of_substance_id": "84",
+                    "field_code": "304",
+                    "field_danger_class": "3",
+                    "field_znachenie": "0.001",
+                    "field_year_value": "0.341"
+                },
+                {
+                    "field_name_of_substance": "Сера диоксид (ангидрид сернистый",
+                    "field_name_of_substance_id": "86",
+                    "field_code": "330",
+                    "field_danger_class": "3",
+                    "field_znachenie": "1.819",
+                    "field_year_value": "0.327"
+                },
+                {
+                    "field_name_of_substance": "Углерод оксид (окись углерода, угарный газ)",
+                    "field_name_of_substance_id": "201",
+                    "field_code": "337",
+                    "field_danger_class": "4",
+                    "field_znachenie": "0.184",
+                    "field_year_value": "3.555"
+                },
+                {
+                    "field_name_of_substance": "Бенз(а)пирен",
+                    "field_name_of_substance_id": "183",
+                    "field_code": "703",
+                    "field_danger_class": "1",
+                    "field_znachenie": "1.0E-6",
+                    "field_year_value": "1.0E-6"
+                },
+                {
+                    "field_name_of_substance": "Бензо(в)флюоратен",
+                    "field_name_of_substance_id": "101",
+                    "field_code": "727",
+                    "field_danger_class": "0",
+                    "field_znachenie": "0.001",
+                    "field_year_value": "0.001"
+                },
+                {
+                    "field_name_of_substance": "Бензо(к)флюоратен",
+                    "field_name_of_substance_id": "102",
+                    "field_code": "728",
+                    "field_danger_class": "0",
+                    "field_znachenie": "0.001",
+                    "field_year_value": "0.001"
+                },
+                {
+                    "field_name_of_substance": "Индено(1,2,3-сd)пирен",
+                    "field_name_of_substance_id": "103",
+                    "field_code": "729",
+                    "field_danger_class": "0",
+                    "field_znachenie": "0.001",
+                    "field_year_value": "0.001"
+                },
+                {
+                    "field_name_of_substance": "Гексахлорбензол",
+                    "field_name_of_substance_id": "148",
+                    "field_code": "830",
+                    "field_danger_class": "0",
+                    "field_znachenie": "0.001",
+                    "field_year_value": "0.001"
+                },
+                {
+                    "field_name_of_substance": "Твердые частицы (недифференцированная по составу пыль/аэрозоль)",
+                    "field_name_of_substance_id": "10",
+                    "field_code": "2902",
+                    "field_danger_class": "3",
+                    "field_znachenie": "0.065",
+                    "field_year_value": "0.06"
+                },
+                {
+                    "field_name_of_substance": "Диоксины (в пересчете на 2,3,7,8,тетрахлордибензо-1,4-диоксин)",
+                    "field_name_of_substance_id": "161",
+                    "field_code": "3620",
+                    "field_danger_class": "1",
+                    "field_znachenie": "1.0E-6",
+                    "field_year_value": "1.0E-6"
+                },
+                {
+                    "field_name_of_substance": "Полихлорированные бифенилы",
+                    "field_name_of_substance_id": "157",
+                    "field_code": "3920",
+                    "field_danger_class": "1",
+                    "field_znachenie": "1.0E-6",
+                    "field_year_value": "1.0E-6"
+                }
+            ]
+        }
+    }
+]

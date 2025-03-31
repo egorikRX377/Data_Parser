@@ -1,0 +1,80 @@
+[
+    {
+        "node": {
+            "title": "2156 - 2077",
+            "Nid": "2477",
+            "timestamp": "2025-04-01 01:08:37",
+            "field_geo_point": "2077",
+            "field_source": "2156",
+            "field_period": "",
+            "title_1": "ОАО \"Оршанский комбинат строительных материалов\"",
+            "title_2": "ОАО \"Оршанский комбинат строительных материалов\"",
+            "substances": [
+                {
+                    "field_name_of_substance": "Свинец и его неорганические соединения (в пересчете на свинец)",
+                    "field_name_of_substance_id": "82",
+                    "field_code": "184",
+                    "field_danger_class": "1",
+                    "field_znachenie": "1.0E-6",
+                    "field_year_value": "1.4E-5"
+                },
+                {
+                    "field_name_of_substance": "Азот (IV) оксид (азота диоксид)",
+                    "field_name_of_substance_id": "84",
+                    "field_code": "301",
+                    "field_danger_class": "2",
+                    "field_znachenie": "0.055",
+                    "field_year_value": "4.016"
+                },
+                {
+                    "field_name_of_substance": "Азот (IV) оксид (азота диоксид)",
+                    "field_name_of_substance_id": "84",
+                    "field_code": "304",
+                    "field_danger_class": "3",
+                    "field_znachenie": "0.001",
+                    "field_year_value": "0.616"
+                },
+                {
+                    "field_name_of_substance": "Сера диоксид (ангидрид сернистый",
+                    "field_name_of_substance_id": "86",
+                    "field_code": "330",
+                    "field_danger_class": "3",
+                    "field_znachenie": "0.018",
+                    "field_year_value": "0.583"
+                },
+                {
+                    "field_name_of_substance": "Углерод оксид (окись углерода, угарный газ)",
+                    "field_name_of_substance_id": "201",
+                    "field_code": "337",
+                    "field_danger_class": "4",
+                    "field_znachenie": "0.043",
+                    "field_year_value": "7.064"
+                },
+                {
+                    "field_name_of_substance": "Бенз(а)пирен",
+                    "field_name_of_substance_id": "183",
+                    "field_code": "703",
+                    "field_danger_class": "1",
+                    "field_znachenie": "1.0E-6",
+                    "field_year_value": "7.0E-6"
+                },
+                {
+                    "field_name_of_substance": "Этенилацетат (винилацетат",
+                    "field_name_of_substance_id": "180",
+                    "field_code": "1213",
+                    "field_danger_class": "3",
+                    "field_znachenie": "0.001",
+                    "field_year_value": "0.008"
+                },
+                {
+                    "field_name_of_substance": "Твердые частицы (недифференцированная по составу пыль/аэрозоль)",
+                    "field_name_of_substance_id": "10",
+                    "field_code": "2902",
+                    "field_danger_class": "3",
+                    "field_znachenie": "0.194",
+                    "field_year_value": "1.94"
+                }
+            ]
+        }
+    }
+]

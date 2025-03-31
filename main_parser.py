@@ -19,6 +19,7 @@ class BaseParser(ABC):
         self.logger = None
         self.retries = retries
         self.timeout = aiohttp.ClientTimeout(total=timeout)
+        self.base_url = "https://orsha-ecokarta.gov.by/api"
 
     def _setup_logging(self, api_name: str) -> logging.Logger:
         logger = logging.getLogger(api_name)
@@ -47,7 +48,7 @@ class BaseParser(ABC):
                     if "nodes" not in data:
                         self.logger.error(f"Ключ 'nodes' отсутствует в ответе API. Структура ответа: {data}")
                         return []
-                    return data["nodes"]
+                    return data
             except asyncio.TimeoutError as e:
                 attempts += 1
                 self.logger.warning(
@@ -135,6 +136,113 @@ class BaseParser(ABC):
             self.logger.error(f"Ошибка при сохранении данных в файл {filename}: {e}")
             print(f"Ошибка при сохранении данных в файл {filename}: {e}")
 
+    def extract_geo_points(self, data_type: str = "place") -> set:
+        """Извлекает все geo_point из файлов категории."""
+        geo_points = set()
+
+        if self.category == "water":
+            # Для категории water извлекаем geo_point только из двух файлов
+            target_files = [
+                "nsmos_substances_substances.json",
+                "esawage_surface_substances_substances.json"
+            ]
+            for filename in target_files:
+                filepath = os.path.join(self.category, filename)
+                if os.path.exists(filepath):
+                    try:
+                        with open(filepath, "r", encoding="utf-8") as f:
+                            data = json.load(f)
+                            for item in data:
+                                geo_point = item.get("field_geo_point", "")
+                                if geo_point and geo_point != "Unknown":
+                                    geo_points.add(geo_point)
+                                    self.logger.info(f"Извлечён geo_point {geo_point} из файла {filename}")
+                    except Exception as e:
+                        self.logger.error(f"Ошибка при чтении файла {filepath}: {e}")
+                else:
+                    self.logger.warning(f"Файл {filepath} не найден")
+        else:
+            # Для остальных категорий извлекаем geo_point из всех файлов
+            for filename in os.listdir(self.category):
+                if filename.endswith(f"_{data_type}.json"):
+                    filepath = os.path.join(self.category, filename)
+                    try:
+                        with open(filepath, "r", encoding="utf-8") as f:
+                            data = json.load(f)
+                            for item in data:
+                                geo_point = item.get("field_geo_point", item.get("Nid", ""))
+                                if geo_point and geo_point != "Unknown":
+                                    geo_points.add(geo_point)
+                    except Exception as e:
+                        self.logger.error(f"Ошибка при чтении файла {filepath}: {e}")
+
+        self.logger.info(f"Всего уникальных field_geo_point для категории {self.category}: {len(geo_points)}")
+        return geo_points
+
+    async def parse_point_data(self, geo_point: str, session: aiohttp.ClientSession) -> dict:
+        """Парсит данные из /api/sources_values для конкретного geo_point."""
+        api_name = f"sources_values_{geo_point}"
+        api_url = f"{self.base_url}/sources_values?geo_point={geo_point}"
+        self.logger = self._setup_logging(api_name)
+        data = await self.fetch_data(api_name, api_url, session)
+        if not data or not data.get("nodes"):
+            self.logger.info(f"Нет данных для geo_point {geo_point} в {api_url}")
+            return {}
+
+        # Обрабатываем поле php, если оно есть
+        for item in data["nodes"]:
+            node = item.get("node", {})
+            php_data = node.get("php", "")
+            if php_data:
+                try:
+                    substances = json.loads(php_data)
+                    node["substances"] = substances
+                    del node["php"]
+                except json.JSONDecodeError as e:
+                    self.logger.error(f"Ошибка при парсинге php для geo_point {geo_point}: {e}")
+                    node["substances"] = []
+
+        return data
+
+    def save_point_data(self, geo_point: str, data: dict, initial_parse: bool = False) -> None:
+        """Сохраняет данные точки в подпапку point_data."""
+        if not data or not data.get("nodes"):
+            self.logger.info(f"Нет данных для сохранения для geo_point {geo_point}. Пропускаем сохранение.")
+            return
+
+        # Создаём подпапку point_data
+        point_data_dir = os.path.join(self.category, "point_data")
+        os.makedirs(point_data_dir, exist_ok=True)
+
+        filename = os.path.join(point_data_dir, f"point_{geo_point}.json")
+        existing_data = []
+
+        if os.path.exists(filename) and not initial_parse:
+            try:
+                with open(filename, "r", encoding="utf-8") as f:
+                    existing_data = json.load(f)
+            except Exception as e:
+                self.logger.error(f"Ошибка при чтении файла {filename}: {e}")
+                return
+
+        if initial_parse:
+            updated_data = data["nodes"]
+        else:
+            existing_periods = {item["node"]["field_period"] for item in existing_data}
+            new_nodes = [item for item in data["nodes"] if item["node"]["field_period"] not in existing_periods]
+            if not new_nodes:
+                self.logger.info(f"Новых данных для geo_point {geo_point} не найдено.")
+                return
+            updated_data = existing_data + new_nodes
+            self.logger.info(f"Найдено новых записей: {len(new_nodes)} для geo_point {geo_point}")
+
+        try:
+            with open(filename, "w", encoding="utf-8", buffering=8192) as f:
+                json.dump(updated_data, f, ensure_ascii=False, indent=4)
+            self.logger.info(f"Данные сохранены в файл: {filename} (всего записей: {len(updated_data)})")
+        except Exception as e:
+            self.logger.error(f"Ошибка при сохранении данных в файл {filename}: {e}")
+
     @abstractmethod
     async def parse(self, session: aiohttp.ClientSession, initial_parse: bool = False) -> None:
         pass
@@ -165,10 +273,10 @@ class AirParser(BaseParser):
 
         missing_php_count = 0
         missing_units_count = 0
-        total_records = len(nodes)
+        total_records = len(nodes["nodes"])
         parsed_data = []
 
-        for item in nodes:
+        for item in nodes["nodes"]:
             node = item.get("node", {})
             self.logger.debug(f"Обрабатываем элемент node: {node}")
             parsed_item = {
@@ -299,6 +407,7 @@ class AirParser(BaseParser):
         return parsed_data
 
     async def parse(self, session: aiohttp.ClientSession, initial_parse: bool = False) -> None:
+        # Сначала парсим основные данные (это нужно для сохранения исходных файлов)
         tasks = [self._parse_endpoint(endpoint, api_url, session) for endpoint, api_url in self.endpoints]
         results = await asyncio.gather(*tasks, return_exceptions=True)
 
@@ -309,6 +418,32 @@ class AirParser(BaseParser):
             self.parsed_data = result
             self.print_data()
             self.save_data(endpoint, "data", initial_parse)
+
+        # Для air не делаем запросы к API, а просто разделяем данные из orsha-ap-substances_data.json
+        orsha_ap_file = "orsha-ap-substances_data.json"
+        filepath = os.path.join(self.category, orsha_ap_file)
+        if os.path.exists(filepath):
+            try:
+                with open(filepath, "r", encoding="utf-8") as f:
+                    data = json.load(f)
+                    # Группируем данные по field_geo_point
+                    geo_point_data = {}
+                    for item in data:
+                        geo_point = item.get("field_geo_point", "")
+                        if geo_point and geo_point != "Unknown":
+                            if geo_point not in geo_point_data:
+                                geo_point_data[geo_point] = []
+                            geo_point_data[geo_point].append(item)
+                            self.logger.info(f"Добавлена запись для geo_point {geo_point} из файла {orsha_ap_file}")
+
+                    # Сохраняем данные в отдельные файлы
+                    for geo_point, items in geo_point_data.items():
+                        self.save_point_data(geo_point, {"nodes": [{"node": item} for item in items]}, initial_parse)
+                    self.logger.info(f"Сохранено {len(geo_point_data)} файлов в {self.category}/point_data")
+            except Exception as e:
+                self.logger.error(f"Ошибка при чтении файла {filepath}: {e}")
+        else:
+            self.logger.error(f"Файл {filepath} не найден")
 
     def print_data(self) -> None:
         pass
@@ -336,7 +471,7 @@ class GroundwaterParser(BaseParser):
                 self.logger.error(f"Не удалось извлечь данные из API {api_name}.")
                 return parsed_data
 
-            for item in nodes:
+            for item in nodes["nodes"]:
                 node = item.get("node", {})
                 self.logger.debug(f"Обрабатываем элемент node: {node}")
                 parsed_item = {
@@ -396,7 +531,7 @@ class GroundwaterParser(BaseParser):
                 self.logger.error(f"Не удалось извлечь данные из API {api_name}.")
                 return parsed_data
 
-            for item in nodes:
+            for item in nodes["nodes"]:
                 node = item.get("node", {})
                 self.logger.debug(f"Обрабатываем элемент node: {node}")
                 parsed_item = {
@@ -418,6 +553,7 @@ class GroundwaterParser(BaseParser):
         return parsed_data
 
     async def parse(self, session: aiohttp.ClientSession, initial_parse: bool = False) -> None:
+        # Сначала парсим основные данные
         tasks = [
             self._parse_endpoint(api_name, api_url, session)
             for api_name, api_url in self.api_endpoints
@@ -432,6 +568,13 @@ class GroundwaterParser(BaseParser):
             self.print_data()
             data_type = "substances" if api_name in self.substances_apis else "place"
             self.save_data(api_name, data_type, initial_parse)
+
+        # Парсим данные для каждой точки
+        geo_points = self.extract_geo_points("place") | self.extract_geo_points("substances")
+        self.logger.info(f"Извлечено {len(geo_points)} geo_point для категории {self.category}")
+        for geo_point in geo_points:
+            point_data = await self.parse_point_data(geo_point, session)
+            self.save_point_data(geo_point, point_data, initial_parse)
 
     def print_data(self) -> None:
         pass
@@ -457,7 +600,7 @@ class RadiationParser(BaseParser):
                 self.logger.error(f"Не удалось извлечь данные из API {api_name}.")
                 return parsed_data
 
-            for item in nodes:
+            for item in nodes["nodes"]:
                 node = item.get("node", {})
                 self.logger.debug(f"Обрабатываем элемент node: {node}")
                 parsed_item = {
@@ -505,7 +648,7 @@ class RadiationParser(BaseParser):
                 self.logger.error(f"Не удалось извлечь данные из API {api_name}.")
                 return parsed_data
 
-            for item in nodes:
+            for item in nodes["nodes"]:
                 node = item.get("node", {})
                 self.logger.debug(f"Обрабатываем элемент node: {node}")
                 parsed_item = {
@@ -528,6 +671,7 @@ class RadiationParser(BaseParser):
         return parsed_data
 
     async def parse(self, session: aiohttp.ClientSession, initial_parse: bool = False) -> None:
+        # Сначала парсим основные данные
         tasks = [
             self._parse_endpoint(api_name, api_url, session)
             for api_name, api_url in self.api_endpoints
@@ -542,6 +686,13 @@ class RadiationParser(BaseParser):
             self.print_data()
             data_type = "levels" if api_name in self.levels_apis else "place"
             self.save_data(api_name, data_type, initial_parse)
+
+        # Парсим данные для каждой точки
+        geo_points = self.extract_geo_points("place") | self.extract_geo_points("levels")
+        self.logger.info(f"Извлечено {len(geo_points)} geo_point для категории {self.category}")
+        for geo_point in geo_points:
+            point_data = await self.parse_point_data(geo_point, session)
+            self.save_point_data(geo_point, point_data, initial_parse)
 
     def print_data(self) -> None:
         pass
@@ -573,7 +724,7 @@ class SoilsParser(BaseParser):
                 self.logger.error(f"Не удалось извлечь данные из API {api_name}.")
                 return parsed_data
 
-            for item in nodes:
+            for item in nodes["nodes"]:
                 node = item.get("node", {})
                 self.logger.debug(f"Обрабатываем элемент node: {node}")
                 parsed_item = {
@@ -633,7 +784,7 @@ class SoilsParser(BaseParser):
                 self.logger.error(f"Не удалось извлечь данные из API {api_name}.")
                 return parsed_data
 
-            for item in nodes:
+            for item in nodes["nodes"]:
                 node = item.get("node", {})
                 self.logger.debug(f"Обрабатываем элемент node: {node}")
                 parsed_item = {
@@ -657,6 +808,7 @@ class SoilsParser(BaseParser):
         return parsed_data
 
     async def parse(self, session: aiohttp.ClientSession, initial_parse: bool = False) -> None:
+        # Сначала парсим основные данные
         tasks = [
             self._parse_endpoint(api_name, api_url, session)
             for api_name, api_url in self.api_endpoints
@@ -671,6 +823,13 @@ class SoilsParser(BaseParser):
             self.print_data()
             data_type = "substances" if api_name in self.substances_apis else "place"
             self.save_data(api_name, data_type, initial_parse)
+
+        # Парсим данные для каждой точки
+        geo_points = self.extract_geo_points("place") | self.extract_geo_points("substances")
+        self.logger.info(f"Извлечено {len(geo_points)} geo_point для категории {self.category}")
+        for geo_point in geo_points:
+            point_data = await self.parse_point_data(geo_point, session)
+            self.save_point_data(geo_point, point_data, initial_parse)
 
     def print_data(self) -> None:
         pass
@@ -701,7 +860,7 @@ class WaterParser(BaseParser):
                 self.logger.error(f"Не удалось извлечь данные из API {api_name}.")
                 return parsed_data
 
-            for item in nodes:
+            for item in nodes["nodes"]:
                 node = item.get("node", {})
                 self.logger.debug(f"Обрабатываем элемент node: {node}")
                 parsed_item = {
@@ -764,7 +923,7 @@ class WaterParser(BaseParser):
                 self.logger.error(f"Не удалось извлечь данные из API {api_name}.")
                 return parsed_data
 
-            for item in nodes:
+            for item in nodes["nodes"]:
                 node = item.get("node", {})
                 self.logger.debug(f"Обрабатываем элемент node: {node}")
                 parsed_item = {
@@ -786,6 +945,7 @@ class WaterParser(BaseParser):
         return parsed_data
 
     async def parse(self, session: aiohttp.ClientSession, initial_parse: bool = False) -> None:
+        # Сначала парсим основные данные
         tasks = [
             self._parse_endpoint(api_name, api_url, session)
             for api_name, api_url in self.api_endpoints
@@ -800,6 +960,13 @@ class WaterParser(BaseParser):
             self.print_data()
             data_type = "substances" if api_name in self.substances_apis else "place"
             self.save_data(api_name, data_type, initial_parse)
+
+        # Парсим данные для каждой точки
+        geo_points = self.extract_geo_points("place") | self.extract_geo_points("substances")
+        self.logger.info(f"Извлечено {len(geo_points)} geo_point для категории {self.category}")
+        for geo_point in geo_points:
+            point_data = await self.parse_point_data(geo_point, session)
+            self.save_point_data(geo_point, point_data, initial_parse)
 
     def print_data(self) -> None:
         pass
@@ -842,7 +1009,7 @@ class ParserManager:
             self.loop.run_until_complete(self.run_schedule())
         except KeyboardInterrupt:
             print("Программа остановлена пользователем.")
-            # Отменяем все задачи
+
             tasks = [task for task in asyncio.all_tasks(self.loop) if task is not asyncio.current_task(self.loop)]
             for task in tasks:
                 task.cancel()

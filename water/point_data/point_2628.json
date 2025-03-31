@@ -1,0 +1,44 @@
+[
+    {
+        "node": {
+            "title": "Июнь т.5.2 300 м выше выпуска 5 ПСВ в р. Днепр  (54°3031.5с.ш. 30°2559.7в.д.)",
+            "field_geo_point": "2628",
+            "title_1": "КУП \"Оршанская спецавтобаза\" Витебская обл. г.Орша Минжилкомхоз",
+            "field_source": "2657",
+            "title_2": "т.5.2 300 м выше выпуска 5 ПСВ в р. Днепр (54°30'31.5\"с.ш. 30°25'59.7\"в.д.)",
+            "field_period": "Июнь 2021",
+            "substances": [
+                {
+                    "field_name_of_substance": "Нефть и нефтепродукты в растворенном и эмульгированном состоянии",
+                    "field_name_of_substance_id": "15",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "0.009",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "0.05"
+                },
+                {
+                    "field_name_of_substance": "Взвешенные вещества",
+                    "field_name_of_substance_id": "16",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "6.2",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "25"
+                },
+                {
+                    "field_name_of_substance": "Водородный показатель (pH)",
+                    "field_name_of_substance_id": "18",
+                    "field_units_referencee": "ед.рН",
+                    "field_units_referencee_id": "25",
+                    "field_average_concentration_1": "7.7",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "6.5:8.5"
+                }
+            ]
+        }
+    }
+]

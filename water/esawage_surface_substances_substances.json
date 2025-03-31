@@ -9,7 +9,7 @@
         "field_type_of_mean": "kontr",
         "field_period": "Август 2021",
         "year": "2021",
-        "timestamp": "2025-03-30 01:49:10",
+        "timestamp": "2025-04-01 01:08:37",
         "substances": [
             {
                 "name": "Нефть и нефтепродукты в растворенном и эмульгированном состоянии",
@@ -53,7 +53,7 @@
         "field_type_of_mean": "fon",
         "field_period": "Август 2021",
         "year": "2021",
-        "timestamp": "2025-03-30 01:49:10",
+        "timestamp": "2025-04-01 01:08:37",
         "substances": [
             {
                 "name": "Биохимическое потребление кислорода (БПК5)",
@@ -268,226 +268,6 @@
         ]
     },
     {
-        "title": "Июнь т.16.3 300 м ниже выпуска 16 ПСВ в ручей Кутеенка  (54°2929.0с.ш. 30°2434.7в.д.)",
-        "Nid": "2699",
-        "field_geo_point": "2626",
-        "title_1": "КУП \"Оршанская спецавтобаза\" Витебская обл. г.Орша Минжилкомхоз",
-        "field_source": "2655",
-        "title_2": "т.16.3 300 м ниже выпуска 16 ПСВ в ручей Кутеенка (54°29'29.0\"с.ш. 30°24'34.7\"в.д.)",
-        "field_type_of_mean": "kontr",
-        "field_period": "Июнь 2021",
-        "year": "2021",
-        "timestamp": "2025-03-30 01:49:10",
-        "substances": [
-            {
-                "name": "Нефть и нефтепродукты в растворенном и эмульгированном состоянии",
-                "substance_id": "15",
-                "units": "мг/дм3",
-                "units_id": "24",
-                "average_concentration_1": "0.016",
-                "average_concentration_2": null,
-                "average_concentration_3": null,
-                "pdk": "0.05"
-            },
-            {
-                "name": "Взвешенные вещества",
-                "substance_id": "16",
-                "units": "мг/дм3",
-                "units_id": "24",
-                "average_concentration_1": "7.8",
-                "average_concentration_2": null,
-                "average_concentration_3": null,
-                "pdk": "Ф+5"
-            },
-            {
-                "name": "Водородный показатель (pH)",
-                "substance_id": "18",
-                "units": "ед.рН",
-                "units_id": "25",
-                "average_concentration_1": "7.8",
-                "average_concentration_2": null,
-                "average_concentration_3": null,
-                "pdk": "6.5:8.5"
-            }
-        ]
-    },
-    {
-        "title": "Июнь т.5.2 300 м выше выпуска 5 ПСВ в р. Днепр  (54°3031.5с.ш. 30°2559.7в.д.)",
-        "Nid": "2701",
-        "field_geo_point": "2628",
-        "title_1": "КУП \"Оршанская спецавтобаза\" Витебская обл. г.Орша Минжилкомхоз",
-        "field_source": "2657",
-        "title_2": "т.5.2 300 м выше выпуска 5 ПСВ в р. Днепр (54°30'31.5\"с.ш. 30°25'59.7\"в.д.)",
-        "field_type_of_mean": "kontr",
-        "field_period": "Июнь 2021",
-        "year": "2021",
-        "timestamp": "2025-03-30 01:49:10",
-        "substances": [
-            {
-                "name": "Нефть и нефтепродукты в растворенном и эмульгированном состоянии",
-                "substance_id": "15",
-                "units": "мг/дм3",
-                "units_id": "24",
-                "average_concentration_1": "0.009",
-                "average_concentration_2": null,
-                "average_concentration_3": null,
-                "pdk": "0.05"
-            },
-            {
-                "name": "Взвешенные вещества",
-                "substance_id": "16",
-                "units": "мг/дм3",
-                "units_id": "24",
-                "average_concentration_1": "6.2",
-                "average_concentration_2": null,
-                "average_concentration_3": null,
-                "pdk": "25"
-            },
-            {
-                "name": "Водородный показатель (pH)",
-                "substance_id": "18",
-                "units": "ед.рН",
-                "units_id": "25",
-                "average_concentration_1": "7.7",
-                "average_concentration_2": null,
-                "average_concentration_3": null,
-                "pdk": "6.5:8.5"
-            }
-        ]
-    },
-    {
-        "title": "Июнь т.5.3 25 м ниже выпуска 5 ПСВ в р. Днепр (54°3023.2с.ш. 30°2549.0в.д.)",
-        "Nid": "2702",
-        "field_geo_point": "2629",
-        "title_1": "КУП \"Оршанская спецавтобаза\" Витебская обл. г.Орша Минжилкомхоз",
-        "field_source": "2658",
-        "title_2": "т.5.3 25 м ниже выпуска 5 ПСВ в р. Днепр (54°30'23.2\"с.ш. 30°25'49.0\"в.д.)",
-        "field_type_of_mean": "kontr",
-        "field_period": "Июнь 2021",
-        "year": "2021",
-        "timestamp": "2025-03-30 01:49:10",
-        "substances": [
-            {
-                "name": "Нефть и нефтепродукты в растворенном и эмульгированном состоянии",
-                "substance_id": "15",
-                "units": "мг/дм3",
-                "units_id": "24",
-                "average_concentration_1": "0.013",
-                "average_concentration_2": null,
-                "average_concentration_3": null,
-                "pdk": "0.05"
-            },
-            {
-                "name": "Взвешенные вещества",
-                "substance_id": "16",
-                "units": "мг/дм3",
-                "units_id": "24",
-                "average_concentration_1": "6.9",
-                "average_concentration_2": null,
-                "average_concentration_3": null,
-                "pdk": "Ф+5"
-            },
-            {
-                "name": "Водородный показатель (pH)",
-                "substance_id": "18",
-                "units": "ед.рН",
-                "units_id": "25",
-                "average_concentration_1": "7.4",
-                "average_concentration_2": null,
-                "average_concentration_3": null,
-                "pdk": "6.5:8.5"
-            }
-        ]
-    },
-    {
-        "title": "Июнь т.13.3 15 м выше выпуска 13 ПСВ с очистных сооружений в р.Оршица  (54°3034.2с.ш. 30°2518.1в.д.)",
-        "Nid": "2708",
-        "field_geo_point": "2635",
-        "title_1": "КУП \"Оршанская спецавтобаза\" Витебская обл. г.Орша Минжилкомхоз",
-        "field_source": "2664",
-        "title_2": "т.13.3 15 м выше выпуска 13 ПСВ с очистных сооружений в р.Оршица (54°30'34.2\"с.ш. 30°25'18.1\"в.д.)",
-        "field_type_of_mean": "kontr",
-        "field_period": "Июнь 2021",
-        "year": "2021",
-        "timestamp": "2025-03-30 01:49:10",
-        "substances": [
-            {
-                "name": "Нефть и нефтепродукты в растворенном и эмульгированном состоянии",
-                "substance_id": "15",
-                "units": "мг/дм3",
-                "units_id": "24",
-                "average_concentration_1": "0.015",
-                "average_concentration_2": null,
-                "average_concentration_3": null,
-                "pdk": "0.05"
-            },
-            {
-                "name": "Взвешенные вещества",
-                "substance_id": "16",
-                "units": "мг/дм3",
-                "units_id": "24",
-                "average_concentration_1": "7.3",
-                "average_concentration_2": null,
-                "average_concentration_3": null,
-                "pdk": "25"
-            },
-            {
-                "name": "Водородный показатель (pH)",
-                "substance_id": "18",
-                "units": "ед.рН",
-                "units_id": "25",
-                "average_concentration_1": "7.6",
-                "average_concentration_2": null,
-                "average_concentration_3": null,
-                "pdk": "6.5:8.5"
-            }
-        ]
-    },
-    {
-        "title": "Июнь т.13.4 140 м ниже выпуска 13 ПСВ с очистных сооружений в р. Оршица (54°3029.9с.ш. 30°2520.4в.д.)",
-        "Nid": "2709",
-        "field_geo_point": "2636",
-        "title_1": "КУП \"Оршанская спецавтобаза\" Витебская обл. г.Орша Минжилкомхоз",
-        "field_source": "2665",
-        "title_2": "т.13.4 140 м ниже выпуска 13 ПСВ с очистных сооружений в р. Оршица (54°30'29.9\"с.ш. 30°25'20.4\"в.д.)",
-        "field_type_of_mean": "kontr",
-        "field_period": "Июнь 2021",
-        "year": "2021",
-        "timestamp": "2025-03-30 01:49:10",
-        "substances": [
-            {
-                "name": "Нефть и нефтепродукты в растворенном и эмульгированном состоянии",
-                "substance_id": "15",
-                "units": "мг/дм3",
-                "units_id": "24",
-                "average_concentration_1": "0.018",
-                "average_concentration_2": null,
-                "average_concentration_3": null,
-                "pdk": "0.05"
-            },
-            {
-                "name": "Взвешенные вещества",
-                "substance_id": "16",
-                "units": "мг/дм3",
-                "units_id": "24",
-                "average_concentration_1": "7.9",
-                "average_concentration_2": null,
-                "average_concentration_3": null,
-                "pdk": "Ф+5"
-            },
-            {
-                "name": "Водородный показатель (pH)",
-                "substance_id": "18",
-                "units": "ед.рН",
-                "units_id": "25",
-                "average_concentration_1": "7.7",
-                "average_concentration_2": null,
-                "average_concentration_3": null,
-                "pdk": "6.5:8.5"
-            }
-        ]
-    },
-    {
         "title": "Июнь т.6.2 300 м выше выпуска 6 ПСВ в р. Днепр  (54°3010.9с.ш. 30°2451.6в.д.)",
         "Nid": "2692",
         "field_geo_point": "2619",
@@ -497,7 +277,7 @@
         "field_type_of_mean": "kontr",
         "field_period": "Июнь 2021",
         "year": "2021",
-        "timestamp": "2025-03-30 01:49:10",
+        "timestamp": "2025-04-01 01:08:37",
         "substances": [
             {
                 "name": "Нефть и нефтепродукты в растворенном и эмульгированном состоянии",
@@ -541,7 +321,7 @@
         "field_type_of_mean": "kontr",
         "field_period": "Июнь 2021",
         "year": "2021",
-        "timestamp": "2025-03-30 01:49:10",
+        "timestamp": "2025-04-01 01:08:37",
         "substances": [
             {
                 "name": "Нефть и нефтепродукты в растворенном и эмульгированном состоянии",
@@ -585,7 +365,7 @@
         "field_type_of_mean": "kontr",
         "field_period": "Июнь 2021",
         "year": "2021",
-        "timestamp": "2025-03-30 01:49:10",
+        "timestamp": "2025-04-01 01:08:37",
         "substances": [
             {
                 "name": "Нефть и нефтепродукты в растворенном и эмульгированном состоянии",
@@ -629,7 +409,7 @@
         "field_type_of_mean": "kontr",
         "field_period": "Июнь 2021",
         "year": "2021",
-        "timestamp": "2025-03-30 01:49:10",
+        "timestamp": "2025-04-01 01:08:37",
         "substances": [
             {
                 "name": "Нефть и нефтепродукты в растворенном и эмульгированном состоянии",
@@ -664,6 +444,226 @@
         ]
     },
     {
+        "title": "Июнь т.16.3 300 м ниже выпуска 16 ПСВ в ручей Кутеенка  (54°2929.0с.ш. 30°2434.7в.д.)",
+        "Nid": "2699",
+        "field_geo_point": "2626",
+        "title_1": "КУП \"Оршанская спецавтобаза\" Витебская обл. г.Орша Минжилкомхоз",
+        "field_source": "2655",
+        "title_2": "т.16.3 300 м ниже выпуска 16 ПСВ в ручей Кутеенка (54°29'29.0\"с.ш. 30°24'34.7\"в.д.)",
+        "field_type_of_mean": "kontr",
+        "field_period": "Июнь 2021",
+        "year": "2021",
+        "timestamp": "2025-04-01 01:08:37",
+        "substances": [
+            {
+                "name": "Нефть и нефтепродукты в растворенном и эмульгированном состоянии",
+                "substance_id": "15",
+                "units": "мг/дм3",
+                "units_id": "24",
+                "average_concentration_1": "0.016",
+                "average_concentration_2": null,
+                "average_concentration_3": null,
+                "pdk": "0.05"
+            },
+            {
+                "name": "Взвешенные вещества",
+                "substance_id": "16",
+                "units": "мг/дм3",
+                "units_id": "24",
+                "average_concentration_1": "7.8",
+                "average_concentration_2": null,
+                "average_concentration_3": null,
+                "pdk": "Ф+5"
+            },
+            {
+                "name": "Водородный показатель (pH)",
+                "substance_id": "18",
+                "units": "ед.рН",
+                "units_id": "25",
+                "average_concentration_1": "7.8",
+                "average_concentration_2": null,
+                "average_concentration_3": null,
+                "pdk": "6.5:8.5"
+            }
+        ]
+    },
+    {
+        "title": "Июнь т.5.2 300 м выше выпуска 5 ПСВ в р. Днепр  (54°3031.5с.ш. 30°2559.7в.д.)",
+        "Nid": "2701",
+        "field_geo_point": "2628",
+        "title_1": "КУП \"Оршанская спецавтобаза\" Витебская обл. г.Орша Минжилкомхоз",
+        "field_source": "2657",
+        "title_2": "т.5.2 300 м выше выпуска 5 ПСВ в р. Днепр (54°30'31.5\"с.ш. 30°25'59.7\"в.д.)",
+        "field_type_of_mean": "kontr",
+        "field_period": "Июнь 2021",
+        "year": "2021",
+        "timestamp": "2025-04-01 01:08:37",
+        "substances": [
+            {
+                "name": "Нефть и нефтепродукты в растворенном и эмульгированном состоянии",
+                "substance_id": "15",
+                "units": "мг/дм3",
+                "units_id": "24",
+                "average_concentration_1": "0.009",
+                "average_concentration_2": null,
+                "average_concentration_3": null,
+                "pdk": "0.05"
+            },
+            {
+                "name": "Взвешенные вещества",
+                "substance_id": "16",
+                "units": "мг/дм3",
+                "units_id": "24",
+                "average_concentration_1": "6.2",
+                "average_concentration_2": null,
+                "average_concentration_3": null,
+                "pdk": "25"
+            },
+            {
+                "name": "Водородный показатель (pH)",
+                "substance_id": "18",
+                "units": "ед.рН",
+                "units_id": "25",
+                "average_concentration_1": "7.7",
+                "average_concentration_2": null,
+                "average_concentration_3": null,
+                "pdk": "6.5:8.5"
+            }
+        ]
+    },
+    {
+        "title": "Июнь т.5.3 25 м ниже выпуска 5 ПСВ в р. Днепр (54°3023.2с.ш. 30°2549.0в.д.)",
+        "Nid": "2702",
+        "field_geo_point": "2629",
+        "title_1": "КУП \"Оршанская спецавтобаза\" Витебская обл. г.Орша Минжилкомхоз",
+        "field_source": "2658",
+        "title_2": "т.5.3 25 м ниже выпуска 5 ПСВ в р. Днепр (54°30'23.2\"с.ш. 30°25'49.0\"в.д.)",
+        "field_type_of_mean": "kontr",
+        "field_period": "Июнь 2021",
+        "year": "2021",
+        "timestamp": "2025-04-01 01:08:37",
+        "substances": [
+            {
+                "name": "Нефть и нефтепродукты в растворенном и эмульгированном состоянии",
+                "substance_id": "15",
+                "units": "мг/дм3",
+                "units_id": "24",
+                "average_concentration_1": "0.013",
+                "average_concentration_2": null,
+                "average_concentration_3": null,
+                "pdk": "0.05"
+            },
+            {
+                "name": "Взвешенные вещества",
+                "substance_id": "16",
+                "units": "мг/дм3",
+                "units_id": "24",
+                "average_concentration_1": "6.9",
+                "average_concentration_2": null,
+                "average_concentration_3": null,
+                "pdk": "Ф+5"
+            },
+            {
+                "name": "Водородный показатель (pH)",
+                "substance_id": "18",
+                "units": "ед.рН",
+                "units_id": "25",
+                "average_concentration_1": "7.4",
+                "average_concentration_2": null,
+                "average_concentration_3": null,
+                "pdk": "6.5:8.5"
+            }
+        ]
+    },
+    {
+        "title": "Июнь т.13.3 15 м выше выпуска 13 ПСВ с очистных сооружений в р.Оршица  (54°3034.2с.ш. 30°2518.1в.д.)",
+        "Nid": "2708",
+        "field_geo_point": "2635",
+        "title_1": "КУП \"Оршанская спецавтобаза\" Витебская обл. г.Орша Минжилкомхоз",
+        "field_source": "2664",
+        "title_2": "т.13.3 15 м выше выпуска 13 ПСВ с очистных сооружений в р.Оршица (54°30'34.2\"с.ш. 30°25'18.1\"в.д.)",
+        "field_type_of_mean": "kontr",
+        "field_period": "Июнь 2021",
+        "year": "2021",
+        "timestamp": "2025-04-01 01:08:37",
+        "substances": [
+            {
+                "name": "Нефть и нефтепродукты в растворенном и эмульгированном состоянии",
+                "substance_id": "15",
+                "units": "мг/дм3",
+                "units_id": "24",
+                "average_concentration_1": "0.015",
+                "average_concentration_2": null,
+                "average_concentration_3": null,
+                "pdk": "0.05"
+            },
+            {
+                "name": "Взвешенные вещества",
+                "substance_id": "16",
+                "units": "мг/дм3",
+                "units_id": "24",
+                "average_concentration_1": "7.3",
+                "average_concentration_2": null,
+                "average_concentration_3": null,
+                "pdk": "25"
+            },
+            {
+                "name": "Водородный показатель (pH)",
+                "substance_id": "18",
+                "units": "ед.рН",
+                "units_id": "25",
+                "average_concentration_1": "7.6",
+                "average_concentration_2": null,
+                "average_concentration_3": null,
+                "pdk": "6.5:8.5"
+            }
+        ]
+    },
+    {
+        "title": "Июнь т.13.4 140 м ниже выпуска 13 ПСВ с очистных сооружений в р. Оршица (54°3029.9с.ш. 30°2520.4в.д.)",
+        "Nid": "2709",
+        "field_geo_point": "2636",
+        "title_1": "КУП \"Оршанская спецавтобаза\" Витебская обл. г.Орша Минжилкомхоз",
+        "field_source": "2665",
+        "title_2": "т.13.4 140 м ниже выпуска 13 ПСВ с очистных сооружений в р. Оршица (54°30'29.9\"с.ш. 30°25'20.4\"в.д.)",
+        "field_type_of_mean": "kontr",
+        "field_period": "Июнь 2021",
+        "year": "2021",
+        "timestamp": "2025-04-01 01:08:37",
+        "substances": [
+            {
+                "name": "Нефть и нефтепродукты в растворенном и эмульгированном состоянии",
+                "substance_id": "15",
+                "units": "мг/дм3",
+                "units_id": "24",
+                "average_concentration_1": "0.018",
+                "average_concentration_2": null,
+                "average_concentration_3": null,
+                "pdk": "0.05"
+            },
+            {
+                "name": "Взвешенные вещества",
+                "substance_id": "16",
+                "units": "мг/дм3",
+                "units_id": "24",
+                "average_concentration_1": "7.9",
+                "average_concentration_2": null,
+                "average_concentration_3": null,
+                "pdk": "Ф+5"
+            },
+            {
+                "name": "Водородный показатель (pH)",
+                "substance_id": "18",
+                "units": "ед.рН",
+                "units_id": "25",
+                "average_concentration_1": "7.7",
+                "average_concentration_2": null,
+                "average_concentration_3": null,
+                "pdk": "6.5:8.5"
+            }
+        ]
+    },
+    {
         "title": "май РУПТП \"Оршанский льнокомбинат\"",
         "Nid": "2600",
         "field_geo_point": "1220",
@@ -673,7 +673,7 @@
         "field_type_of_mean": "fon",
         "field_period": "Май 2021",
         "year": "2021",
-        "timestamp": "2025-03-30 01:49:10",
+        "timestamp": "2025-04-01 01:08:37",
         "substances": [
             {
                 "name": "Водородный показатель (pH)",
@@ -827,7 +827,7 @@
         "field_type_of_mean": "fon",
         "field_period": "30.06.2020",
         "year": "2020",
-        "timestamp": "2025-03-30 01:49:10",
+        "timestamp": "2025-04-01 01:08:37",
         "substances": [
             {
                 "name": "Нефть и нефтепродукты в растворенном и эмульгированном состоянии",
@@ -871,7 +871,7 @@
         "field_type_of_mean": "kontr",
         "field_period": "30.06.2020",
         "year": "2020",
-        "timestamp": "2025-03-30 01:49:10",
+        "timestamp": "2025-04-01 01:08:37",
         "substances": [
             {
                 "name": "Нефть и нефтепродукты в растворенном и эмульгированном состоянии",
@@ -915,7 +915,7 @@
         "field_type_of_mean": "kontr",
         "field_period": "06.05.2020",
         "year": "2020",
-        "timestamp": "2025-03-30 01:49:10",
+        "timestamp": "2025-04-01 01:08:37",
         "substances": [
             {
                 "name": "Нефть и нефтепродукты в растворенном и эмульгированном состоянии",
@@ -959,7 +959,7 @@
         "field_type_of_mean": "fon",
         "field_period": "07.05.2020",
         "year": "2020",
-        "timestamp": "2025-03-30 01:49:10",
+        "timestamp": "2025-04-01 01:08:37",
         "substances": [
             {
                 "name": "Нефть и нефтепродукты в растворенном и эмульгированном состоянии",
@@ -1003,7 +1003,7 @@
         "field_type_of_mean": "kontr",
         "field_period": "07.05.2020",
         "year": "2020",
-        "timestamp": "2025-03-30 01:49:10",
+        "timestamp": "2025-04-01 01:08:37",
         "substances": [
             {
                 "name": "Нефть и нефтепродукты в растворенном и эмульгированном состоянии",

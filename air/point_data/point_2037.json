@@ -1,0 +1,56 @@
+[
+    {
+        "node": {
+            "title": "2116 - 2037",
+            "Nid": "2436",
+            "timestamp": "2025-04-01 01:08:37",
+            "field_geo_point": "2037",
+            "field_source": "2116",
+            "field_period": "",
+            "title_1": "УЗ ”Витебский госпиталь ИВОВ ”Юрцево“",
+            "title_2": "УЗ ”Витебский госпиталь ИВОВ ”Юрцево“",
+            "substances": [
+                {
+                    "field_name_of_substance": "Азот (IV) оксид (азота диоксид)",
+                    "field_name_of_substance_id": "84",
+                    "field_code": "301",
+                    "field_danger_class": "2",
+                    "field_znachenie": "0.079",
+                    "field_year_value": "2.572"
+                },
+                {
+                    "field_name_of_substance": "Азот (IV) оксид (азота диоксид)",
+                    "field_name_of_substance_id": "84",
+                    "field_code": "304",
+                    "field_danger_class": "3",
+                    "field_znachenie": "0.001",
+                    "field_year_value": "0.418"
+                },
+                {
+                    "field_name_of_substance": "Сера диоксид (ангидрид сернистый",
+                    "field_name_of_substance_id": "86",
+                    "field_code": "330",
+                    "field_danger_class": "3",
+                    "field_znachenie": "0.016",
+                    "field_year_value": "0.249"
+                },
+                {
+                    "field_name_of_substance": "Углерод оксид (окись углерода, угарный газ)",
+                    "field_name_of_substance_id": "201",
+                    "field_code": "337",
+                    "field_danger_class": "4",
+                    "field_znachenie": "0.366",
+                    "field_year_value": "5.967"
+                },
+                {
+                    "field_name_of_substance": "Твердые частицы (недифференцированная по составу пыль/аэрозоль)",
+                    "field_name_of_substance_id": "10",
+                    "field_code": "2902",
+                    "field_danger_class": "3",
+                    "field_znachenie": "0.08",
+                    "field_year_value": "1.285"
+                }
+            ]
+        }
+    }
+]

@@ -1,0 +1,88 @@
+[
+    {
+        "node": {
+            "title": "2127 - 2048",
+            "Nid": "2447",
+            "timestamp": "2025-04-01 01:08:37",
+            "field_geo_point": "2048",
+            "field_source": "2127",
+            "field_period": "",
+            "title_1": "КУП  ”Оршанский спецкомбинат“",
+            "title_2": "КУП  ”Оршанский спецкомбинат“",
+            "substances": [
+                {
+                    "field_name_of_substance": "Кадмий и его соединения (в пересчете на кадмий)",
+                    "field_name_of_substance_id": "78",
+                    "field_code": "124",
+                    "field_danger_class": "1",
+                    "field_znachenie": "0.000369",
+                    "field_year_value": "1.0E-6"
+                },
+                {
+                    "field_name_of_substance": "Ртуть и ее соединения (в пересчете на ртуть)",
+                    "field_name_of_substance_id": "81",
+                    "field_code": "183",
+                    "field_danger_class": "1",
+                    "field_znachenie": "7.4E-5",
+                    "field_year_value": "1.0E-6"
+                },
+                {
+                    "field_name_of_substance": "Свинец и его неорганические соединения (в пересчете на свинец)",
+                    "field_name_of_substance_id": "82",
+                    "field_code": "184",
+                    "field_danger_class": "1",
+                    "field_znachenie": "0.002217",
+                    "field_year_value": "8.0E-6"
+                },
+                {
+                    "field_name_of_substance": "Азот (IV) оксид (азота диоксид)",
+                    "field_name_of_substance_id": "84",
+                    "field_code": "301",
+                    "field_danger_class": "2",
+                    "field_znachenie": "0.032",
+                    "field_year_value": "0.051"
+                },
+                {
+                    "field_name_of_substance": "Азот (IV) оксид (азота диоксид)",
+                    "field_name_of_substance_id": "84",
+                    "field_code": "304",
+                    "field_danger_class": "3",
+                    "field_znachenie": "0.001",
+                    "field_year_value": "0.008"
+                },
+                {
+                    "field_name_of_substance": "Сера диоксид (ангидрид сернистый",
+                    "field_name_of_substance_id": "86",
+                    "field_code": "330",
+                    "field_danger_class": "3",
+                    "field_znachenie": "0.011",
+                    "field_year_value": "0.041"
+                },
+                {
+                    "field_name_of_substance": "Углерод оксид (окись углерода, угарный газ)",
+                    "field_name_of_substance_id": "201",
+                    "field_code": "337",
+                    "field_danger_class": "4",
+                    "field_znachenie": "0.249",
+                    "field_year_value": "0.794"
+                },
+                {
+                    "field_name_of_substance": "Бенз(а)пирен",
+                    "field_name_of_substance_id": "183",
+                    "field_code": "703",
+                    "field_danger_class": "1",
+                    "field_znachenie": "1.0E-6",
+                    "field_year_value": "1.0E-6"
+                },
+                {
+                    "field_name_of_substance": "Твердые частицы (недифференцированная по составу пыль/аэрозоль)",
+                    "field_name_of_substance_id": "10",
+                    "field_code": "2902",
+                    "field_danger_class": "3",
+                    "field_znachenie": "0.154",
+                    "field_year_value": "1.451"
+                }
+            ]
+        }
+    }
+]

@@ -1,0 +1,390 @@
+[
+    {
+        "node": {
+            "title": "1861-1931",
+            "field_geo_point": "1861",
+            "title_1": "ул. Белинского, Геологопоисковая партия",
+            "field_source": "1931",
+            "title_2": "ул. Белинского, Геологопоисковая партия",
+            "field_period": "2015",
+            "substances": [
+                {
+                    "field_name_of_substance": "Нефть и нефтепродукты в растворенном и эмульгированном состоянии",
+                    "field_name_of_substance_id": "15",
+                    "field_units_referencee": null,
+                    "field_units_referencee_id": null,
+                    "field_pdk_odk": "100.0",
+                    "field_soderz": "246.2"
+                },
+                {
+                    "field_name_of_substance": "сульфаты",
+                    "field_name_of_substance_id": "64",
+                    "field_units_referencee": null,
+                    "field_units_referencee_id": null,
+                    "field_pdk_odk": "160.0",
+                    "field_soderz": "50.0"
+                },
+                {
+                    "field_name_of_substance": "Нитраты",
+                    "field_name_of_substance_id": "65",
+                    "field_units_referencee": null,
+                    "field_units_referencee_id": null,
+                    "field_pdk_odk": "130.0",
+                    "field_soderz": "7.4"
+                },
+                {
+                    "field_name_of_substance": "Бенз(а)пирен",
+                    "field_name_of_substance_id": "183",
+                    "field_units_referencee": null,
+                    "field_units_referencee_id": null,
+                    "field_pdk_odk": "0.02",
+                    "field_soderz": "0.002"
+                },
+                {
+                    "field_name_of_substance": "кадмий(Cd)",
+                    "field_name_of_substance_id": "67",
+                    "field_units_referencee": null,
+                    "field_units_referencee_id": null,
+                    "field_pdk_odk": "0.5",
+                    "field_soderz": "0.11"
+                },
+                {
+                    "field_name_of_substance": "цинк(Zn)",
+                    "field_name_of_substance_id": "68",
+                    "field_units_referencee": null,
+                    "field_units_referencee_id": null,
+                    "field_pdk_odk": "55.0",
+                    "field_soderz": "32.0"
+                },
+                {
+                    "field_name_of_substance": "свинец(Pb)",
+                    "field_name_of_substance_id": "69",
+                    "field_units_referencee": null,
+                    "field_units_referencee_id": null,
+                    "field_pdk_odk": "32.0",
+                    "field_soderz": "7.6"
+                },
+                {
+                    "field_name_of_substance": "медь(Cu)",
+                    "field_name_of_substance_id": "70",
+                    "field_units_referencee": null,
+                    "field_units_referencee_id": null,
+                    "field_pdk_odk": "33.0",
+                    "field_soderz": "7.1"
+                },
+                {
+                    "field_name_of_substance": "никель(Ni)",
+                    "field_name_of_substance_id": "71",
+                    "field_units_referencee": null,
+                    "field_units_referencee_id": null,
+                    "field_pdk_odk": "20.0",
+                    "field_soderz": "4.2"
+                },
+                {
+                    "field_name_of_substance": "Хром",
+                    "field_name_of_substance_id": "31",
+                    "field_units_referencee": null,
+                    "field_units_referencee_id": null,
+                    "field_pdk_odk": "-",
+                    "field_soderz": "-"
+                },
+                {
+                    "field_name_of_substance": "Ртуть",
+                    "field_name_of_substance_id": "72",
+                    "field_units_referencee": null,
+                    "field_units_referencee_id": null,
+                    "field_pdk_odk": "-",
+                    "field_soderz": "-"
+                },
+                {
+                    "field_name_of_substance": "Мышьяк",
+                    "field_name_of_substance_id": "73",
+                    "field_units_referencee": null,
+                    "field_units_referencee_id": null,
+                    "field_pdk_odk": "-",
+                    "field_soderz": "-"
+                },
+                {
+                    "field_name_of_substance": "хлориды",
+                    "field_name_of_substance_id": "74",
+                    "field_units_referencee": null,
+                    "field_units_referencee_id": null,
+                    "field_pdk_odk": "-",
+                    "field_soderz": "-"
+                },
+                {
+                    "field_name_of_substance": "ПХД",
+                    "field_name_of_substance_id": "75",
+                    "field_units_referencee": null,
+                    "field_units_referencee_id": null,
+                    "field_pdk_odk": "-",
+                    "field_soderz": "-"
+                }
+            ]
+        }
+    },
+    {
+        "node": {
+            "title": "1861-1931",
+            "field_geo_point": "1861",
+            "title_1": "ул. Белинского, Геологопоисковая партия",
+            "field_source": "1931",
+            "title_2": "ул. Белинского, Геологопоисковая партия",
+            "field_period": "2020",
+            "substances": [
+                {
+                    "field_name_of_substance": "Нефть и нефтепродукты в растворенном и эмульгированном состоянии",
+                    "field_name_of_substance_id": "15",
+                    "field_units_referencee": null,
+                    "field_units_referencee_id": null,
+                    "field_pdk_odk": "100",
+                    "field_soderz": "262.0"
+                },
+                {
+                    "field_name_of_substance": "сульфаты",
+                    "field_name_of_substance_id": "64",
+                    "field_units_referencee": null,
+                    "field_units_referencee_id": null,
+                    "field_pdk_odk": "160",
+                    "field_soderz": "66.3"
+                },
+                {
+                    "field_name_of_substance": "Нитраты",
+                    "field_name_of_substance_id": "65",
+                    "field_units_referencee": null,
+                    "field_units_referencee_id": null,
+                    "field_pdk_odk": "130",
+                    "field_soderz": "<2.8"
+                },
+                {
+                    "field_name_of_substance": "Бенз(а)пирен",
+                    "field_name_of_substance_id": "183",
+                    "field_units_referencee": null,
+                    "field_units_referencee_id": null,
+                    "field_pdk_odk": "0.02",
+                    "field_soderz": "0.011"
+                },
+                {
+                    "field_name_of_substance": "кадмий(Cd)",
+                    "field_name_of_substance_id": "67",
+                    "field_units_referencee": null,
+                    "field_units_referencee_id": null,
+                    "field_pdk_odk": "0.5",
+                    "field_soderz": "0.1"
+                },
+                {
+                    "field_name_of_substance": "цинк(Zn)",
+                    "field_name_of_substance_id": "68",
+                    "field_units_referencee": null,
+                    "field_units_referencee_id": null,
+                    "field_pdk_odk": "55",
+                    "field_soderz": "38.0"
+                },
+                {
+                    "field_name_of_substance": "свинец(Pb)",
+                    "field_name_of_substance_id": "69",
+                    "field_units_referencee": null,
+                    "field_units_referencee_id": null,
+                    "field_pdk_odk": "32",
+                    "field_soderz": "8.8"
+                },
+                {
+                    "field_name_of_substance": "медь(Cu)",
+                    "field_name_of_substance_id": "70",
+                    "field_units_referencee": null,
+                    "field_units_referencee_id": null,
+                    "field_pdk_odk": "33",
+                    "field_soderz": "5.0"
+                },
+                {
+                    "field_name_of_substance": "никель(Ni)",
+                    "field_name_of_substance_id": "71",
+                    "field_units_referencee": null,
+                    "field_units_referencee_id": null,
+                    "field_pdk_odk": "20",
+                    "field_soderz": "3.0"
+                },
+                {
+                    "field_name_of_substance": "Хром",
+                    "field_name_of_substance_id": "31",
+                    "field_units_referencee": null,
+                    "field_units_referencee_id": null,
+                    "field_pdk_odk": "100",
+                    "field_soderz": "8.6"
+                },
+                {
+                    "field_name_of_substance": "Ртуть",
+                    "field_name_of_substance_id": "72",
+                    "field_units_referencee": null,
+                    "field_units_referencee_id": null,
+                    "field_pdk_odk": "2.1",
+                    "field_soderz": "0.1"
+                },
+                {
+                    "field_name_of_substance": "Мышьяк",
+                    "field_name_of_substance_id": "73",
+                    "field_units_referencee": null,
+                    "field_units_referencee_id": null,
+                    "field_pdk_odk": "2",
+                    "field_soderz": "2.3"
+                },
+                {
+                    "field_name_of_substance": "хлориды",
+                    "field_name_of_substance_id": "74",
+                    "field_units_referencee": null,
+                    "field_units_referencee_id": null,
+                    "field_pdk_odk": "360",
+                    "field_soderz": "56.1"
+                },
+                {
+                    "field_name_of_substance": "ПХД",
+                    "field_name_of_substance_id": "75",
+                    "field_units_referencee": null,
+                    "field_units_referencee_id": null,
+                    "field_pdk_odk": "0.02",
+                    "field_soderz": "<0.0001"
+                },
+                {
+                    "field_name_of_substance": "ph",
+                    "field_name_of_substance_id": "76",
+                    "field_units_referencee": null,
+                    "field_units_referencee_id": null,
+                    "field_pdk_odk": "-",
+                    "field_soderz": "7.46"
+                }
+            ]
+        }
+    },
+    {
+        "node": {
+            "title": "1861-1931",
+            "field_geo_point": "1861",
+            "title_1": "ул. Белинского, Геологопоисковая партия",
+            "field_source": "1931",
+            "title_2": "ул. Белинского, Геологопоисковая партия",
+            "field_period": "2020",
+            "substances": [
+                {
+                    "field_name_of_substance": "Нефть и нефтепродукты в растворенном и эмульгированном состоянии",
+                    "field_name_of_substance_id": "15",
+                    "field_units_referencee": null,
+                    "field_units_referencee_id": null,
+                    "field_pdk_odk": "100",
+                    "field_soderz": "262.0"
+                },
+                {
+                    "field_name_of_substance": "сульфаты",
+                    "field_name_of_substance_id": "64",
+                    "field_units_referencee": null,
+                    "field_units_referencee_id": null,
+                    "field_pdk_odk": "160",
+                    "field_soderz": "66.3"
+                },
+                {
+                    "field_name_of_substance": "Нитраты",
+                    "field_name_of_substance_id": "65",
+                    "field_units_referencee": null,
+                    "field_units_referencee_id": null,
+                    "field_pdk_odk": "130",
+                    "field_soderz": "<2.8"
+                },
+                {
+                    "field_name_of_substance": "Бенз(а)пирен",
+                    "field_name_of_substance_id": "183",
+                    "field_units_referencee": null,
+                    "field_units_referencee_id": null,
+                    "field_pdk_odk": "0.02",
+                    "field_soderz": "0.011"
+                },
+                {
+                    "field_name_of_substance": "кадмий(Cd)",
+                    "field_name_of_substance_id": "67",
+                    "field_units_referencee": null,
+                    "field_units_referencee_id": null,
+                    "field_pdk_odk": "0.5",
+                    "field_soderz": "0.1"
+                },
+                {
+                    "field_name_of_substance": "цинк(Zn)",
+                    "field_name_of_substance_id": "68",
+                    "field_units_referencee": null,
+                    "field_units_referencee_id": null,
+                    "field_pdk_odk": "55",
+                    "field_soderz": "38.0"
+                },
+                {
+                    "field_name_of_substance": "свинец(Pb)",
+                    "field_name_of_substance_id": "69",
+                    "field_units_referencee": null,
+                    "field_units_referencee_id": null,
+                    "field_pdk_odk": "32",
+                    "field_soderz": "8.8"
+                },
+                {
+                    "field_name_of_substance": "медь(Cu)",
+                    "field_name_of_substance_id": "70",
+                    "field_units_referencee": null,
+                    "field_units_referencee_id": null,
+                    "field_pdk_odk": "33",
+                    "field_soderz": "5.0"
+                },
+                {
+                    "field_name_of_substance": "никель(Ni)",
+                    "field_name_of_substance_id": "71",
+                    "field_units_referencee": null,
+                    "field_units_referencee_id": null,
+                    "field_pdk_odk": "20",
+                    "field_soderz": "3.0"
+                },
+                {
+                    "field_name_of_substance": "Хром",
+                    "field_name_of_substance_id": "31",
+                    "field_units_referencee": null,
+                    "field_units_referencee_id": null,
+                    "field_pdk_odk": "100",
+                    "field_soderz": "8.6"
+                },
+                {
+                    "field_name_of_substance": "Ртуть",
+                    "field_name_of_substance_id": "72",
+                    "field_units_referencee": null,
+                    "field_units_referencee_id": null,
+                    "field_pdk_odk": "2.1",
+                    "field_soderz": "0.1"
+                },
+                {
+                    "field_name_of_substance": "Мышьяк",
+                    "field_name_of_substance_id": "73",
+                    "field_units_referencee": null,
+                    "field_units_referencee_id": null,
+                    "field_pdk_odk": "2",
+                    "field_soderz": "2.3"
+                },
+                {
+                    "field_name_of_substance": "хлориды",
+                    "field_name_of_substance_id": "74",
+                    "field_units_referencee": null,
+                    "field_units_referencee_id": null,
+                    "field_pdk_odk": "360",
+                    "field_soderz": "99.8"
+                },
+                {
+                    "field_name_of_substance": "ПХД",
+                    "field_name_of_substance_id": "75",
+                    "field_units_referencee": null,
+                    "field_units_referencee_id": null,
+                    "field_pdk_odk": "0.02",
+                    "field_soderz": "<0.0001"
+                },
+                {
+                    "field_name_of_substance": "ph",
+                    "field_name_of_substance_id": "76",
+                    "field_units_referencee": null,
+                    "field_units_referencee_id": null,
+                    "field_pdk_odk": "-",
+                    "field_soderz": "7.46"
+                }
+            ]
+        }
+    }
+]

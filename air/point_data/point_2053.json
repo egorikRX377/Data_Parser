@@ -1,0 +1,120 @@
+[
+    {
+        "node": {
+            "title": "2132 - 2053",
+            "Nid": "2452",
+            "timestamp": "2025-04-01 01:08:37",
+            "field_geo_point": "2053",
+            "field_source": "2132",
+            "field_period": "",
+            "title_1": "ОАО ”Завод ”Легмаш“",
+            "title_2": "ОАО ”Завод ”Легмаш“",
+            "substances": [
+                {
+                    "field_name_of_substance": "Натрий гидроксид (натр едкий",
+                    "field_name_of_substance_id": "80",
+                    "field_code": "150",
+                    "field_danger_class": "0",
+                    "field_znachenie": "0.008",
+                    "field_year_value": "0.013"
+                },
+                {
+                    "field_name_of_substance": "Хром (VI)",
+                    "field_name_of_substance_id": "135",
+                    "field_code": "203",
+                    "field_danger_class": "1",
+                    "field_znachenie": "0.018",
+                    "field_year_value": "0.003"
+                },
+                {
+                    "field_name_of_substance": "Барий и его соединения (в пересчете нао барий)",
+                    "field_name_of_substance_id": "155",
+                    "field_code": "231",
+                    "field_danger_class": "1",
+                    "field_znachenie": "0.003",
+                    "field_year_value": "1.0E-6"
+                },
+                {
+                    "field_name_of_substance": "Азот (IV) оксид (азота диоксид)",
+                    "field_name_of_substance_id": "84",
+                    "field_code": "301",
+                    "field_danger_class": "2",
+                    "field_znachenie": "1.147",
+                    "field_year_value": "1.29"
+                },
+                {
+                    "field_name_of_substance": "Аммиак",
+                    "field_name_of_substance_id": "9",
+                    "field_code": "303",
+                    "field_danger_class": "4",
+                    "field_znachenie": "0.003",
+                    "field_year_value": "0.007"
+                },
+                {
+                    "field_name_of_substance": "Азот (IV) оксид (азота диоксид)",
+                    "field_name_of_substance_id": "84",
+                    "field_code": "304",
+                    "field_danger_class": "3",
+                    "field_znachenie": "0.013",
+                    "field_year_value": "0.004"
+                },
+                {
+                    "field_name_of_substance": "Гидрохлорид (водород хлорид,соляная кислота)",
+                    "field_name_of_substance_id": "160",
+                    "field_code": "316",
+                    "field_danger_class": "2",
+                    "field_znachenie": "0.001",
+                    "field_year_value": "0.094"
+                },
+                {
+                    "field_name_of_substance": "Сера диоксид (ангидрид сернистый",
+                    "field_name_of_substance_id": "86",
+                    "field_code": "330",
+                    "field_danger_class": "3",
+                    "field_znachenie": "0.13",
+                    "field_year_value": "0.039"
+                },
+                {
+                    "field_name_of_substance": "Углерод оксид (окись углерода, угарный газ)",
+                    "field_name_of_substance_id": "201",
+                    "field_code": "337",
+                    "field_danger_class": "4",
+                    "field_znachenie": "0.701",
+                    "field_year_value": "0.526"
+                },
+                {
+                    "field_name_of_substance": "Фтористые газообразные соединения (в пересчете на фтор): - гидрофторид",
+                    "field_name_of_substance_id": "100",
+                    "field_code": "342",
+                    "field_danger_class": "2",
+                    "field_znachenie": "0.106",
+                    "field_year_value": "0.001"
+                },
+                {
+                    "field_name_of_substance": "Метан",
+                    "field_name_of_substance_id": "129",
+                    "field_code": "410",
+                    "field_danger_class": "4",
+                    "field_znachenie": "0.001",
+                    "field_year_value": "0.001"
+                },
+                {
+                    "field_name_of_substance": "Формальдегид (метаналь)",
+                    "field_name_of_substance_id": "105",
+                    "field_code": "1325",
+                    "field_danger_class": "2",
+                    "field_znachenie": "0.001",
+                    "field_year_value": "0.001"
+                },
+                {
+                    "field_name_of_substance": "Твердые частицы (недифференцированная по составу пыль/аэрозоль)",
+                    "field_name_of_substance_id": "10",
+                    "field_code": "2902",
+                    "field_danger_class": "3",
+                    "field_znachenie": "1.743",
+                    "field_year_value": "1.885"
+                }
+            ]
+        }
+    }
+]

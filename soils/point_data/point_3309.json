@@ -1,0 +1,113 @@
+[
+    {
+        "node": {
+            "title": "ЛМ КУП «ОРШАНСКАЯ СПЕЦАВТОБАЗА» 2022",
+            "field_geo_point": "3309",
+            "title_1": "КУП «Оршанская спецавтобаза» (полигон ТКО г.п. Ореховск)",
+            "field_source": "3316",
+            "title_2": "Санитарно-защитная зона полигона ТКО г.п. Ореховск, в 30 км от г. Орша и в 5 км от г.п. Ореховск",
+            "field_period": "2022 ",
+            "substances": [
+                {
+                    "field_name_of_substance": "Кадмий",
+                    "field_name_of_substance_id": "50",
+                    "field_units_referencee": "мг/кг",
+                    "field_units_referencee_id": "280",
+                    "field_actul_value": "0.5837",
+                    "field_pdk": "3.86",
+                    "field_quarterly_average": null,
+                    "field_local_analytical_avarage": null,
+                    "field_analytical_actual_value": null
+                },
+                {
+                    "field_name_of_substance": "Медь",
+                    "field_name_of_substance_id": "29",
+                    "field_units_referencee": "мг/кг",
+                    "field_units_referencee_id": "280",
+                    "field_actul_value": "20.6",
+                    "field_pdk": "141",
+                    "field_quarterly_average": null,
+                    "field_local_analytical_avarage": null,
+                    "field_analytical_actual_value": null
+                },
+                {
+                    "field_name_of_substance": "Мышьяк",
+                    "field_name_of_substance_id": "73",
+                    "field_units_referencee": "мг/кг",
+                    "field_units_referencee_id": "280",
+                    "field_actul_value": "0.1",
+                    "field_pdk": "34.6",
+                    "field_quarterly_average": null,
+                    "field_local_analytical_avarage": null,
+                    "field_analytical_actual_value": null
+                },
+                {
+                    "field_name_of_substance": "Нефтепродукты",
+                    "field_name_of_substance_id": "239",
+                    "field_units_referencee": "мг/кг",
+                    "field_units_referencee_id": "280",
+                    "field_actul_value": "25.67",
+                    "field_pdk": "1560",
+                    "field_quarterly_average": null,
+                    "field_local_analytical_avarage": null,
+                    "field_analytical_actual_value": null
+                },
+                {
+                    "field_name_of_substance": "Никель",
+                    "field_name_of_substance_id": "32",
+                    "field_units_referencee": "мг/кг",
+                    "field_units_referencee_id": "280",
+                    "field_actul_value": "59.4264",
+                    "field_pdk": "92.4",
+                    "field_quarterly_average": null,
+                    "field_local_analytical_avarage": null,
+                    "field_analytical_actual_value": null
+                },
+                {
+                    "field_name_of_substance": "Ртуть",
+                    "field_name_of_substance_id": "72",
+                    "field_units_referencee": "мг/кг",
+                    "field_units_referencee_id": "280",
+                    "field_actul_value": "0.1",
+                    "field_pdk": "11.8",
+                    "field_quarterly_average": null,
+                    "field_local_analytical_avarage": null,
+                    "field_analytical_actual_value": null
+                },
+                {
+                    "field_name_of_substance": "Свинец",
+                    "field_name_of_substance_id": "51",
+                    "field_units_referencee": "мг/кг",
+                    "field_units_referencee_id": "280",
+                    "field_actul_value": "24.209",
+                    "field_pdk": "189",
+                    "field_quarterly_average": null,
+                    "field_local_analytical_avarage": null,
+                    "field_analytical_actual_value": null
+                },
+                {
+                    "field_name_of_substance": "Хром",
+                    "field_name_of_substance_id": "31",
+                    "field_units_referencee": "мг/кг",
+                    "field_units_referencee_id": "280",
+                    "field_actul_value": "65.7",
+                    "field_pdk": "205",
+                    "field_quarterly_average": null,
+                    "field_local_analytical_avarage": null,
+                    "field_analytical_actual_value": null
+                },
+                {
+                    "field_name_of_substance": "Цинк",
+                    "field_name_of_substance_id": "30",
+                    "field_units_referencee": "мг/кг",
+                    "field_units_referencee_id": "280",
+                    "field_actul_value": "202.6",
+                    "field_pdk": "399",
+                    "field_quarterly_average": null,
+                    "field_local_analytical_avarage": null,
+                    "field_analytical_actual_value": null
+                }
+            ]
+        }
+    }
+]

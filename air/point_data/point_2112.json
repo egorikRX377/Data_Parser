@@ -1,0 +1,80 @@
+[
+    {
+        "node": {
+            "title": "2191 - 2112",
+            "Nid": "2510",
+            "timestamp": "2025-04-01 01:08:37",
+            "field_geo_point": "2112",
+            "field_source": "2191",
+            "field_period": "",
+            "title_1": "ЭРУП ”Рельсосварочный поезд №10 станции Орша Белорусской Ж.Д.“",
+            "title_2": "ЭРУП ”Рельсосварочный поезд №10 станции Орша Белорусской Ж.Д.“",
+            "substances": [
+                {
+                    "field_name_of_substance": "Железо и его соединения (в пересчете на железо)",
+                    "field_name_of_substance_id": "99",
+                    "field_code": "130",
+                    "field_danger_class": "3",
+                    "field_znachenie": "0.036",
+                    "field_year_value": "0.128"
+                },
+                {
+                    "field_name_of_substance": "Хром (VI)",
+                    "field_name_of_substance_id": "135",
+                    "field_code": "203",
+                    "field_danger_class": "1",
+                    "field_znachenie": "8.2E-5",
+                    "field_year_value": "3.5E-5"
+                },
+                {
+                    "field_name_of_substance": "Азот (IV) оксид (азота диоксид)",
+                    "field_name_of_substance_id": "84",
+                    "field_code": "301",
+                    "field_danger_class": "2",
+                    "field_znachenie": "0.048",
+                    "field_year_value": "0.116"
+                },
+                {
+                    "field_name_of_substance": "Азот (IV) оксид (азота диоксид)",
+                    "field_name_of_substance_id": "84",
+                    "field_code": "304",
+                    "field_danger_class": "3",
+                    "field_znachenie": "0.001",
+                    "field_year_value": "0.006"
+                },
+                {
+                    "field_name_of_substance": "Углерод оксид (окись углерода, угарный газ)",
+                    "field_name_of_substance_id": "201",
+                    "field_code": "337",
+                    "field_danger_class": "4",
+                    "field_znachenie": "0.06",
+                    "field_year_value": "0.135"
+                },
+                {
+                    "field_name_of_substance": "Фтористые газообразные соединения (в пересчете на фтор): - гидрофторид",
+                    "field_name_of_substance_id": "100",
+                    "field_code": "342",
+                    "field_danger_class": "2",
+                    "field_znachenie": "0.001",
+                    "field_year_value": "0.001"
+                },
+                {
+                    "field_name_of_substance": "Бенз(а)пирен",
+                    "field_name_of_substance_id": "183",
+                    "field_code": "703",
+                    "field_danger_class": "1",
+                    "field_znachenie": "1.0E-6",
+                    "field_year_value": "1.0E-6"
+                },
+                {
+                    "field_name_of_substance": "Твердые частицы (недифференцированная по составу пыль/аэрозоль)",
+                    "field_name_of_substance_id": "10",
+                    "field_code": "2902",
+                    "field_danger_class": "3",
+                    "field_znachenie": "0.483",
+                    "field_year_value": "1.415"
+                }
+            ]
+        }
+    }
+]

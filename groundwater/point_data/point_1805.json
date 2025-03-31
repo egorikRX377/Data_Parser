@@ -1,0 +1,2390 @@
+[
+    {
+        "node": {
+            "title": "ЛМ ДКСА УП по саночистке города \"Оршанская спецавтобаза\" (полигон ТКО г. Орша) июнь 2020",
+            "field_geo_point": "1805",
+            "title_1": "ДКСА УП по саночистке города \"Оршанская спецавтобаза\"",
+            "field_source": "1809",
+            "title_2": "ДКСА УП по саночистке города \"Оршанская спецавтобаза\" наблюдательная скважина №1",
+            "field_period": "Июнь 2020",
+            "substances": [
+                {
+                    "field_name_of_substance": "Нефтепродукты",
+                    "field_name_of_substance_id": "239",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "наблюдательная скважина №1",
+                    "field_fact_conct": "0.019"
+                },
+                {
+                    "field_name_of_substance": "Минерализация воды",
+                    "field_name_of_substance_id": "28",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "наблюдательная скважина №1",
+                    "field_fact_conct": "486"
+                },
+                {
+                    "field_name_of_substance": "СПАВ анионоактивные",
+                    "field_name_of_substance_id": "249",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "наблюдательная скважина №1",
+                    "field_fact_conct": "<п.о."
+                },
+                {
+                    "field_name_of_substance": "Медь",
+                    "field_name_of_substance_id": "29",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "наблюдательная скважина №1",
+                    "field_fact_conct": "<п.о."
+                },
+                {
+                    "field_name_of_substance": "Цинк",
+                    "field_name_of_substance_id": "30",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "наблюдательная скважина №1",
+                    "field_fact_conct": "0.016"
+                },
+                {
+                    "field_name_of_substance": "Хром",
+                    "field_name_of_substance_id": "31",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "наблюдательная скважина №1",
+                    "field_fact_conct": "<п.о."
+                },
+                {
+                    "field_name_of_substance": "Никель",
+                    "field_name_of_substance_id": "32",
+                    "field_units_referencee": "мкг/дм3",
+                    "field_units_referencee_id": "39",
+                    "field_number_skv": "наблюдательная скважина №1",
+                    "field_fact_conct": "менее 10"
+                },
+                {
+                    "field_name_of_substance": "Свинец",
+                    "field_name_of_substance_id": "51",
+                    "field_units_referencee": "мкг/дм3",
+                    "field_units_referencee_id": "39",
+                    "field_number_skv": "наблюдательная скважина №1",
+                    "field_fact_conct": "<п.о."
+                },
+                {
+                    "field_name_of_substance": "Кадмий",
+                    "field_name_of_substance_id": "50",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "наблюдательная скважина №1",
+                    "field_fact_conct": "<п.о."
+                },
+                {
+                    "field_name_of_substance": "Водородный показатель (pH)",
+                    "field_name_of_substance_id": "18",
+                    "field_units_referencee": "ед.рН",
+                    "field_units_referencee_id": "25",
+                    "field_number_skv": "наблюдательная скважина №1",
+                    "field_fact_conct": "7.2"
+                },
+                {
+                    "field_name_of_substance": "Температура",
+                    "field_name_of_substance_id": "49",
+                    "field_units_referencee": "°С",
+                    "field_units_referencee_id": "252",
+                    "field_number_skv": "наблюдательная скважина №1",
+                    "field_fact_conct": "6.8"
+                },
+                {
+                    "field_name_of_substance": "Марганец",
+                    "field_name_of_substance_id": "45",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "наблюдательная скважина №1",
+                    "field_fact_conct": "0.166"
+                },
+                {
+                    "field_name_of_substance": "Ртуть",
+                    "field_name_of_substance_id": "72",
+                    "field_units_referencee": "мкг/дм3",
+                    "field_units_referencee_id": "39",
+                    "field_number_skv": "наблюдательная скважина №1",
+                    "field_fact_conct": "<п.о."
+                },
+                {
+                    "field_name_of_substance": "Железо общее",
+                    "field_name_of_substance_id": "34",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "наблюдательная скважина №1",
+                    "field_fact_conct": "0.27"
+                },
+                {
+                    "field_name_of_substance": "Аммоний-ион",
+                    "field_name_of_substance_id": "246",
+                    "field_units_referencee": "мгN/дм3",
+                    "field_units_referencee_id": "26",
+                    "field_number_skv": "наблюдательная скважина №1",
+                    "field_fact_conct": "0.784"
+                },
+                {
+                    "field_name_of_substance": "Нитрат-ион",
+                    "field_name_of_substance_id": "248",
+                    "field_units_referencee": "мгN/дм3",
+                    "field_units_referencee_id": "26",
+                    "field_number_skv": "наблюдательная скважина №1",
+                    "field_fact_conct": "0.34"
+                },
+                {
+                    "field_name_of_substance": "Сульфат-ион",
+                    "field_name_of_substance_id": "21",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "наблюдательная скважина №1",
+                    "field_fact_conct": "27.8"
+                },
+                {
+                    "field_name_of_substance": "Хлорид-ион",
+                    "field_name_of_substance_id": "22",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "наблюдательная скважина №1",
+                    "field_fact_conct": "44.3"
+                },
+                {
+                    "field_name_of_substance": "Фосфат-ион (включая гидро- и дигидроформы)",
+                    "field_name_of_substance_id": "250",
+                    "field_units_referencee": "мгP/дм3",
+                    "field_units_referencee_id": "223",
+                    "field_number_skv": "наблюдательная скважина №1",
+                    "field_fact_conct": "0.38"
+                }
+            ]
+        }
+    },
+    {
+        "node": {
+            "title": "ЛМ ДКСА УП по саночистке города \"Оршанская спецавтобаза\" (полигон ТКО г. Орша) июнь 2021",
+            "field_geo_point": "1805",
+            "title_1": "ДКСА УП по саночистке города \"Оршанская спецавтобаза\"",
+            "field_source": "1809",
+            "title_2": "ДКСА УП по саночистке города \"Оршанская спецавтобаза\" наблюдательная скважина №1",
+            "field_period": "Июнь 2021",
+            "substances": [
+                {
+                    "field_name_of_substance": "Нефтепродукты",
+                    "field_name_of_substance_id": "239",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "1н",
+                    "field_fact_conct": "0.019"
+                },
+                {
+                    "field_name_of_substance": "Минерализация воды",
+                    "field_name_of_substance_id": "28",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "1н",
+                    "field_fact_conct": "486"
+                },
+                {
+                    "field_name_of_substance": "СПАВ анионоактивные",
+                    "field_name_of_substance_id": "249",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "1н",
+                    "field_fact_conct": "<п.о"
+                },
+                {
+                    "field_name_of_substance": "Цинк",
+                    "field_name_of_substance_id": "30",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "1н",
+                    "field_fact_conct": "0.016"
+                },
+                {
+                    "field_name_of_substance": "Никель",
+                    "field_name_of_substance_id": "32",
+                    "field_units_referencee": "мкг/дм3",
+                    "field_units_referencee_id": "39",
+                    "field_number_skv": "1н",
+                    "field_fact_conct": "<п.о"
+                },
+                {
+                    "field_name_of_substance": "Водородный показатель (pH)",
+                    "field_name_of_substance_id": "18",
+                    "field_units_referencee": "ед.рН",
+                    "field_units_referencee_id": "25",
+                    "field_number_skv": "1н",
+                    "field_fact_conct": "7.2"
+                },
+                {
+                    "field_name_of_substance": "Температура",
+                    "field_name_of_substance_id": "49",
+                    "field_units_referencee": "°С",
+                    "field_units_referencee_id": "252",
+                    "field_number_skv": "1н",
+                    "field_fact_conct": "6.8"
+                },
+                {
+                    "field_name_of_substance": "Марганец",
+                    "field_name_of_substance_id": "45",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "1н",
+                    "field_fact_conct": "0.166"
+                },
+                {
+                    "field_name_of_substance": "Железо общее",
+                    "field_name_of_substance_id": "34",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "1н",
+                    "field_fact_conct": "0.27"
+                },
+                {
+                    "field_name_of_substance": "Аммоний-ион",
+                    "field_name_of_substance_id": "246",
+                    "field_units_referencee": "мгN/дм3",
+                    "field_units_referencee_id": "26",
+                    "field_number_skv": "1н",
+                    "field_fact_conct": "0.784"
+                },
+                {
+                    "field_name_of_substance": "Нитрат-ион",
+                    "field_name_of_substance_id": "248",
+                    "field_units_referencee": "мгN/дм3",
+                    "field_units_referencee_id": "26",
+                    "field_number_skv": "1н",
+                    "field_fact_conct": "0.34"
+                },
+                {
+                    "field_name_of_substance": "Сульфат-ион",
+                    "field_name_of_substance_id": "21",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "1н",
+                    "field_fact_conct": "27.8"
+                },
+                {
+                    "field_name_of_substance": "Хлорид-ион",
+                    "field_name_of_substance_id": "22",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "1н",
+                    "field_fact_conct": "44.3"
+                },
+                {
+                    "field_name_of_substance": "Фосфат-ион (включая гидро- и дигидроформы)",
+                    "field_name_of_substance_id": "250",
+                    "field_units_referencee": "мгP/дм3",
+                    "field_units_referencee_id": "223",
+                    "field_number_skv": "1н",
+                    "field_fact_conct": "0.38"
+                }
+            ]
+        }
+    },
+    {
+        "node": {
+            "title": "ЛМ ДКСА УП по саночистке города \"Оршанская спецавтобаза\" (полигон ТКО г. Орша) май 2022",
+            "field_geo_point": "1805",
+            "title_1": "ДКСА УП по саночистке города \"Оршанская спецавтобаза\"",
+            "field_source": "1809",
+            "title_2": "ДКСА УП по саночистке города \"Оршанская спецавтобаза\" наблюдательная скважина №1",
+            "field_period": "Май 2022",
+            "substances": [
+                {
+                    "field_name_of_substance": "Нефтепродукты",
+                    "field_name_of_substance_id": "239",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "1н",
+                    "field_fact_conct": "0,034"
+                },
+                {
+                    "field_name_of_substance": "Минерализация воды",
+                    "field_name_of_substance_id": "28",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "1н",
+                    "field_fact_conct": "489"
+                },
+                {
+                    "field_name_of_substance": "СПАВ анионоактивные",
+                    "field_name_of_substance_id": "249",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "1н",
+                    "field_fact_conct": "0,034"
+                },
+                {
+                    "field_name_of_substance": "Медь",
+                    "field_name_of_substance_id": "29",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "1н",
+                    "field_fact_conct": "<0.0005"
+                },
+                {
+                    "field_name_of_substance": "Цинк",
+                    "field_name_of_substance_id": "30",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "1н",
+                    "field_fact_conct": "0,018"
+                },
+                {
+                    "field_name_of_substance": "Хром",
+                    "field_name_of_substance_id": "31",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "1н",
+                    "field_fact_conct": "<0.005"
+                },
+                {
+                    "field_name_of_substance": "Никель",
+                    "field_name_of_substance_id": "32",
+                    "field_units_referencee": "мкг/дм3",
+                    "field_units_referencee_id": "39",
+                    "field_number_skv": "1н",
+                    "field_fact_conct": "менее 10"
+                },
+                {
+                    "field_name_of_substance": "Свинец",
+                    "field_name_of_substance_id": "51",
+                    "field_units_referencee": "мкг/дм3",
+                    "field_units_referencee_id": "39",
+                    "field_number_skv": "1н",
+                    "field_fact_conct": "<5"
+                },
+                {
+                    "field_name_of_substance": "Кадмий",
+                    "field_name_of_substance_id": "50",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "1н",
+                    "field_fact_conct": "<0.0005"
+                },
+                {
+                    "field_name_of_substance": "Водородный показатель (pH)",
+                    "field_name_of_substance_id": "18",
+                    "field_units_referencee": "ед.рН",
+                    "field_units_referencee_id": "25",
+                    "field_number_skv": "1н",
+                    "field_fact_conct": "7,8"
+                },
+                {
+                    "field_name_of_substance": "Температура",
+                    "field_name_of_substance_id": "49",
+                    "field_units_referencee": "°С",
+                    "field_units_referencee_id": "252",
+                    "field_number_skv": "1н",
+                    "field_fact_conct": "6,5"
+                },
+                {
+                    "field_name_of_substance": "Марганец",
+                    "field_name_of_substance_id": "45",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "1н",
+                    "field_fact_conct": "0,15"
+                },
+                {
+                    "field_name_of_substance": "Ртуть",
+                    "field_name_of_substance_id": "72",
+                    "field_units_referencee": "мкг/дм3",
+                    "field_units_referencee_id": "39",
+                    "field_number_skv": "1н",
+                    "field_fact_conct": "<0,2"
+                },
+                {
+                    "field_name_of_substance": "Железо общее",
+                    "field_name_of_substance_id": "34",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "1н",
+                    "field_fact_conct": "0,278"
+                },
+                {
+                    "field_name_of_substance": "Аммоний-ион",
+                    "field_name_of_substance_id": "246",
+                    "field_units_referencee": "мгN/дм3",
+                    "field_units_referencee_id": "26",
+                    "field_number_skv": "1н",
+                    "field_fact_conct": "0,801"
+                },
+                {
+                    "field_name_of_substance": "Нитрат-ион",
+                    "field_name_of_substance_id": "248",
+                    "field_units_referencee": "мгN/дм3",
+                    "field_units_referencee_id": "26",
+                    "field_number_skv": "1н",
+                    "field_fact_conct": "0,15"
+                },
+                {
+                    "field_name_of_substance": "Сульфат-ион",
+                    "field_name_of_substance_id": "21",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "1н",
+                    "field_fact_conct": "24,4"
+                },
+                {
+                    "field_name_of_substance": "Хлорид-ион",
+                    "field_name_of_substance_id": "22",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "1н",
+                    "field_fact_conct": "43,1"
+                },
+                {
+                    "field_name_of_substance": "Фосфат-ион (включая гидро- и дигидроформы)",
+                    "field_name_of_substance_id": "250",
+                    "field_units_referencee": "мгP/дм3",
+                    "field_units_referencee_id": "223",
+                    "field_number_skv": "1н",
+                    "field_fact_conct": "0,39"
+                },
+                {
+                    "field_name_of_substance": "Уровень воды",
+                    "field_name_of_substance_id": "240",
+                    "field_units_referencee": "м",
+                    "field_units_referencee_id": "241",
+                    "field_number_skv": "1н",
+                    "field_fact_conct": "2"
+                }
+            ]
+        }
+    },
+    {
+        "node": {
+            "title": "ЛМ ДКСА УП по саночистке города \"Оршанская спецавтобаза\" (полигон ТКО г. Орша) май 2023",
+            "field_geo_point": "1805",
+            "title_1": "ДКСА УП по саночистке города \"Оршанская спецавтобаза\"",
+            "field_source": "1809",
+            "title_2": "ДКСА УП по саночистке города \"Оршанская спецавтобаза\" наблюдательная скважина №1",
+            "field_period": "Май 2023",
+            "substances": [
+                {
+                    "field_name_of_substance": "Нефтепродукты",
+                    "field_name_of_substance_id": "239",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "1н",
+                    "field_fact_conct": "0,031"
+                },
+                {
+                    "field_name_of_substance": "Минерализация воды",
+                    "field_name_of_substance_id": "28",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "1н",
+                    "field_fact_conct": "489"
+                },
+                {
+                    "field_name_of_substance": "СПАВ анионоактивные",
+                    "field_name_of_substance_id": "249",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "1н",
+                    "field_fact_conct": "0,036"
+                },
+                {
+                    "field_name_of_substance": "Медь",
+                    "field_name_of_substance_id": "29",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "1н",
+                    "field_fact_conct": "<0.0005"
+                },
+                {
+                    "field_name_of_substance": "Цинк",
+                    "field_name_of_substance_id": "30",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "1н",
+                    "field_fact_conct": "0,031"
+                },
+                {
+                    "field_name_of_substance": "Хром",
+                    "field_name_of_substance_id": "31",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "1н",
+                    "field_fact_conct": "<0.005"
+                },
+                {
+                    "field_name_of_substance": "Никель",
+                    "field_name_of_substance_id": "32",
+                    "field_units_referencee": "мкг/дм3",
+                    "field_units_referencee_id": "39",
+                    "field_number_skv": "1н",
+                    "field_fact_conct": "менее 10"
+                },
+                {
+                    "field_name_of_substance": "Водородный показатель (pH)",
+                    "field_name_of_substance_id": "18",
+                    "field_units_referencee": "ед.рН",
+                    "field_units_referencee_id": "25",
+                    "field_number_skv": "1н",
+                    "field_fact_conct": "7,6"
+                },
+                {
+                    "field_name_of_substance": "Температура",
+                    "field_name_of_substance_id": "49",
+                    "field_units_referencee": "°С",
+                    "field_units_referencee_id": "252",
+                    "field_number_skv": "1н",
+                    "field_fact_conct": "5,9"
+                },
+                {
+                    "field_name_of_substance": "Железо общее",
+                    "field_name_of_substance_id": "34",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "1н",
+                    "field_fact_conct": "0,282"
+                },
+                {
+                    "field_name_of_substance": "Аммоний-ион",
+                    "field_name_of_substance_id": "246",
+                    "field_units_referencee": "мгN/дм3",
+                    "field_units_referencee_id": "26",
+                    "field_number_skv": "1н",
+                    "field_fact_conct": "0,8"
+                },
+                {
+                    "field_name_of_substance": "Нитрат-ион",
+                    "field_name_of_substance_id": "248",
+                    "field_units_referencee": "мгN/дм3",
+                    "field_units_referencee_id": "26",
+                    "field_number_skv": "1н",
+                    "field_fact_conct": "0,16"
+                },
+                {
+                    "field_name_of_substance": "Сульфат-ион",
+                    "field_name_of_substance_id": "21",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "1н",
+                    "field_fact_conct": "24,7"
+                },
+                {
+                    "field_name_of_substance": "Хлорид-ион",
+                    "field_name_of_substance_id": "22",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "1н",
+                    "field_fact_conct": "53,4"
+                },
+                {
+                    "field_name_of_substance": "Фосфат-ион (включая гидро- и дигидроформы)",
+                    "field_name_of_substance_id": "250",
+                    "field_units_referencee": "мгP/дм3",
+                    "field_units_referencee_id": "223",
+                    "field_number_skv": "1н",
+                    "field_fact_conct": "0,39"
+                },
+                {
+                    "field_name_of_substance": "Уровень воды",
+                    "field_name_of_substance_id": "240",
+                    "field_units_referencee": "м",
+                    "field_units_referencee_id": "241",
+                    "field_number_skv": "1н",
+                    "field_fact_conct": "4"
+                }
+            ]
+        }
+    },
+    {
+        "node": {
+            "title": "ЛМ ДКСА УП по саночистке города \"Оршанская спецавтобаза\" (полигон ТКО г. Орша) май 2024",
+            "field_geo_point": "1805",
+            "title_1": "ДКСА УП по саночистке города \"Оршанская спецавтобаза\"",
+            "field_source": "1809",
+            "title_2": "ДКСА УП по саночистке города \"Оршанская спецавтобаза\" наблюдательная скважина №1",
+            "field_period": "Май 2024",
+            "substances": [
+                {
+                    "field_name_of_substance": "Нефтепродукты",
+                    "field_name_of_substance_id": "239",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "1 ",
+                    "field_fact_conct": "0,028"
+                },
+                {
+                    "field_name_of_substance": "Минерализация воды",
+                    "field_name_of_substance_id": "28",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "1 ",
+                    "field_fact_conct": "320"
+                },
+                {
+                    "field_name_of_substance": "СПАВ анионоактивные",
+                    "field_name_of_substance_id": "249",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "1 ",
+                    "field_fact_conct": "0,029"
+                },
+                {
+                    "field_name_of_substance": "Медь",
+                    "field_name_of_substance_id": "29",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "1 ",
+                    "field_fact_conct": "<0,0005"
+                },
+                {
+                    "field_name_of_substance": "Цинк",
+                    "field_name_of_substance_id": "30",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "1 ",
+                    "field_fact_conct": "0,017"
+                },
+                {
+                    "field_name_of_substance": "Хром",
+                    "field_name_of_substance_id": "31",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "1 ",
+                    "field_fact_conct": "<0,005"
+                },
+                {
+                    "field_name_of_substance": "Никель",
+                    "field_name_of_substance_id": "32",
+                    "field_units_referencee": "мкг/дм3",
+                    "field_units_referencee_id": "39",
+                    "field_number_skv": "1 ",
+                    "field_fact_conct": "<10"
+                },
+                {
+                    "field_name_of_substance": "Свинец",
+                    "field_name_of_substance_id": "51",
+                    "field_units_referencee": "мкг/дм3",
+                    "field_units_referencee_id": "39",
+                    "field_number_skv": "1 ",
+                    "field_fact_conct": "<5"
+                },
+                {
+                    "field_name_of_substance": "Кадмий",
+                    "field_name_of_substance_id": "50",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "1 ",
+                    "field_fact_conct": "<0,0005"
+                },
+                {
+                    "field_name_of_substance": "Водородный показатель (pH)",
+                    "field_name_of_substance_id": "18",
+                    "field_units_referencee": "ед.рН",
+                    "field_units_referencee_id": "25",
+                    "field_number_skv": "1 ",
+                    "field_fact_conct": "7,3"
+                },
+                {
+                    "field_name_of_substance": "Температура",
+                    "field_name_of_substance_id": "49",
+                    "field_units_referencee": "°С",
+                    "field_units_referencee_id": "252",
+                    "field_number_skv": "1 ",
+                    "field_fact_conct": "12"
+                },
+                {
+                    "field_name_of_substance": "Марганец",
+                    "field_name_of_substance_id": "45",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "1 ",
+                    "field_fact_conct": "0,387"
+                },
+                {
+                    "field_name_of_substance": "Ртуть",
+                    "field_name_of_substance_id": "72",
+                    "field_units_referencee": "мкг/дм3",
+                    "field_units_referencee_id": "39",
+                    "field_number_skv": "1 ",
+                    "field_fact_conct": "<0,2"
+                },
+                {
+                    "field_name_of_substance": "Железо общее",
+                    "field_name_of_substance_id": "34",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "1 ",
+                    "field_fact_conct": "0,267"
+                },
+                {
+                    "field_name_of_substance": "Аммоний-ион",
+                    "field_name_of_substance_id": "246",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "1 ",
+                    "field_fact_conct": "0,786"
+                },
+                {
+                    "field_name_of_substance": "Нитрат-ион",
+                    "field_name_of_substance_id": "248",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "1 ",
+                    "field_fact_conct": "0,14"
+                },
+                {
+                    "field_name_of_substance": "Сульфат-ион",
+                    "field_name_of_substance_id": "21",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "1 ",
+                    "field_fact_conct": "21,2"
+                },
+                {
+                    "field_name_of_substance": "Хлорид-ион",
+                    "field_name_of_substance_id": "22",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "1 ",
+                    "field_fact_conct": "42,6"
+                },
+                {
+                    "field_name_of_substance": "Фосфат-ион (включая гидро- и дигидроформы)",
+                    "field_name_of_substance_id": "250",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "1 ",
+                    "field_fact_conct": "0,31"
+                },
+                {
+                    "field_name_of_substance": "Уровень воды",
+                    "field_name_of_substance_id": "240",
+                    "field_units_referencee": "м",
+                    "field_units_referencee_id": "241",
+                    "field_number_skv": "1 ",
+                    "field_fact_conct": "1,5"
+                }
+            ]
+        }
+    },
+    {
+        "node": {
+            "title": "ЛМ ДКСА УП по саночистке города \"Оршанская спецавтобаза\" (полигон ТКО г. Орша) июнь 2020",
+            "field_geo_point": "1805",
+            "title_1": "ДКСА УП по саночистке города \"Оршанская спецавтобаза\"",
+            "field_source": "2825",
+            "title_2": "ДКСА УП по саночистке города \"Оршанская спецавтобаза\" фоновая скважина №2",
+            "field_period": "Июнь 2020",
+            "substances": [
+                {
+                    "field_name_of_substance": "Нефтепродукты",
+                    "field_name_of_substance_id": "239",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "фоновая скважина №2",
+                    "field_fact_conct": "0.036"
+                },
+                {
+                    "field_name_of_substance": "Минерализация воды",
+                    "field_name_of_substance_id": "28",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "фоновая скважина №2",
+                    "field_fact_conct": "578"
+                },
+                {
+                    "field_name_of_substance": "СПАВ анионоактивные",
+                    "field_name_of_substance_id": "249",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "фоновая скважина №2",
+                    "field_fact_conct": "0.038"
+                },
+                {
+                    "field_name_of_substance": "Медь",
+                    "field_name_of_substance_id": "29",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "фоновая скважина №2",
+                    "field_fact_conct": "<п.о."
+                },
+                {
+                    "field_name_of_substance": "Цинк",
+                    "field_name_of_substance_id": "30",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "фоновая скважина №2",
+                    "field_fact_conct": "0.019"
+                },
+                {
+                    "field_name_of_substance": "Хром",
+                    "field_name_of_substance_id": "31",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "фоновая скважина №2",
+                    "field_fact_conct": "<п.о."
+                },
+                {
+                    "field_name_of_substance": "Никель",
+                    "field_name_of_substance_id": "32",
+                    "field_units_referencee": "мкг/дм3",
+                    "field_units_referencee_id": "39",
+                    "field_number_skv": "фоновая скважина №2",
+                    "field_fact_conct": "<п.о."
+                },
+                {
+                    "field_name_of_substance": "Свинец",
+                    "field_name_of_substance_id": "51",
+                    "field_units_referencee": "мкг/дм3",
+                    "field_units_referencee_id": "39",
+                    "field_number_skv": "фоновая скважина №2",
+                    "field_fact_conct": "<п.о."
+                },
+                {
+                    "field_name_of_substance": "Кадмий",
+                    "field_name_of_substance_id": "50",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "фоновая скважина №2",
+                    "field_fact_conct": "<п.о."
+                },
+                {
+                    "field_name_of_substance": "Водородный показатель (pH)",
+                    "field_name_of_substance_id": "18",
+                    "field_units_referencee": "ед.рН",
+                    "field_units_referencee_id": "25",
+                    "field_number_skv": "фоновая скважина №2",
+                    "field_fact_conct": "7.5"
+                },
+                {
+                    "field_name_of_substance": "Температура",
+                    "field_name_of_substance_id": "49",
+                    "field_units_referencee": null,
+                    "field_units_referencee_id": null,
+                    "field_number_skv": "фоновая скважина №2",
+                    "field_fact_conct": "7.1"
+                },
+                {
+                    "field_name_of_substance": "Марганец",
+                    "field_name_of_substance_id": "45",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "фоновая скважина №2",
+                    "field_fact_conct": "0.115"
+                },
+                {
+                    "field_name_of_substance": "Ртуть",
+                    "field_name_of_substance_id": "72",
+                    "field_units_referencee": "мкг/дм3",
+                    "field_units_referencee_id": "39",
+                    "field_number_skv": "фоновая скважина №2",
+                    "field_fact_conct": "<п.о."
+                },
+                {
+                    "field_name_of_substance": "Железо общее",
+                    "field_name_of_substance_id": "34",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "фоновая скважина №2",
+                    "field_fact_conct": "0.296"
+                },
+                {
+                    "field_name_of_substance": "Аммоний-ион",
+                    "field_name_of_substance_id": "246",
+                    "field_units_referencee": "мгN/дм3",
+                    "field_units_referencee_id": "26",
+                    "field_number_skv": "фоновая скважина №2",
+                    "field_fact_conct": "0.975"
+                },
+                {
+                    "field_name_of_substance": "Нитрат-ион",
+                    "field_name_of_substance_id": "248",
+                    "field_units_referencee": "мгN/дм3",
+                    "field_units_referencee_id": "26",
+                    "field_number_skv": "фоновая скважина №2",
+                    "field_fact_conct": "0.46"
+                },
+                {
+                    "field_name_of_substance": "Сульфат-ион",
+                    "field_name_of_substance_id": "21",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "фоновая скважина №2",
+                    "field_fact_conct": "36"
+                },
+                {
+                    "field_name_of_substance": "Хлорид-ион",
+                    "field_name_of_substance_id": "22",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "фоновая скважина №2",
+                    "field_fact_conct": "52.9"
+                },
+                {
+                    "field_name_of_substance": "Фосфат-ион (включая гидро- и дигидроформы)",
+                    "field_name_of_substance_id": "250",
+                    "field_units_referencee": null,
+                    "field_units_referencee_id": null,
+                    "field_number_skv": "фоновая скважина №2",
+                    "field_fact_conct": "0.42"
+                },
+                {
+                    "field_name_of_substance": null,
+                    "field_name_of_substance_id": null,
+                    "field_units_referencee": null,
+                    "field_units_referencee_id": null,
+                    "field_number_skv": "фоновая скважина №2",
+                    "field_fact_conct": "2.2"
+                }
+            ]
+        }
+    },
+    {
+        "node": {
+            "title": "ЛМ ДКСА УП по саночистке города \"Оршанская спецавтобаза\" (полигон ТКО г. Орша) июнь 2021",
+            "field_geo_point": "1805",
+            "title_1": "ДКСА УП по саночистке города \"Оршанская спецавтобаза\"",
+            "field_source": "2825",
+            "title_2": "ДКСА УП по саночистке города \"Оршанская спецавтобаза\" фоновая скважина №2",
+            "field_period": "Июнь 2021",
+            "substances": [
+                {
+                    "field_name_of_substance": "Нефтепродукты",
+                    "field_name_of_substance_id": "239",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "фон 2н",
+                    "field_fact_conct": "0.036"
+                },
+                {
+                    "field_name_of_substance": "Минерализация воды",
+                    "field_name_of_substance_id": "28",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "фон 2н",
+                    "field_fact_conct": "578"
+                },
+                {
+                    "field_name_of_substance": "СПАВ анионоактивные",
+                    "field_name_of_substance_id": "249",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "фон 2н",
+                    "field_fact_conct": "0.038"
+                },
+                {
+                    "field_name_of_substance": "Медь",
+                    "field_name_of_substance_id": "29",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "фон 2н",
+                    "field_fact_conct": "<п.о"
+                },
+                {
+                    "field_name_of_substance": "Цинк",
+                    "field_name_of_substance_id": "30",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "фон 2н",
+                    "field_fact_conct": "0.019"
+                },
+                {
+                    "field_name_of_substance": "Хром",
+                    "field_name_of_substance_id": "31",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "фон 2н",
+                    "field_fact_conct": "<п.о"
+                },
+                {
+                    "field_name_of_substance": "Никель",
+                    "field_name_of_substance_id": "32",
+                    "field_units_referencee": "мкг/дм3",
+                    "field_units_referencee_id": "39",
+                    "field_number_skv": "фон 2н",
+                    "field_fact_conct": "<п.о"
+                },
+                {
+                    "field_name_of_substance": "Свинец",
+                    "field_name_of_substance_id": "51",
+                    "field_units_referencee": "мкг/дм3",
+                    "field_units_referencee_id": "39",
+                    "field_number_skv": "фон 2н",
+                    "field_fact_conct": "<п.о"
+                },
+                {
+                    "field_name_of_substance": "Кадмий",
+                    "field_name_of_substance_id": "50",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "фон 2н",
+                    "field_fact_conct": "<п.о"
+                },
+                {
+                    "field_name_of_substance": "Водородный показатель (pH)",
+                    "field_name_of_substance_id": "18",
+                    "field_units_referencee": "ед.рН",
+                    "field_units_referencee_id": "25",
+                    "field_number_skv": "фон 2н",
+                    "field_fact_conct": "7.5"
+                },
+                {
+                    "field_name_of_substance": "Температура",
+                    "field_name_of_substance_id": "49",
+                    "field_units_referencee": null,
+                    "field_units_referencee_id": null,
+                    "field_number_skv": "фон 2н",
+                    "field_fact_conct": "7.1"
+                },
+                {
+                    "field_name_of_substance": "Марганец",
+                    "field_name_of_substance_id": "45",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "фон 2н",
+                    "field_fact_conct": "0.115"
+                },
+                {
+                    "field_name_of_substance": null,
+                    "field_name_of_substance_id": null,
+                    "field_units_referencee": "мкг/дм3",
+                    "field_units_referencee_id": "39",
+                    "field_number_skv": "фон 2н",
+                    "field_fact_conct": "<п.о"
+                },
+                {
+                    "field_name_of_substance": "Железо общее",
+                    "field_name_of_substance_id": "34",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "фон 2н",
+                    "field_fact_conct": "0.296"
+                },
+                {
+                    "field_name_of_substance": "Аммоний-ион",
+                    "field_name_of_substance_id": "246",
+                    "field_units_referencee": "мгN/дм3",
+                    "field_units_referencee_id": "26",
+                    "field_number_skv": "фон 2н",
+                    "field_fact_conct": "0.975"
+                },
+                {
+                    "field_name_of_substance": "Нитрат-ион",
+                    "field_name_of_substance_id": "248",
+                    "field_units_referencee": "мгN/дм3",
+                    "field_units_referencee_id": "26",
+                    "field_number_skv": "фон 2н",
+                    "field_fact_conct": "0.46"
+                },
+                {
+                    "field_name_of_substance": "Сульфат-ион",
+                    "field_name_of_substance_id": "21",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "фон 2н",
+                    "field_fact_conct": "36"
+                },
+                {
+                    "field_name_of_substance": "Хлорид-ион",
+                    "field_name_of_substance_id": "22",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "фон 2н",
+                    "field_fact_conct": "52.9"
+                },
+                {
+                    "field_name_of_substance": "Фосфат-ион (включая гидро- и дигидроформы)",
+                    "field_name_of_substance_id": "250",
+                    "field_units_referencee": null,
+                    "field_units_referencee_id": null,
+                    "field_number_skv": "фон 2н",
+                    "field_fact_conct": "0.42"
+                },
+                {
+                    "field_name_of_substance": null,
+                    "field_name_of_substance_id": null,
+                    "field_units_referencee": null,
+                    "field_units_referencee_id": null,
+                    "field_number_skv": "фон 2н",
+                    "field_fact_conct": "2.2"
+                }
+            ]
+        }
+    },
+    {
+        "node": {
+            "title": "ЛМ ДКСА УП по саночистке города \"Оршанская спецавтобаза\" (полигон ТКО г. Орша) май 2022",
+            "field_geo_point": "1805",
+            "title_1": "ДКСА УП по саночистке города \"Оршанская спецавтобаза\"",
+            "field_source": "2825",
+            "title_2": "ДКСА УП по саночистке города \"Оршанская спецавтобаза\" фоновая скважина №2",
+            "field_period": "Май 2022",
+            "substances": [
+                {
+                    "field_name_of_substance": "Нефтепродукты",
+                    "field_name_of_substance_id": "239",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "2н (фон)",
+                    "field_fact_conct": "0,041"
+                },
+                {
+                    "field_name_of_substance": "Минерализация воды",
+                    "field_name_of_substance_id": "28",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "2н (фон)",
+                    "field_fact_conct": "804"
+                },
+                {
+                    "field_name_of_substance": "СПАВ анионоактивные",
+                    "field_name_of_substance_id": "249",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "2н (фон)",
+                    "field_fact_conct": "0,042"
+                },
+                {
+                    "field_name_of_substance": "Медь",
+                    "field_name_of_substance_id": "29",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "2н (фон)",
+                    "field_fact_conct": "<0.0005"
+                },
+                {
+                    "field_name_of_substance": "Цинк",
+                    "field_name_of_substance_id": "30",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "2н (фон)",
+                    "field_fact_conct": "0,021"
+                },
+                {
+                    "field_name_of_substance": "Хром",
+                    "field_name_of_substance_id": "31",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "2н (фон)",
+                    "field_fact_conct": "<0.005"
+                },
+                {
+                    "field_name_of_substance": "Никель",
+                    "field_name_of_substance_id": "32",
+                    "field_units_referencee": "мкг/дм3",
+                    "field_units_referencee_id": "39",
+                    "field_number_skv": "2н (фон)",
+                    "field_fact_conct": "<10"
+                },
+                {
+                    "field_name_of_substance": "Свинец",
+                    "field_name_of_substance_id": "51",
+                    "field_units_referencee": "мкг/дм3",
+                    "field_units_referencee_id": "39",
+                    "field_number_skv": "2н (фон)",
+                    "field_fact_conct": "<5"
+                },
+                {
+                    "field_name_of_substance": "Кадмий",
+                    "field_name_of_substance_id": "50",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "2н (фон)",
+                    "field_fact_conct": "<0.0005"
+                },
+                {
+                    "field_name_of_substance": "Водородный показатель (pH)",
+                    "field_name_of_substance_id": "18",
+                    "field_units_referencee": "ед.рН",
+                    "field_units_referencee_id": "25",
+                    "field_number_skv": "2н (фон)",
+                    "field_fact_conct": "8"
+                },
+                {
+                    "field_name_of_substance": "Температура",
+                    "field_name_of_substance_id": "49",
+                    "field_units_referencee": "°С",
+                    "field_units_referencee_id": "252",
+                    "field_number_skv": "2н (фон)",
+                    "field_fact_conct": "7"
+                },
+                {
+                    "field_name_of_substance": "Марганец",
+                    "field_name_of_substance_id": "45",
+                    "field_units_referencee": "мг",
+                    "field_units_referencee_id": "264",
+                    "field_number_skv": "2н (фон)",
+                    "field_fact_conct": "0,158"
+                },
+                {
+                    "field_name_of_substance": "Ртуть",
+                    "field_name_of_substance_id": "72",
+                    "field_units_referencee": "мкг/дм3",
+                    "field_units_referencee_id": "39",
+                    "field_number_skv": "2н (фон)",
+                    "field_fact_conct": "<0,2"
+                },
+                {
+                    "field_name_of_substance": "Железо общее",
+                    "field_name_of_substance_id": "34",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "2н (фон)",
+                    "field_fact_conct": "0,299"
+                },
+                {
+                    "field_name_of_substance": "Аммоний-ион",
+                    "field_name_of_substance_id": "246",
+                    "field_units_referencee": "мгN/дм3",
+                    "field_units_referencee_id": "26",
+                    "field_number_skv": "2н (фон)",
+                    "field_fact_conct": "0,959"
+                },
+                {
+                    "field_name_of_substance": "Нитрат-ион",
+                    "field_name_of_substance_id": "248",
+                    "field_units_referencee": "мгN/дм3",
+                    "field_units_referencee_id": "26",
+                    "field_number_skv": "2н (фон)",
+                    "field_fact_conct": "0,14"
+                },
+                {
+                    "field_name_of_substance": "Сульфат-ион",
+                    "field_name_of_substance_id": "21",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "2н (фон)",
+                    "field_fact_conct": "33,1"
+                },
+                {
+                    "field_name_of_substance": "Хлорид-ион",
+                    "field_name_of_substance_id": "22",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "2н (фон)",
+                    "field_fact_conct": "79,9"
+                },
+                {
+                    "field_name_of_substance": "Фосфат-ион (включая гидро- и дигидроформы)",
+                    "field_name_of_substance_id": "250",
+                    "field_units_referencee": "мгP/дм3",
+                    "field_units_referencee_id": "223",
+                    "field_number_skv": "2н (фон)",
+                    "field_fact_conct": "0,44"
+                },
+                {
+                    "field_name_of_substance": "Уровень воды",
+                    "field_name_of_substance_id": "240",
+                    "field_units_referencee": "м",
+                    "field_units_referencee_id": "241",
+                    "field_number_skv": "2н (фон)",
+                    "field_fact_conct": "2,1"
+                }
+            ]
+        }
+    },
+    {
+        "node": {
+            "title": "ЛМ ДКСА УП по саночистке города \"Оршанская спецавтобаза\" (полигон ТКО г. Орша) май 2023",
+            "field_geo_point": "1805",
+            "title_1": "ДКСА УП по саночистке города \"Оршанская спецавтобаза\"",
+            "field_source": "2825",
+            "title_2": "ДКСА УП по саночистке города \"Оршанская спецавтобаза\" фоновая скважина №2",
+            "field_period": "Май 2023",
+            "substances": [
+                {
+                    "field_name_of_substance": "Нефтепродукты",
+                    "field_name_of_substance_id": "239",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "2н (фон)",
+                    "field_fact_conct": "0,043"
+                },
+                {
+                    "field_name_of_substance": "Минерализация воды",
+                    "field_name_of_substance_id": "28",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "2н (фон)",
+                    "field_fact_conct": "567"
+                },
+                {
+                    "field_name_of_substance": "СПАВ анионоактивные",
+                    "field_name_of_substance_id": "249",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "2н (фон)",
+                    "field_fact_conct": "0,044"
+                },
+                {
+                    "field_name_of_substance": "Медь",
+                    "field_name_of_substance_id": "29",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "2н (фон)",
+                    "field_fact_conct": "<0.0005"
+                },
+                {
+                    "field_name_of_substance": "Цинк",
+                    "field_name_of_substance_id": "30",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "2н (фон)",
+                    "field_fact_conct": "0,035"
+                },
+                {
+                    "field_name_of_substance": "Хром",
+                    "field_name_of_substance_id": "31",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "2н (фон)",
+                    "field_fact_conct": "<0.005"
+                },
+                {
+                    "field_name_of_substance": "Никель",
+                    "field_name_of_substance_id": "32",
+                    "field_units_referencee": "мкг/дм3",
+                    "field_units_referencee_id": "39",
+                    "field_number_skv": "2н (фон)",
+                    "field_fact_conct": "<10"
+                },
+                {
+                    "field_name_of_substance": "Водородный показатель (pH)",
+                    "field_name_of_substance_id": "18",
+                    "field_units_referencee": "ед.рН",
+                    "field_units_referencee_id": "25",
+                    "field_number_skv": "2н (фон)",
+                    "field_fact_conct": "7,7"
+                },
+                {
+                    "field_name_of_substance": "Температура",
+                    "field_name_of_substance_id": "49",
+                    "field_units_referencee": "°С",
+                    "field_units_referencee_id": "252",
+                    "field_number_skv": "2н (фон)",
+                    "field_fact_conct": "6,7"
+                },
+                {
+                    "field_name_of_substance": "Железо общее",
+                    "field_name_of_substance_id": "34",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "2н (фон)",
+                    "field_fact_conct": "0,31"
+                },
+                {
+                    "field_name_of_substance": "Аммоний-ион",
+                    "field_name_of_substance_id": "246",
+                    "field_units_referencee": "мгN/дм3",
+                    "field_units_referencee_id": "26",
+                    "field_number_skv": "2н (фон)",
+                    "field_fact_conct": "0,96"
+                },
+                {
+                    "field_name_of_substance": "Нитрат-ион",
+                    "field_name_of_substance_id": "248",
+                    "field_units_referencee": "мгN/дм3",
+                    "field_units_referencee_id": "26",
+                    "field_number_skv": "2н (фон)",
+                    "field_fact_conct": "0,36"
+                },
+                {
+                    "field_name_of_substance": "Сульфат-ион",
+                    "field_name_of_substance_id": "21",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "2н (фон)",
+                    "field_fact_conct": "33,3"
+                },
+                {
+                    "field_name_of_substance": "Хлорид-ион",
+                    "field_name_of_substance_id": "22",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "2н (фон)",
+                    "field_fact_conct": "80,8"
+                },
+                {
+                    "field_name_of_substance": "Фосфат-ион (включая гидро- и дигидроформы)",
+                    "field_name_of_substance_id": "250",
+                    "field_units_referencee": "мгP/дм3",
+                    "field_units_referencee_id": "223",
+                    "field_number_skv": "2н (фон)",
+                    "field_fact_conct": "0,47"
+                },
+                {
+                    "field_name_of_substance": "Уровень воды",
+                    "field_name_of_substance_id": "240",
+                    "field_units_referencee": "м",
+                    "field_units_referencee_id": "241",
+                    "field_number_skv": "2н (фон)",
+                    "field_fact_conct": "4"
+                }
+            ]
+        }
+    },
+    {
+        "node": {
+            "title": "ЛМ ДКСА УП по саночистке города \"Оршанская спецавтобаза\" (полигон ТКО г. Орша) май 2024",
+            "field_geo_point": "1805",
+            "title_1": "ДКСА УП по саночистке города \"Оршанская спецавтобаза\"",
+            "field_source": "2825",
+            "title_2": "ДКСА УП по саночистке города \"Оршанская спецавтобаза\" фоновая скважина №2",
+            "field_period": "Май 2024",
+            "substances": [
+                {
+                    "field_name_of_substance": "Нефтепродукты",
+                    "field_name_of_substance_id": "239",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "2 (фон)",
+                    "field_fact_conct": "0,036"
+                },
+                {
+                    "field_name_of_substance": "Минерализация воды",
+                    "field_name_of_substance_id": "28",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "2 (фон)",
+                    "field_fact_conct": "450"
+                },
+                {
+                    "field_name_of_substance": "СПАВ анионоактивные",
+                    "field_name_of_substance_id": "249",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "2 (фон)",
+                    "field_fact_conct": "0,033"
+                },
+                {
+                    "field_name_of_substance": "Медь",
+                    "field_name_of_substance_id": "29",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "2 (фон)",
+                    "field_fact_conct": "<0,0005"
+                },
+                {
+                    "field_name_of_substance": "Цинк",
+                    "field_name_of_substance_id": "30",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "2 (фон)",
+                    "field_fact_conct": "0,022"
+                },
+                {
+                    "field_name_of_substance": "Хром",
+                    "field_name_of_substance_id": "31",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "2 (фон)",
+                    "field_fact_conct": "<0,005"
+                },
+                {
+                    "field_name_of_substance": "Никель",
+                    "field_name_of_substance_id": "32",
+                    "field_units_referencee": "мкг/дм3",
+                    "field_units_referencee_id": "39",
+                    "field_number_skv": "2 (фон)",
+                    "field_fact_conct": "<10"
+                },
+                {
+                    "field_name_of_substance": "Свинец",
+                    "field_name_of_substance_id": "51",
+                    "field_units_referencee": "мкг/дм3",
+                    "field_units_referencee_id": "39",
+                    "field_number_skv": "2 (фон)",
+                    "field_fact_conct": "<5"
+                },
+                {
+                    "field_name_of_substance": "Кадмий",
+                    "field_name_of_substance_id": "50",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "2 (фон)",
+                    "field_fact_conct": "<0,0005"
+                },
+                {
+                    "field_name_of_substance": "Водородный показатель (pH)",
+                    "field_name_of_substance_id": "18",
+                    "field_units_referencee": "ед.рН",
+                    "field_units_referencee_id": "25",
+                    "field_number_skv": "2 (фон)",
+                    "field_fact_conct": "7,7"
+                },
+                {
+                    "field_name_of_substance": "Температура",
+                    "field_name_of_substance_id": "49",
+                    "field_units_referencee": "°С",
+                    "field_units_referencee_id": "252",
+                    "field_number_skv": "2 (фон)",
+                    "field_fact_conct": "12"
+                },
+                {
+                    "field_name_of_substance": "Марганец",
+                    "field_name_of_substance_id": "45",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "2 (фон)",
+                    "field_fact_conct": "0,019"
+                },
+                {
+                    "field_name_of_substance": "Ртуть",
+                    "field_name_of_substance_id": "72",
+                    "field_units_referencee": "мкг/дм3",
+                    "field_units_referencee_id": "39",
+                    "field_number_skv": "2 (фон)",
+                    "field_fact_conct": "<0,2"
+                },
+                {
+                    "field_name_of_substance": "Железо общее",
+                    "field_name_of_substance_id": "34",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "2 (фон)",
+                    "field_fact_conct": "0,311"
+                },
+                {
+                    "field_name_of_substance": "Аммоний-ион",
+                    "field_name_of_substance_id": "246",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "2 (фон)",
+                    "field_fact_conct": "0,977"
+                },
+                {
+                    "field_name_of_substance": "Нитрат-ион",
+                    "field_name_of_substance_id": "248",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "2 (фон)",
+                    "field_fact_conct": "0,15"
+                },
+                {
+                    "field_name_of_substance": "Сульфат-ион",
+                    "field_name_of_substance_id": "21",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "2 (фон)",
+                    "field_fact_conct": "30,4"
+                },
+                {
+                    "field_name_of_substance": "Хлорид-ион",
+                    "field_name_of_substance_id": "22",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "2 (фон)",
+                    "field_fact_conct": "64,2"
+                },
+                {
+                    "field_name_of_substance": "Фосфат-ион (включая гидро- и дигидроформы)",
+                    "field_name_of_substance_id": "250",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "2 (фон)",
+                    "field_fact_conct": "0,39"
+                },
+                {
+                    "field_name_of_substance": "Уровень воды",
+                    "field_name_of_substance_id": "240",
+                    "field_units_referencee": "м",
+                    "field_units_referencee_id": "241",
+                    "field_number_skv": "2 (фон)",
+                    "field_fact_conct": "2"
+                }
+            ]
+        }
+    },
+    {
+        "node": {
+            "title": "ЛМ ДКСА УП по саночистке города \"Оршанская спецавтобаза\" (полигон ТКО г. Орша) июнь 2020",
+            "field_geo_point": "1805",
+            "title_1": "ДКСА УП по саночистке города \"Оршанская спецавтобаза\"",
+            "field_source": "2826",
+            "title_2": "ДКСА УП по саночистке города \"Оршанская спецавтобаза\" наблюдательная скважина №3",
+            "field_period": "Июнь 2020",
+            "substances": [
+                {
+                    "field_name_of_substance": "Нефтепродукты",
+                    "field_name_of_substance_id": "239",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "наблюдательная скважина №3",
+                    "field_fact_conct": "0.024"
+                },
+                {
+                    "field_name_of_substance": "Минерализация воды",
+                    "field_name_of_substance_id": "28",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "наблюдательная скважина №3",
+                    "field_fact_conct": "457"
+                },
+                {
+                    "field_name_of_substance": "СПАВ анионоактивные",
+                    "field_name_of_substance_id": "249",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "наблюдательная скважина №3",
+                    "field_fact_conct": "0.031"
+                },
+                {
+                    "field_name_of_substance": "Медь",
+                    "field_name_of_substance_id": "29",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "наблюдательная скважина №3",
+                    "field_fact_conct": "<п.о."
+                },
+                {
+                    "field_name_of_substance": "Цинк",
+                    "field_name_of_substance_id": "30",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "наблюдательная скважина №3",
+                    "field_fact_conct": "0.012"
+                },
+                {
+                    "field_name_of_substance": "Хром",
+                    "field_name_of_substance_id": "31",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "наблюдательная скважина №3",
+                    "field_fact_conct": "<п.о."
+                },
+                {
+                    "field_name_of_substance": "Никель",
+                    "field_name_of_substance_id": "32",
+                    "field_units_referencee": "мкг/дм3",
+                    "field_units_referencee_id": "39",
+                    "field_number_skv": "наблюдательная скважина №3",
+                    "field_fact_conct": "<п.о."
+                },
+                {
+                    "field_name_of_substance": "Свинец",
+                    "field_name_of_substance_id": "51",
+                    "field_units_referencee": "мкг/дм3",
+                    "field_units_referencee_id": "39",
+                    "field_number_skv": "наблюдательная скважина №3",
+                    "field_fact_conct": "<п.о."
+                },
+                {
+                    "field_name_of_substance": "Кадмий",
+                    "field_name_of_substance_id": "50",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "наблюдательная скважина №3",
+                    "field_fact_conct": "<п.о."
+                },
+                {
+                    "field_name_of_substance": "Водородный показатель (pH)",
+                    "field_name_of_substance_id": "18",
+                    "field_units_referencee": "ед.рН",
+                    "field_units_referencee_id": "25",
+                    "field_number_skv": "наблюдательная скважина №3",
+                    "field_fact_conct": "7.9"
+                },
+                {
+                    "field_name_of_substance": "Температура",
+                    "field_name_of_substance_id": "49",
+                    "field_units_referencee": null,
+                    "field_units_referencee_id": null,
+                    "field_number_skv": "наблюдательная скважина №3",
+                    "field_fact_conct": "5.9"
+                },
+                {
+                    "field_name_of_substance": "Марганец",
+                    "field_name_of_substance_id": "45",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "наблюдательная скважина №3",
+                    "field_fact_conct": "0.15"
+                },
+                {
+                    "field_name_of_substance": "Ртуть",
+                    "field_name_of_substance_id": "72",
+                    "field_units_referencee": "мкг/дм3",
+                    "field_units_referencee_id": "39",
+                    "field_number_skv": "наблюдательная скважина №3",
+                    "field_fact_conct": "<п.о."
+                },
+                {
+                    "field_name_of_substance": "Железо общее",
+                    "field_name_of_substance_id": "34",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "наблюдательная скважина №3",
+                    "field_fact_conct": "0.252"
+                },
+                {
+                    "field_name_of_substance": "Аммоний-ион",
+                    "field_name_of_substance_id": "246",
+                    "field_units_referencee": "мгN/дм3",
+                    "field_units_referencee_id": "26",
+                    "field_number_skv": "наблюдательная скважина №3",
+                    "field_fact_conct": "0.56"
+                },
+                {
+                    "field_name_of_substance": "Нитрат-ион",
+                    "field_name_of_substance_id": "248",
+                    "field_units_referencee": "мгN/дм3",
+                    "field_units_referencee_id": "26",
+                    "field_number_skv": "наблюдательная скважина №3",
+                    "field_fact_conct": "0.31"
+                },
+                {
+                    "field_name_of_substance": "Сульфат-ион",
+                    "field_name_of_substance_id": "21",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "наблюдательная скважина №3",
+                    "field_fact_conct": "30.9"
+                },
+                {
+                    "field_name_of_substance": "Хлорид-ион",
+                    "field_name_of_substance_id": "22",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "наблюдательная скважина №3",
+                    "field_fact_conct": "41.4"
+                },
+                {
+                    "field_name_of_substance": "Фосфат-ион (включая гидро- и дигидроформы)",
+                    "field_name_of_substance_id": "250",
+                    "field_units_referencee": null,
+                    "field_units_referencee_id": null,
+                    "field_number_skv": "наблюдательная скважина №3",
+                    "field_fact_conct": "0.23"
+                },
+                {
+                    "field_name_of_substance": null,
+                    "field_name_of_substance_id": null,
+                    "field_units_referencee": null,
+                    "field_units_referencee_id": null,
+                    "field_number_skv": "наблюдательная скважина №3",
+                    "field_fact_conct": "2"
+                }
+            ]
+        }
+    },
+    {
+        "node": {
+            "title": "ЛМ ДКСА УП по саночистке города \"Оршанская спецавтобаза\" (полигон ТКО г. Орша) июнь 2021",
+            "field_geo_point": "1805",
+            "title_1": "ДКСА УП по саночистке города \"Оршанская спецавтобаза\"",
+            "field_source": "2826",
+            "title_2": "ДКСА УП по саночистке города \"Оршанская спецавтобаза\" наблюдательная скважина №3",
+            "field_period": "Июнь 2021",
+            "substances": [
+                {
+                    "field_name_of_substance": "Нефтепродукты",
+                    "field_name_of_substance_id": "239",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "3н",
+                    "field_fact_conct": "0.024"
+                },
+                {
+                    "field_name_of_substance": "Минерализация воды",
+                    "field_name_of_substance_id": "28",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "3н",
+                    "field_fact_conct": "457"
+                },
+                {
+                    "field_name_of_substance": "СПАВ анионоактивные",
+                    "field_name_of_substance_id": "249",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "3н",
+                    "field_fact_conct": "0.031"
+                },
+                {
+                    "field_name_of_substance": "Цинк",
+                    "field_name_of_substance_id": "30",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "3н",
+                    "field_fact_conct": "0.012"
+                },
+                {
+                    "field_name_of_substance": "Никель",
+                    "field_name_of_substance_id": "32",
+                    "field_units_referencee": "мкг/дм3",
+                    "field_units_referencee_id": "39",
+                    "field_number_skv": "3н",
+                    "field_fact_conct": "<п.о"
+                },
+                {
+                    "field_name_of_substance": "Водородный показатель (pH)",
+                    "field_name_of_substance_id": "18",
+                    "field_units_referencee": "ед.рН",
+                    "field_units_referencee_id": "25",
+                    "field_number_skv": "3н",
+                    "field_fact_conct": "7.9"
+                },
+                {
+                    "field_name_of_substance": "Температура",
+                    "field_name_of_substance_id": "49",
+                    "field_units_referencee": null,
+                    "field_units_referencee_id": null,
+                    "field_number_skv": "3н",
+                    "field_fact_conct": "5.9"
+                },
+                {
+                    "field_name_of_substance": "Марганец",
+                    "field_name_of_substance_id": "45",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "3н",
+                    "field_fact_conct": "0.15"
+                },
+                {
+                    "field_name_of_substance": "Железо общее",
+                    "field_name_of_substance_id": "34",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "3н",
+                    "field_fact_conct": "0.252"
+                },
+                {
+                    "field_name_of_substance": "Аммоний-ион",
+                    "field_name_of_substance_id": "246",
+                    "field_units_referencee": "мгN/дм3",
+                    "field_units_referencee_id": "26",
+                    "field_number_skv": "3н",
+                    "field_fact_conct": "0.56"
+                },
+                {
+                    "field_name_of_substance": "Нитрат-ион",
+                    "field_name_of_substance_id": "248",
+                    "field_units_referencee": "мгN/дм3",
+                    "field_units_referencee_id": "26",
+                    "field_number_skv": "3н",
+                    "field_fact_conct": "0.31"
+                },
+                {
+                    "field_name_of_substance": "Сульфат-ион",
+                    "field_name_of_substance_id": "21",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "3н",
+                    "field_fact_conct": "30.9"
+                },
+                {
+                    "field_name_of_substance": "Хлорид-ион",
+                    "field_name_of_substance_id": "22",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "3н",
+                    "field_fact_conct": "41.4"
+                },
+                {
+                    "field_name_of_substance": "Фосфат-ион (включая гидро- и дигидроформы)",
+                    "field_name_of_substance_id": "250",
+                    "field_units_referencee": null,
+                    "field_units_referencee_id": null,
+                    "field_number_skv": "3н",
+                    "field_fact_conct": "0.23"
+                },
+                {
+                    "field_name_of_substance": null,
+                    "field_name_of_substance_id": null,
+                    "field_units_referencee": null,
+                    "field_units_referencee_id": null,
+                    "field_number_skv": "3н",
+                    "field_fact_conct": "2"
+                }
+            ]
+        }
+    },
+    {
+        "node": {
+            "title": "ЛМ ДКСА УП по саночистке города \"Оршанская спецавтобаза\" (полигон ТКО г. Орша) май 2022",
+            "field_geo_point": "1805",
+            "title_1": "ДКСА УП по саночистке города \"Оршанская спецавтобаза\"",
+            "field_source": "2826",
+            "title_2": "ДКСА УП по саночистке города \"Оршанская спецавтобаза\" наблюдательная скважина №3",
+            "field_period": "Май 2022",
+            "substances": [
+                {
+                    "field_name_of_substance": "Нефтепродукты",
+                    "field_name_of_substance_id": "239",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "3н",
+                    "field_fact_conct": "0,027"
+                },
+                {
+                    "field_name_of_substance": "Минерализация воды",
+                    "field_name_of_substance_id": "28",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "3н",
+                    "field_fact_conct": "548"
+                },
+                {
+                    "field_name_of_substance": "СПАВ анионоактивные",
+                    "field_name_of_substance_id": "249",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "3н",
+                    "field_fact_conct": "0,028"
+                },
+                {
+                    "field_name_of_substance": "Медь",
+                    "field_name_of_substance_id": "29",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "3н",
+                    "field_fact_conct": "<0.0005"
+                },
+                {
+                    "field_name_of_substance": "Цинк",
+                    "field_name_of_substance_id": "30",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "3н",
+                    "field_fact_conct": "0,014"
+                },
+                {
+                    "field_name_of_substance": "Хром",
+                    "field_name_of_substance_id": "31",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "3н",
+                    "field_fact_conct": "<0.005"
+                },
+                {
+                    "field_name_of_substance": "Никель",
+                    "field_name_of_substance_id": "32",
+                    "field_units_referencee": "мкг/дм3",
+                    "field_units_referencee_id": "39",
+                    "field_number_skv": "3н",
+                    "field_fact_conct": "<10"
+                },
+                {
+                    "field_name_of_substance": "Свинец",
+                    "field_name_of_substance_id": "51",
+                    "field_units_referencee": "мкг/дм3",
+                    "field_units_referencee_id": "39",
+                    "field_number_skv": "3н",
+                    "field_fact_conct": "<5"
+                },
+                {
+                    "field_name_of_substance": "Кадмий",
+                    "field_name_of_substance_id": "50",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "3н",
+                    "field_fact_conct": "<0.0005"
+                },
+                {
+                    "field_name_of_substance": "Водородный показатель (pH)",
+                    "field_name_of_substance_id": "18",
+                    "field_units_referencee": "ед.рН",
+                    "field_units_referencee_id": "25",
+                    "field_number_skv": "3н",
+                    "field_fact_conct": "7,6"
+                },
+                {
+                    "field_name_of_substance": "Температура",
+                    "field_name_of_substance_id": "49",
+                    "field_units_referencee": "°С",
+                    "field_units_referencee_id": "252",
+                    "field_number_skv": "3н",
+                    "field_fact_conct": "5,8"
+                },
+                {
+                    "field_name_of_substance": "Марганец",
+                    "field_name_of_substance_id": "45",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "3н",
+                    "field_fact_conct": "0,192"
+                },
+                {
+                    "field_name_of_substance": "Ртуть",
+                    "field_name_of_substance_id": "72",
+                    "field_units_referencee": "мкг/дм3",
+                    "field_units_referencee_id": "39",
+                    "field_number_skv": "3н",
+                    "field_fact_conct": "<0,2"
+                },
+                {
+                    "field_name_of_substance": "Железо общее",
+                    "field_name_of_substance_id": "34",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "3н",
+                    "field_fact_conct": "0,267"
+                },
+                {
+                    "field_name_of_substance": "Аммоний-ион",
+                    "field_name_of_substance_id": "246",
+                    "field_units_referencee": "мгN/дм3",
+                    "field_units_referencee_id": "26",
+                    "field_number_skv": "3н",
+                    "field_fact_conct": "0,584"
+                },
+                {
+                    "field_name_of_substance": "Нитрат-ион",
+                    "field_name_of_substance_id": "248",
+                    "field_units_referencee": "мгN/дм3",
+                    "field_units_referencee_id": "26",
+                    "field_number_skv": "3н",
+                    "field_fact_conct": "0,12"
+                },
+                {
+                    "field_name_of_substance": "Сульфат-ион",
+                    "field_name_of_substance_id": "21",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "3н",
+                    "field_fact_conct": "29,5"
+                },
+                {
+                    "field_name_of_substance": "Хлорид-ион",
+                    "field_name_of_substance_id": "22",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "3н",
+                    "field_fact_conct": "48,7"
+                },
+                {
+                    "field_name_of_substance": "Фосфат-ион (включая гидро- и дигидроформы)",
+                    "field_name_of_substance_id": "250",
+                    "field_units_referencee": "мгP/дм3",
+                    "field_units_referencee_id": "223",
+                    "field_number_skv": "3н",
+                    "field_fact_conct": "0,25"
+                },
+                {
+                    "field_name_of_substance": "Уровень воды",
+                    "field_name_of_substance_id": "240",
+                    "field_units_referencee": "м",
+                    "field_units_referencee_id": "241",
+                    "field_number_skv": "3н",
+                    "field_fact_conct": "2,9"
+                }
+            ]
+        }
+    },
+    {
+        "node": {
+            "title": "ЛМ ДКСА УП по саночистке города \"Оршанская спецавтобаза\" (полигон ТКО г. Орша) май 2023",
+            "field_geo_point": "1805",
+            "title_1": "ДКСА УП по саночистке города \"Оршанская спецавтобаза\"",
+            "field_source": "2826",
+            "title_2": "ДКСА УП по саночистке города \"Оршанская спецавтобаза\" наблюдательная скважина №3",
+            "field_period": "Май 2023",
+            "substances": [
+                {
+                    "field_name_of_substance": "Нефтепродукты",
+                    "field_name_of_substance_id": "239",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "3н",
+                    "field_fact_conct": "0,029"
+                },
+                {
+                    "field_name_of_substance": "Минерализация воды",
+                    "field_name_of_substance_id": "28",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "3н",
+                    "field_fact_conct": "535"
+                },
+                {
+                    "field_name_of_substance": "СПАВ анионоактивные",
+                    "field_name_of_substance_id": "249",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "3н",
+                    "field_fact_conct": "0,032"
+                },
+                {
+                    "field_name_of_substance": "Медь",
+                    "field_name_of_substance_id": "29",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "3н",
+                    "field_fact_conct": "<0.0005"
+                },
+                {
+                    "field_name_of_substance": "Цинк",
+                    "field_name_of_substance_id": "30",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "3н",
+                    "field_fact_conct": "0,026"
+                },
+                {
+                    "field_name_of_substance": "Хром",
+                    "field_name_of_substance_id": "31",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "3н",
+                    "field_fact_conct": "<0.005"
+                },
+                {
+                    "field_name_of_substance": "Никель",
+                    "field_name_of_substance_id": "32",
+                    "field_units_referencee": "мкг/дм3",
+                    "field_units_referencee_id": "39",
+                    "field_number_skv": "3н",
+                    "field_fact_conct": "<10"
+                },
+                {
+                    "field_name_of_substance": "Водородный показатель (pH)",
+                    "field_name_of_substance_id": "18",
+                    "field_units_referencee": "ед.рН",
+                    "field_units_referencee_id": "25",
+                    "field_number_skv": "3н",
+                    "field_fact_conct": "7,7"
+                },
+                {
+                    "field_name_of_substance": "Температура",
+                    "field_name_of_substance_id": "49",
+                    "field_units_referencee": "°С",
+                    "field_units_referencee_id": "252",
+                    "field_number_skv": "3н",
+                    "field_fact_conct": "6,1"
+                },
+                {
+                    "field_name_of_substance": "Железо общее",
+                    "field_name_of_substance_id": "34",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "3н",
+                    "field_fact_conct": "0,272"
+                },
+                {
+                    "field_name_of_substance": "Аммоний-ион",
+                    "field_name_of_substance_id": "246",
+                    "field_units_referencee": "мгN/дм3",
+                    "field_units_referencee_id": "26",
+                    "field_number_skv": "3н",
+                    "field_fact_conct": "0,59"
+                },
+                {
+                    "field_name_of_substance": "Нитрат-ион",
+                    "field_name_of_substance_id": "248",
+                    "field_units_referencee": "мгN/дм3",
+                    "field_units_referencee_id": "26",
+                    "field_number_skv": "3н",
+                    "field_fact_conct": "0,17"
+                },
+                {
+                    "field_name_of_substance": "Сульфат-ион",
+                    "field_name_of_substance_id": "21",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "3н",
+                    "field_fact_conct": "29,6"
+                },
+                {
+                    "field_name_of_substance": "Хлорид-ион",
+                    "field_name_of_substance_id": "22",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "3н",
+                    "field_fact_conct": "55,2"
+                },
+                {
+                    "field_name_of_substance": "Фосфат-ион (включая гидро- и дигидроформы)",
+                    "field_name_of_substance_id": "250",
+                    "field_units_referencee": "мгP/дм3",
+                    "field_units_referencee_id": "223",
+                    "field_number_skv": "3н",
+                    "field_fact_conct": "0,27"
+                },
+                {
+                    "field_name_of_substance": "Уровень воды",
+                    "field_name_of_substance_id": "240",
+                    "field_units_referencee": "м",
+                    "field_units_referencee_id": "241",
+                    "field_number_skv": "3н",
+                    "field_fact_conct": "10,5"
+                }
+            ]
+        }
+    },
+    {
+        "node": {
+            "title": "ЛМ ДКСА УП по саночистке города \"Оршанская спецавтобаза\" (полигон ТКО г. Орша) май 2024",
+            "field_geo_point": "1805",
+            "title_1": "ДКСА УП по саночистке города \"Оршанская спецавтобаза\"",
+            "field_source": "2826",
+            "title_2": "ДКСА УП по саночистке города \"Оршанская спецавтобаза\" наблюдательная скважина №3",
+            "field_period": "Май 2024",
+            "substances": [
+                {
+                    "field_name_of_substance": "Нефтепродукты",
+                    "field_name_of_substance_id": "239",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "3 ",
+                    "field_fact_conct": "0,03"
+                },
+                {
+                    "field_name_of_substance": "Минерализация воды",
+                    "field_name_of_substance_id": "28",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "3 ",
+                    "field_fact_conct": "381"
+                },
+                {
+                    "field_name_of_substance": "СПАВ анионоактивные",
+                    "field_name_of_substance_id": "249",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "3 ",
+                    "field_fact_conct": "0,03"
+                },
+                {
+                    "field_name_of_substance": "Медь",
+                    "field_name_of_substance_id": "29",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "3 ",
+                    "field_fact_conct": "<0,0005"
+                },
+                {
+                    "field_name_of_substance": "Цинк",
+                    "field_name_of_substance_id": "30",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "3 ",
+                    "field_fact_conct": "0,015"
+                },
+                {
+                    "field_name_of_substance": "Хром",
+                    "field_name_of_substance_id": "31",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "3 ",
+                    "field_fact_conct": "<0,005"
+                },
+                {
+                    "field_name_of_substance": "Никель",
+                    "field_name_of_substance_id": "32",
+                    "field_units_referencee": "мкг/дм3",
+                    "field_units_referencee_id": "39",
+                    "field_number_skv": "3",
+                    "field_fact_conct": "<10"
+                },
+                {
+                    "field_name_of_substance": "Свинец",
+                    "field_name_of_substance_id": "51",
+                    "field_units_referencee": "мкг/дм3",
+                    "field_units_referencee_id": "39",
+                    "field_number_skv": "3",
+                    "field_fact_conct": "<5"
+                },
+                {
+                    "field_name_of_substance": "Кадмий",
+                    "field_name_of_substance_id": "50",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "3",
+                    "field_fact_conct": "<0,0005"
+                },
+                {
+                    "field_name_of_substance": "Водородный показатель (pH)",
+                    "field_name_of_substance_id": "18",
+                    "field_units_referencee": "ед.рН",
+                    "field_units_referencee_id": "25",
+                    "field_number_skv": "3",
+                    "field_fact_conct": "7,4"
+                },
+                {
+                    "field_name_of_substance": "Температура",
+                    "field_name_of_substance_id": "49",
+                    "field_units_referencee": "°С",
+                    "field_units_referencee_id": "252",
+                    "field_number_skv": "3",
+                    "field_fact_conct": "11,7"
+                },
+                {
+                    "field_name_of_substance": "Марганец",
+                    "field_name_of_substance_id": "45",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "3",
+                    "field_fact_conct": "0,016"
+                },
+                {
+                    "field_name_of_substance": "Ртуть",
+                    "field_name_of_substance_id": "72",
+                    "field_units_referencee": "мкг/дм3",
+                    "field_units_referencee_id": "39",
+                    "field_number_skv": "3",
+                    "field_fact_conct": "<0,2"
+                },
+                {
+                    "field_name_of_substance": "Железо общее",
+                    "field_name_of_substance_id": "34",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "3",
+                    "field_fact_conct": "0,278"
+                },
+                {
+                    "field_name_of_substance": "Аммоний-ион",
+                    "field_name_of_substance_id": "246",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "3",
+                    "field_fact_conct": "0,493"
+                },
+                {
+                    "field_name_of_substance": "Нитрат-ион",
+                    "field_name_of_substance_id": "248",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "3",
+                    "field_fact_conct": "0,12"
+                },
+                {
+                    "field_name_of_substance": "Сульфат-ион",
+                    "field_name_of_substance_id": "21",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "3",
+                    "field_fact_conct": "27,8"
+                },
+                {
+                    "field_name_of_substance": "Хлорид-ион",
+                    "field_name_of_substance_id": "22",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "3",
+                    "field_fact_conct": "51,9"
+                },
+                {
+                    "field_name_of_substance": "Фосфат-ион (включая гидро- и дигидроформы)",
+                    "field_name_of_substance_id": "250",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_number_skv": "3",
+                    "field_fact_conct": "0,25"
+                },
+                {
+                    "field_name_of_substance": "Уровень воды",
+                    "field_name_of_substance_id": "240",
+                    "field_units_referencee": "м",
+                    "field_units_referencee_id": "241",
+                    "field_number_skv": "3",
+                    "field_fact_conct": "4"
+                }
+            ]
+        }
+    }
+]

@@ -1,0 +1,88 @@
+[
+    {
+        "node": {
+            "title": "2149 - 2070",
+            "Nid": "2469",
+            "timestamp": "2025-04-01 01:08:37",
+            "field_geo_point": "2070",
+            "field_source": "2149",
+            "field_period": "",
+            "title_1": "ООО ”Рековиа“",
+            "title_2": "ООО ”Рековиа“",
+            "substances": [
+                {
+                    "field_name_of_substance": "Ртуть и ее соединения (в пересчете на ртуть)",
+                    "field_name_of_substance_id": "81",
+                    "field_code": "183",
+                    "field_danger_class": "1",
+                    "field_znachenie": "1.0E-6",
+                    "field_year_value": "1.0E-6"
+                },
+                {
+                    "field_name_of_substance": "Азот (IV) оксид (азота диоксид)",
+                    "field_name_of_substance_id": "84",
+                    "field_code": "301",
+                    "field_danger_class": "2",
+                    "field_znachenie": "0.17",
+                    "field_year_value": "1.791"
+                },
+                {
+                    "field_name_of_substance": "Азот (IV) оксид (азота диоксид)",
+                    "field_name_of_substance_id": "84",
+                    "field_code": "304",
+                    "field_danger_class": "3",
+                    "field_znachenie": "0.001",
+                    "field_year_value": "0.298"
+                },
+                {
+                    "field_name_of_substance": "Углерод оксид (окись углерода, угарный газ)",
+                    "field_name_of_substance_id": "201",
+                    "field_code": "337",
+                    "field_danger_class": "4",
+                    "field_znachenie": "1.12",
+                    "field_year_value": "4.611"
+                },
+                {
+                    "field_name_of_substance": "Бенз(а)пирен",
+                    "field_name_of_substance_id": "183",
+                    "field_code": "703",
+                    "field_danger_class": "1",
+                    "field_znachenie": "1.0E-6",
+                    "field_year_value": "3.0E-6"
+                },
+                {
+                    "field_name_of_substance": "Бензо(в)флюоратен",
+                    "field_name_of_substance_id": "101",
+                    "field_code": "727",
+                    "field_danger_class": "0",
+                    "field_znachenie": "0.001",
+                    "field_year_value": "0.001"
+                },
+                {
+                    "field_name_of_substance": "Бензо(к)флюоратен",
+                    "field_name_of_substance_id": "102",
+                    "field_code": "728",
+                    "field_danger_class": "0",
+                    "field_znachenie": "0.001",
+                    "field_year_value": "0.001"
+                },
+                {
+                    "field_name_of_substance": "Индено(1,2,3-сd)пирен",
+                    "field_name_of_substance_id": "103",
+                    "field_code": "729",
+                    "field_danger_class": "0",
+                    "field_znachenie": "0.001",
+                    "field_year_value": "0.001"
+                },
+                {
+                    "field_name_of_substance": "Диоксины (в пересчете на 2,3,7,8,тетрахлордибензо-1,4-диоксин)",
+                    "field_name_of_substance_id": "161",
+                    "field_code": "3620",
+                    "field_danger_class": "1",
+                    "field_znachenie": "1.0E-6",
+                    "field_year_value": "1.0E-6"
+                }
+            ]
+        }
+    }
+]

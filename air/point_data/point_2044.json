@@ -1,0 +1,64 @@
+[
+    {
+        "node": {
+            "title": "2123 - 2044",
+            "Nid": "2444",
+            "timestamp": "2025-04-01 01:08:37",
+            "field_geo_point": "2044",
+            "field_source": "2123",
+            "field_period": "",
+            "title_1": "ИООО ”ЛИНПАК Пекеджинг Ист“",
+            "title_2": "ИООО ”ЛИНПАК Пекеджинг Ист“",
+            "substances": [
+                {
+                    "field_name_of_substance": "Ртуть и ее соединения (в пересчете на ртуть)",
+                    "field_name_of_substance_id": "81",
+                    "field_code": "183",
+                    "field_danger_class": "1",
+                    "field_znachenie": "9.0E-6",
+                    "field_year_value": "1.0E-6"
+                },
+                {
+                    "field_name_of_substance": "Азот (IV) оксид (азота диоксид)",
+                    "field_name_of_substance_id": "84",
+                    "field_code": "301",
+                    "field_danger_class": "2",
+                    "field_znachenie": "0.015",
+                    "field_year_value": "0.245"
+                },
+                {
+                    "field_name_of_substance": "Азот (IV) оксид (азота диоксид)",
+                    "field_name_of_substance_id": "84",
+                    "field_code": "304",
+                    "field_danger_class": "3",
+                    "field_znachenie": "0.001",
+                    "field_year_value": "0.018"
+                },
+                {
+                    "field_name_of_substance": "Углерод оксид (окись углерода, угарный газ)",
+                    "field_name_of_substance_id": "201",
+                    "field_code": "337",
+                    "field_danger_class": "4",
+                    "field_znachenie": "0.047",
+                    "field_year_value": "1.313"
+                },
+                {
+                    "field_name_of_substance": "Бенз(а)пирен",
+                    "field_name_of_substance_id": "183",
+                    "field_code": "703",
+                    "field_danger_class": "1",
+                    "field_znachenie": "1.0E-6",
+                    "field_year_value": "1.0E-6"
+                },
+                {
+                    "field_name_of_substance": "Формальдегид (метаналь)",
+                    "field_name_of_substance_id": "105",
+                    "field_code": "1325",
+                    "field_danger_class": "2",
+                    "field_znachenie": "0.004",
+                    "field_year_value": "0.139"
+                }
+            ]
+        }
+    }
+]

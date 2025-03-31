@@ -1,0 +1,1980 @@
+[
+    {
+        "node": {
+            "title": "1304 - 1250",
+            "field_geo_point": "1250",
+            "title_1": "р. Днепр",
+            "field_source": "1304",
+            "title_2": "р. Днепр",
+            "field_period": "02.06.2020",
+            "substances": [
+                {
+                    "field_name_of_substance": "Биохимическое потребление кислорода (БПК5)",
+                    "field_name_of_substance_id": "14",
+                    "field_units_referencee": "мгО2/дм3",
+                    "field_units_referencee_id": "23",
+                    "field_average_concentration_1": "1.9",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "3"
+                },
+                {
+                    "field_name_of_substance": "Нефть и нефтепродукты в растворенном и эмульгированном состоянии",
+                    "field_name_of_substance_id": "15",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "0.011",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "0.05"
+                },
+                {
+                    "field_name_of_substance": "Взвешенные вещества",
+                    "field_name_of_substance_id": "16",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "6.5",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "25"
+                },
+                {
+                    "field_name_of_substance": "Минерализация воды",
+                    "field_name_of_substance_id": "28",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "258",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "1000"
+                },
+                {
+                    "field_name_of_substance": "СПАВ анионоактивные (в том числе алкилоксиэтилированные сульфаты, алкилсульфонаты, олефинсульфонаты, алкилбензосульфонаты, алкилсульфаты, натриевые и калиевые соли жирных кислот)",
+                    "field_name_of_substance_id": "17",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "<0.025",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "0.1"
+                },
+                {
+                    "field_name_of_substance": "Медь",
+                    "field_name_of_substance_id": "29",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "<0.0005",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "0.0045"
+                },
+                {
+                    "field_name_of_substance": "Цинк",
+                    "field_name_of_substance_id": "30",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "0.012",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "0.016"
+                },
+                {
+                    "field_name_of_substance": "Хром",
+                    "field_name_of_substance_id": "31",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "<0.005",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "0.005"
+                },
+                {
+                    "field_name_of_substance": "Никель",
+                    "field_name_of_substance_id": "32",
+                    "field_units_referencee": "мкг/дм3",
+                    "field_units_referencee_id": "39",
+                    "field_average_concentration_1": "<10",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "34"
+                },
+                {
+                    "field_name_of_substance": "Водородный показатель (pH)",
+                    "field_name_of_substance_id": "18",
+                    "field_units_referencee": "ед.рН",
+                    "field_units_referencee_id": "25",
+                    "field_average_concentration_1": "7.9",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "6.5:8.5"
+                },
+                {
+                    "field_name_of_substance": "Химическое потребление кислорода (ХПКCr)",
+                    "field_name_of_substance_id": "43",
+                    "field_units_referencee": "мгО2/дм3",
+                    "field_units_referencee_id": "23",
+                    "field_average_concentration_1": "21.7",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "25"
+                },
+                {
+                    "field_name_of_substance": "Фосфор общий",
+                    "field_name_of_substance_id": "27",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "0.098",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "0.2"
+                },
+                {
+                    "field_name_of_substance": "Азот общий (сумма концентраций азота по Кьельдалю, нитрат-иона (в пересчете на азот), нитрит-иона (в пересчете на азот))",
+                    "field_name_of_substance_id": "33",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "1.89",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "0"
+                },
+                {
+                    "field_name_of_substance": "Железо общее",
+                    "field_name_of_substance_id": "34",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "0.469",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "0.27"
+                },
+                {
+                    "field_name_of_substance": "Озон",
+                    "field_name_of_substance_id": "137",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "<0.001",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "0.001"
+                },
+                {
+                    "field_name_of_substance": "Аммоний-ион (в пересчете на азот)",
+                    "field_name_of_substance_id": "20",
+                    "field_units_referencee": "мгN/дм3",
+                    "field_units_referencee_id": "26",
+                    "field_average_concentration_1": "0.289",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "0.39"
+                },
+                {
+                    "field_name_of_substance": "Нитрат-ион (в пересчете на азот)",
+                    "field_name_of_substance_id": "36",
+                    "field_units_referencee": "мгN/дм3",
+                    "field_units_referencee_id": "26",
+                    "field_average_concentration_1": "0.89",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "9.03"
+                },
+                {
+                    "field_name_of_substance": "Нитрит-ион (в пересчете на азот)",
+                    "field_name_of_substance_id": "37",
+                    "field_units_referencee": "мгN/дм3",
+                    "field_units_referencee_id": "26",
+                    "field_average_concentration_1": "0.015",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "0.024"
+                },
+                {
+                    "field_name_of_substance": "Сульфат-ион",
+                    "field_name_of_substance_id": "21",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "12.7",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "100"
+                },
+                {
+                    "field_name_of_substance": "Хлорид-ион",
+                    "field_name_of_substance_id": "22",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "11.7",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "300"
+                },
+                {
+                    "field_name_of_substance": "Азот по Къельдалю",
+                    "field_name_of_substance_id": "38",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "0.986",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "5"
+                }
+            ]
+        }
+    },
+    {
+        "node": {
+            "title": "1304 - 1250",
+            "field_geo_point": "1250",
+            "title_1": "р. Днепр",
+            "field_source": "1304",
+            "title_2": "р. Днепр",
+            "field_period": "02.06.2020",
+            "substances": [
+                {
+                    "field_name_of_substance": "Биохимическое потребление кислорода (БПК5)",
+                    "field_name_of_substance_id": "14",
+                    "field_units_referencee": "мгО2/дм3",
+                    "field_units_referencee_id": "23",
+                    "field_average_concentration_1": "1.9",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "3"
+                },
+                {
+                    "field_name_of_substance": "Нефть и нефтепродукты в растворенном и эмульгированном состоянии",
+                    "field_name_of_substance_id": "15",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "0.011",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "0.05"
+                },
+                {
+                    "field_name_of_substance": "Взвешенные вещества",
+                    "field_name_of_substance_id": "16",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "6.5",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "25"
+                },
+                {
+                    "field_name_of_substance": "Минерализация воды",
+                    "field_name_of_substance_id": "28",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "258",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "1000"
+                },
+                {
+                    "field_name_of_substance": "СПАВ анионоактивные (в том числе алкилоксиэтилированные сульфаты, алкилсульфонаты, олефинсульфонаты, алкилбензосульфонаты, алкилсульфаты, натриевые и калиевые соли жирных кислот)",
+                    "field_name_of_substance_id": "17",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "<0.025",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "0.1"
+                },
+                {
+                    "field_name_of_substance": "Медь",
+                    "field_name_of_substance_id": "29",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "<0.0005",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "0.0045"
+                },
+                {
+                    "field_name_of_substance": "Цинк",
+                    "field_name_of_substance_id": "30",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "0.012",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "0.016"
+                },
+                {
+                    "field_name_of_substance": "Хром",
+                    "field_name_of_substance_id": "31",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "<0.005",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "0.005"
+                },
+                {
+                    "field_name_of_substance": "Никель",
+                    "field_name_of_substance_id": "32",
+                    "field_units_referencee": "мкг/дм3",
+                    "field_units_referencee_id": "39",
+                    "field_average_concentration_1": "<10",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "34"
+                },
+                {
+                    "field_name_of_substance": "Водородный показатель (pH)",
+                    "field_name_of_substance_id": "18",
+                    "field_units_referencee": "ед.рН",
+                    "field_units_referencee_id": "25",
+                    "field_average_concentration_1": "7.9",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "6.5:8.5"
+                },
+                {
+                    "field_name_of_substance": "Химическое потребление кислорода (ХПКCr)",
+                    "field_name_of_substance_id": "43",
+                    "field_units_referencee": "мгО2/дм3",
+                    "field_units_referencee_id": "23",
+                    "field_average_concentration_1": "21.7",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "25"
+                },
+                {
+                    "field_name_of_substance": "Фосфор общий",
+                    "field_name_of_substance_id": "27",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "0.098",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "0.2"
+                },
+                {
+                    "field_name_of_substance": "Азот общий (сумма концентраций азота по Кьельдалю, нитрат-иона (в пересчете на азот), нитрит-иона (в пересчете на азот))",
+                    "field_name_of_substance_id": "33",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "1.89",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "0"
+                },
+                {
+                    "field_name_of_substance": "Железо общее",
+                    "field_name_of_substance_id": "34",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "0.469",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "0.27"
+                },
+                {
+                    "field_name_of_substance": "Озон",
+                    "field_name_of_substance_id": "137",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "<0.001",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "0.001"
+                },
+                {
+                    "field_name_of_substance": "Аммоний-ион (в пересчете на азот)",
+                    "field_name_of_substance_id": "20",
+                    "field_units_referencee": "мгN/дм3",
+                    "field_units_referencee_id": "26",
+                    "field_average_concentration_1": "0.289",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "0.39"
+                },
+                {
+                    "field_name_of_substance": "Нитрат-ион (в пересчете на азот)",
+                    "field_name_of_substance_id": "36",
+                    "field_units_referencee": "мгN/дм3",
+                    "field_units_referencee_id": "26",
+                    "field_average_concentration_1": "0.89",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "9.03"
+                },
+                {
+                    "field_name_of_substance": "Нитрит-ион (в пересчете на азот)",
+                    "field_name_of_substance_id": "37",
+                    "field_units_referencee": "мгN/дм3",
+                    "field_units_referencee_id": "26",
+                    "field_average_concentration_1": "0.015",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "0.024"
+                },
+                {
+                    "field_name_of_substance": "Сульфат-ион",
+                    "field_name_of_substance_id": "21",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "12.7",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "100"
+                },
+                {
+                    "field_name_of_substance": "Хлорид-ион",
+                    "field_name_of_substance_id": "22",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "11.7",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "300"
+                },
+                {
+                    "field_name_of_substance": "Азот по Къельдалю",
+                    "field_name_of_substance_id": "38",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "0.986",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "5"
+                }
+            ]
+        }
+    },
+    {
+        "node": {
+            "title": "1304 - 1250",
+            "field_geo_point": "1250",
+            "title_1": "р. Днепр",
+            "field_source": "1304",
+            "title_2": "р. Днепр",
+            "field_period": "22.04.2021",
+            "substances": [
+                {
+                    "field_name_of_substance": "Биохимическое потребление кислорода (БПК5)",
+                    "field_name_of_substance_id": "14",
+                    "field_units_referencee": "мгО2/дм3",
+                    "field_units_referencee_id": "23",
+                    "field_average_concentration_1": "1.8",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "6"
+                },
+                {
+                    "field_name_of_substance": "Нефть и нефтепродукты в растворенном и эмульгированном состоянии",
+                    "field_name_of_substance_id": "15",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "0.0147",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "0.05"
+                },
+                {
+                    "field_name_of_substance": "Взвешенные вещества",
+                    "field_name_of_substance_id": "16",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "7.8",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "25"
+                },
+                {
+                    "field_name_of_substance": "Минерализация воды",
+                    "field_name_of_substance_id": "28",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "140",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "1000"
+                },
+                {
+                    "field_name_of_substance": "СПАВ анионоактивные (в том числе алкилоксиэтилированные сульфаты, алкилсульфонаты, олефинсульфонаты, алкилбензосульфонаты, алкилсульфаты, натриевые и калиевые соли жирных кислот)",
+                    "field_name_of_substance_id": "17",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "<п.о",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "0.1"
+                },
+                {
+                    "field_name_of_substance": "Медь",
+                    "field_name_of_substance_id": "29",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "<0.0029",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "0.0042"
+                },
+                {
+                    "field_name_of_substance": "Цинк",
+                    "field_name_of_substance_id": "30",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "0.004",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "0.01"
+                },
+                {
+                    "field_name_of_substance": "Хром",
+                    "field_name_of_substance_id": "31",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "<п.о",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "0.005"
+                },
+                {
+                    "field_name_of_substance": "Никель",
+                    "field_name_of_substance_id": "32",
+                    "field_units_referencee": "мкг/дм3",
+                    "field_units_referencee_id": "39",
+                    "field_average_concentration_1": "<п.о",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "34"
+                },
+                {
+                    "field_name_of_substance": "Водородный показатель (pH)",
+                    "field_name_of_substance_id": "18",
+                    "field_units_referencee": "ед.рН",
+                    "field_units_referencee_id": "25",
+                    "field_average_concentration_1": "7.9",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "6.5:8.5"
+                },
+                {
+                    "field_name_of_substance": "Химическое потребление кислорода (ХПКCr)",
+                    "field_name_of_substance_id": "43",
+                    "field_units_referencee": "мгО2/дм3",
+                    "field_units_referencee_id": "23",
+                    "field_average_concentration_1": "39.2",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "30"
+                },
+                {
+                    "field_name_of_substance": "Фосфор общий",
+                    "field_name_of_substance_id": "27",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "0.2",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "0.2"
+                },
+                {
+                    "field_name_of_substance": "Азот общий (сумма концентраций азота по Кьельдалю, нитрат-иона (в пересчете на азот), нитрит-иона (в пересчете на азот))",
+                    "field_name_of_substance_id": "33",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "2.768",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "5"
+                },
+                {
+                    "field_name_of_substance": "Железо общее",
+                    "field_name_of_substance_id": "34",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "0.789",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "0.28"
+                },
+                {
+                    "field_name_of_substance": "Озон",
+                    "field_name_of_substance_id": "137",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "<п.о",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "0.001"
+                },
+                {
+                    "field_name_of_substance": "Аммоний-ион (в пересчете на азот)",
+                    "field_name_of_substance_id": "20",
+                    "field_units_referencee": "мгN/дм3",
+                    "field_units_referencee_id": "26",
+                    "field_average_concentration_1": "0.848",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "0.39"
+                },
+                {
+                    "field_name_of_substance": "Нитрат-ион (в пересчете на азот)",
+                    "field_name_of_substance_id": "36",
+                    "field_units_referencee": "мгN/дм3",
+                    "field_units_referencee_id": "26",
+                    "field_average_concentration_1": "1.34",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "9.03"
+                },
+                {
+                    "field_name_of_substance": "Нитрит-ион (в пересчете на азот)",
+                    "field_name_of_substance_id": "37",
+                    "field_units_referencee": "мгN/дм3",
+                    "field_units_referencee_id": "26",
+                    "field_average_concentration_1": "0.018",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "0.024"
+                },
+                {
+                    "field_name_of_substance": "Сульфат-ион",
+                    "field_name_of_substance_id": "21",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "8.18",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "100"
+                },
+                {
+                    "field_name_of_substance": "Хлорид-ион",
+                    "field_name_of_substance_id": "22",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "<п.о",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "300"
+                },
+                {
+                    "field_name_of_substance": "Азот по Къельдалю",
+                    "field_name_of_substance_id": "38",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "1.41",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "5"
+                }
+            ]
+        }
+    },
+    {
+        "node": {
+            "title": "1304 - 1250",
+            "field_geo_point": "1250",
+            "title_1": "р. Днепр",
+            "field_source": "1304",
+            "title_2": "р. Днепр",
+            "field_period": "22.04.2021",
+            "substances": [
+                {
+                    "field_name_of_substance": "Биохимическое потребление кислорода (БПК5)",
+                    "field_name_of_substance_id": "14",
+                    "field_units_referencee": "мгО2/дм3",
+                    "field_units_referencee_id": "23",
+                    "field_average_concentration_1": "1.8",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "6"
+                },
+                {
+                    "field_name_of_substance": "Нефть и нефтепродукты в растворенном и эмульгированном состоянии",
+                    "field_name_of_substance_id": "15",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "0.0147",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "0.05"
+                },
+                {
+                    "field_name_of_substance": "Взвешенные вещества",
+                    "field_name_of_substance_id": "16",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "7.8",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "25"
+                },
+                {
+                    "field_name_of_substance": "Минерализация воды",
+                    "field_name_of_substance_id": "28",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "140",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "1000"
+                },
+                {
+                    "field_name_of_substance": "СПАВ анионоактивные (в том числе алкилоксиэтилированные сульфаты, алкилсульфонаты, олефинсульфонаты, алкилбензосульфонаты, алкилсульфаты, натриевые и калиевые соли жирных кислот)",
+                    "field_name_of_substance_id": "17",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "<п.о",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "0.1"
+                },
+                {
+                    "field_name_of_substance": "Медь",
+                    "field_name_of_substance_id": "29",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "<0.0029",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "0.0042"
+                },
+                {
+                    "field_name_of_substance": "Цинк",
+                    "field_name_of_substance_id": "30",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "0.004",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "0.01"
+                },
+                {
+                    "field_name_of_substance": "Хром",
+                    "field_name_of_substance_id": "31",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "<п.о",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "0.005"
+                },
+                {
+                    "field_name_of_substance": "Никель",
+                    "field_name_of_substance_id": "32",
+                    "field_units_referencee": "мкг/дм3",
+                    "field_units_referencee_id": "39",
+                    "field_average_concentration_1": "<п.о",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "34"
+                },
+                {
+                    "field_name_of_substance": "Водородный показатель (pH)",
+                    "field_name_of_substance_id": "18",
+                    "field_units_referencee": "ед.рН",
+                    "field_units_referencee_id": "25",
+                    "field_average_concentration_1": "7.9",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "6.5:8.5"
+                },
+                {
+                    "field_name_of_substance": "Химическое потребление кислорода (ХПКCr)",
+                    "field_name_of_substance_id": "43",
+                    "field_units_referencee": "мгО2/дм3",
+                    "field_units_referencee_id": "23",
+                    "field_average_concentration_1": "39.2",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "30"
+                },
+                {
+                    "field_name_of_substance": "Фосфор общий",
+                    "field_name_of_substance_id": "27",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "0.2",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "0.2"
+                },
+                {
+                    "field_name_of_substance": "Азот общий (сумма концентраций азота по Кьельдалю, нитрат-иона (в пересчете на азот), нитрит-иона (в пересчете на азот))",
+                    "field_name_of_substance_id": "33",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "2.768",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "5"
+                },
+                {
+                    "field_name_of_substance": "Железо общее",
+                    "field_name_of_substance_id": "34",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "0.789",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "0.28"
+                },
+                {
+                    "field_name_of_substance": "Озон",
+                    "field_name_of_substance_id": "137",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "<п.о",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "0.001"
+                },
+                {
+                    "field_name_of_substance": "Аммоний-ион (в пересчете на азот)",
+                    "field_name_of_substance_id": "20",
+                    "field_units_referencee": "мгN/дм3",
+                    "field_units_referencee_id": "26",
+                    "field_average_concentration_1": "0.848",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "0.39"
+                },
+                {
+                    "field_name_of_substance": "Нитрат-ион (в пересчете на азот)",
+                    "field_name_of_substance_id": "36",
+                    "field_units_referencee": "мгN/дм3",
+                    "field_units_referencee_id": "26",
+                    "field_average_concentration_1": "1.34",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "9.03"
+                },
+                {
+                    "field_name_of_substance": "Нитрит-ион (в пересчете на азот)",
+                    "field_name_of_substance_id": "37",
+                    "field_units_referencee": "мгN/дм3",
+                    "field_units_referencee_id": "26",
+                    "field_average_concentration_1": "0.018",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "0.024"
+                },
+                {
+                    "field_name_of_substance": "Сульфат-ион",
+                    "field_name_of_substance_id": "21",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "8.18",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "100"
+                },
+                {
+                    "field_name_of_substance": "Хлорид-ион",
+                    "field_name_of_substance_id": "22",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "<п.о",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "300"
+                },
+                {
+                    "field_name_of_substance": "Азот по Къельдалю",
+                    "field_name_of_substance_id": "38",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "1.41",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "5"
+                }
+            ]
+        }
+    },
+    {
+        "node": {
+            "title": "Июнь Вход сточных вод на очистные сооружения",
+            "field_geo_point": "1250",
+            "title_1": "р. Днепр",
+            "field_source": "1304",
+            "title_2": "р. Днепр",
+            "field_period": "Июнь 2021",
+            "substances": [
+                {
+                    "field_name_of_substance": "Биохимическое потребление кислорода (БПК5)",
+                    "field_name_of_substance_id": "14",
+                    "field_units_referencee": "мгО2/дм3",
+                    "field_units_referencee_id": "23",
+                    "field_average_concentration_1": "71",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": null
+                },
+                {
+                    "field_name_of_substance": "Нефть и нефтепродукты в растворенном и эмульгированном состоянии",
+                    "field_name_of_substance_id": "15",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "2.43",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": null
+                },
+                {
+                    "field_name_of_substance": "Взвешенные вещества",
+                    "field_name_of_substance_id": "16",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "237",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": null
+                },
+                {
+                    "field_name_of_substance": "Минерализация воды",
+                    "field_name_of_substance_id": "28",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "787",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": null
+                },
+                {
+                    "field_name_of_substance": "СПАВ анионоактивные (в том числе алкилоксиэтилированные сульфаты, алкилсульфонаты, олефинсульфонаты, алкилбензосульфонаты, алкилсульфаты, натриевые и калиевые соли жирных кислот)",
+                    "field_name_of_substance_id": "17",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "2.2",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": null
+                },
+                {
+                    "field_name_of_substance": "Медь",
+                    "field_name_of_substance_id": "29",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "0.088",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": null
+                },
+                {
+                    "field_name_of_substance": "Цинк",
+                    "field_name_of_substance_id": "30",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "0.174",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": null
+                },
+                {
+                    "field_name_of_substance": "Хром",
+                    "field_name_of_substance_id": "31",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "<0.005",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": null
+                },
+                {
+                    "field_name_of_substance": "Никель",
+                    "field_name_of_substance_id": "32",
+                    "field_units_referencee": "мкг/дм3",
+                    "field_units_referencee_id": "39",
+                    "field_average_concentration_1": "<10",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": null
+                },
+                {
+                    "field_name_of_substance": "Водородный показатель (pH)",
+                    "field_name_of_substance_id": "18",
+                    "field_units_referencee": "ед.рН",
+                    "field_units_referencee_id": "25",
+                    "field_average_concentration_1": "7.2",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": null
+                },
+                {
+                    "field_name_of_substance": "Химическое потребление кислорода (ХПКCr)",
+                    "field_name_of_substance_id": "43",
+                    "field_units_referencee": "мгО2/дм3",
+                    "field_units_referencee_id": "23",
+                    "field_average_concentration_1": "343",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": null
+                },
+                {
+                    "field_name_of_substance": "Фосфор общий",
+                    "field_name_of_substance_id": "27",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "7.7",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": null
+                },
+                {
+                    "field_name_of_substance": "Железо общее",
+                    "field_name_of_substance_id": "34",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "5.58",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": null
+                },
+                {
+                    "field_name_of_substance": "Озон",
+                    "field_name_of_substance_id": "137",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "<0.001",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": null
+                },
+                {
+                    "field_name_of_substance": "Аммоний-ион (в пересчете на азот)",
+                    "field_name_of_substance_id": "20",
+                    "field_units_referencee": "мгN/дм3",
+                    "field_units_referencee_id": "26",
+                    "field_average_concentration_1": "37.6",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": null
+                },
+                {
+                    "field_name_of_substance": "Нитрат-ион (в пересчете на азот)",
+                    "field_name_of_substance_id": "36",
+                    "field_units_referencee": "мгN/дм3",
+                    "field_units_referencee_id": "26",
+                    "field_average_concentration_1": "0.55",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": null
+                },
+                {
+                    "field_name_of_substance": "Нитрит-ион (в пересчете на азот)",
+                    "field_name_of_substance_id": "37",
+                    "field_units_referencee": "мгN/дм3",
+                    "field_units_referencee_id": "26",
+                    "field_average_concentration_1": "0.078",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": null
+                },
+                {
+                    "field_name_of_substance": "Сульфат-ион",
+                    "field_name_of_substance_id": "21",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "42.3",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": null
+                },
+                {
+                    "field_name_of_substance": "Хлорид-ион",
+                    "field_name_of_substance_id": "22",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "135.7",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": null
+                },
+                {
+                    "field_name_of_substance": "Азот по Къельдалю",
+                    "field_name_of_substance_id": "38",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "63.1",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": null
+                }
+            ]
+        }
+    },
+    {
+        "node": {
+            "title": "Июнь Филиал \"Оршаводоканал\" УП \"Витебскоблводоканал\", участок ВКХ г. Орши",
+            "field_geo_point": "1250",
+            "title_1": "р. Днепр",
+            "field_source": "1304",
+            "title_2": "р. Днепр",
+            "field_period": "Июнь 2021",
+            "substances": [
+                {
+                    "field_name_of_substance": "Азот общий (сумма концентраций азота по Кьельдалю, нитрат-иона (в пересчете на азот), нитрит-иона (в пересчете на азот))",
+                    "field_name_of_substance_id": "33",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "1.816",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "5"
+                },
+                {
+                    "field_name_of_substance": "Азот по Къельдалю",
+                    "field_name_of_substance_id": "38",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "0.988",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "5"
+                },
+                {
+                    "field_name_of_substance": "Аммоний-ион (в пересчете на азот)",
+                    "field_name_of_substance_id": "20",
+                    "field_units_referencee": "мгN/дм3",
+                    "field_units_referencee_id": "26",
+                    "field_average_concentration_1": "0.47",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "0.39"
+                },
+                {
+                    "field_name_of_substance": "Биохимическое потребление кислорода (БПК5)",
+                    "field_name_of_substance_id": "14",
+                    "field_units_referencee": "мгО2/дм3",
+                    "field_units_referencee_id": "23",
+                    "field_average_concentration_1": "1.9",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "6"
+                },
+                {
+                    "field_name_of_substance": "Взвешенные вещества",
+                    "field_name_of_substance_id": "16",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "6",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "25"
+                },
+                {
+                    "field_name_of_substance": "Железо общее",
+                    "field_name_of_substance_id": "34",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "0.356",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "0.28"
+                },
+                {
+                    "field_name_of_substance": "Медь",
+                    "field_name_of_substance_id": "29",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "<п.о.",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "0.0042"
+                },
+                {
+                    "field_name_of_substance": "Минерализация воды",
+                    "field_name_of_substance_id": "28",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "275",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "1000"
+                },
+                {
+                    "field_name_of_substance": "Нефть и нефтепродукты в растворенном и эмульгированном состоянии",
+                    "field_name_of_substance_id": "15",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "0.0065",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "0.05"
+                },
+                {
+                    "field_name_of_substance": "Никель",
+                    "field_name_of_substance_id": "32",
+                    "field_units_referencee": "мкг/дм3",
+                    "field_units_referencee_id": "39",
+                    "field_average_concentration_1": "<п.о.",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "0.034"
+                },
+                {
+                    "field_name_of_substance": "Нитрат-ион (в пересчете на азот)",
+                    "field_name_of_substance_id": "36",
+                    "field_units_referencee": "мгN/дм3",
+                    "field_units_referencee_id": "26",
+                    "field_average_concentration_1": "0.813",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "9.03"
+                },
+                {
+                    "field_name_of_substance": "Нитрит-ион (в пересчете на азот)",
+                    "field_name_of_substance_id": "37",
+                    "field_units_referencee": "мгN/дм3",
+                    "field_units_referencee_id": "26",
+                    "field_average_concentration_1": "0.015",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "0.024"
+                },
+                {
+                    "field_name_of_substance": "СПАВ анионоактивные (в том числе алкилоксиэтилированные сульфаты, алкилсульфонаты, олефинсульфонаты, алкилбензосульфонаты, алкилсульфаты, натриевые и калиевые соли жирных кислот)",
+                    "field_name_of_substance_id": "17",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "<п.о.",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "0.1"
+                },
+                {
+                    "field_name_of_substance": "Сульфат-ион",
+                    "field_name_of_substance_id": "21",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "15.8",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "100"
+                },
+                {
+                    "field_name_of_substance": "Фосфор общий",
+                    "field_name_of_substance_id": "27",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "0.186",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "0.2"
+                },
+                {
+                    "field_name_of_substance": "Хлорид-ион",
+                    "field_name_of_substance_id": "22",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "16.6",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "300"
+                },
+                {
+                    "field_name_of_substance": "Химическое потребление кислорода (ХПКCr)",
+                    "field_name_of_substance_id": "43",
+                    "field_units_referencee": "мгО2/дм3",
+                    "field_units_referencee_id": "23",
+                    "field_average_concentration_1": "25.2",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "30"
+                },
+                {
+                    "field_name_of_substance": "Хром",
+                    "field_name_of_substance_id": "31",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "<п.о.",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "0.005"
+                },
+                {
+                    "field_name_of_substance": "Озон",
+                    "field_name_of_substance_id": "137",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "<п.о.",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "0.001"
+                },
+                {
+                    "field_name_of_substance": "Цинк",
+                    "field_name_of_substance_id": "30",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "0.01",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "0.014"
+                },
+                {
+                    "field_name_of_substance": "Водородный показатель (pH)",
+                    "field_name_of_substance_id": "18",
+                    "field_units_referencee": "ед.рН",
+                    "field_units_referencee_id": "25",
+                    "field_average_concentration_1": "7.7 ",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "6.5:8.5 "
+                }
+            ]
+        }
+    },
+    {
+        "node": {
+            "title": "Июль 2021 Филиал \"Оршаводоканал\" УП \"Витебскоблводоканал\", участок ВКХ г. Орши\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+            "field_geo_point": "1250",
+            "title_1": "р. Днепр",
+            "field_source": "1304",
+            "title_2": "р. Днепр",
+            "field_period": "Июль 2021",
+            "substances": [
+                {
+                    "field_name_of_substance": "Биохимическое потребление кислорода (БПК5)",
+                    "field_name_of_substance_id": "14",
+                    "field_units_referencee": "мгО2/дм3",
+                    "field_units_referencee_id": "23",
+                    "field_average_concentration_1": "1.1",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "6"
+                },
+                {
+                    "field_name_of_substance": "Нефть и нефтепродукты в растворенном и эмульгированном состоянии",
+                    "field_name_of_substance_id": "15",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "<п.о.",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "0.05"
+                },
+                {
+                    "field_name_of_substance": "Взвешенные вещества",
+                    "field_name_of_substance_id": "16",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "<п.о.",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "25"
+                },
+                {
+                    "field_name_of_substance": "Минерализация воды",
+                    "field_name_of_substance_id": "28",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "270",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "1000"
+                },
+                {
+                    "field_name_of_substance": "СПАВ анионоактивные (в том числе алкилоксиэтилированные сульфаты, алкилсульфонаты, олефинсульфонаты, алкилбензосульфонаты, алкилсульфаты, натриевые и калиевые соли жирных кислот)",
+                    "field_name_of_substance_id": "17",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "<п.о.",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "0.1"
+                },
+                {
+                    "field_name_of_substance": "Медь",
+                    "field_name_of_substance_id": "29",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "<п.о.",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "0.0042"
+                },
+                {
+                    "field_name_of_substance": "Цинк",
+                    "field_name_of_substance_id": "30",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "0.0099",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "0.014"
+                },
+                {
+                    "field_name_of_substance": "Хром",
+                    "field_name_of_substance_id": "31",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "<п.о.",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "0.005"
+                },
+                {
+                    "field_name_of_substance": "Никель",
+                    "field_name_of_substance_id": "32",
+                    "field_units_referencee": "мкг/дм3",
+                    "field_units_referencee_id": "39",
+                    "field_average_concentration_1": "<п.о.",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "0.034"
+                },
+                {
+                    "field_name_of_substance": "Водородный показатель (pH)",
+                    "field_name_of_substance_id": "18",
+                    "field_units_referencee": "ед.рН",
+                    "field_units_referencee_id": "25",
+                    "field_average_concentration_1": "7.9",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "6.5:8.5"
+                },
+                {
+                    "field_name_of_substance": "Химическое потребление кислорода (ХПКCr)",
+                    "field_name_of_substance_id": "43",
+                    "field_units_referencee": "мгО2/дм3",
+                    "field_units_referencee_id": "23",
+                    "field_average_concentration_1": "20.7",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "30"
+                },
+                {
+                    "field_name_of_substance": "Фосфор общий",
+                    "field_name_of_substance_id": "27",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "0.183",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "0.2"
+                },
+                {
+                    "field_name_of_substance": "Азот общий (сумма концентраций азота по Кьельдалю, нитрат-иона (в пересчете на азот), нитрит-иона (в пересчете на азот))",
+                    "field_name_of_substance_id": "33",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "1.408",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "14.054"
+                },
+                {
+                    "field_name_of_substance": "Железо общее",
+                    "field_name_of_substance_id": "34",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "0.293",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "0.28"
+                },
+                {
+                    "field_name_of_substance": "Озон",
+                    "field_name_of_substance_id": "137",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "<п.о.",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "0.001"
+                },
+                {
+                    "field_name_of_substance": "Аммоний-ион (в пересчете на азот)",
+                    "field_name_of_substance_id": "20",
+                    "field_units_referencee": "мгN/дм3",
+                    "field_units_referencee_id": "26",
+                    "field_average_concentration_1": "0.262",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "0.39"
+                },
+                {
+                    "field_name_of_substance": "Нитрат-ион (в пересчете на азот)",
+                    "field_name_of_substance_id": "36",
+                    "field_units_referencee": "мгN/дм3",
+                    "field_units_referencee_id": "26",
+                    "field_average_concentration_1": "0.635",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "9.03"
+                },
+                {
+                    "field_name_of_substance": "Нитрит-ион (в пересчете на азот)",
+                    "field_name_of_substance_id": "37",
+                    "field_units_referencee": "мгN/дм3",
+                    "field_units_referencee_id": "26",
+                    "field_average_concentration_1": "0.022",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "0.024"
+                },
+                {
+                    "field_name_of_substance": "Сульфат-ион",
+                    "field_name_of_substance_id": "21",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "17.8",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "100"
+                },
+                {
+                    "field_name_of_substance": "Хлорид-ион",
+                    "field_name_of_substance_id": "22",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "17.6",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "300"
+                },
+                {
+                    "field_name_of_substance": "Азот по Къельдалю",
+                    "field_name_of_substance_id": "38",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "0.751",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "5"
+                }
+            ]
+        }
+    },
+    {
+        "node": {
+            "title": "Август 2021 вход УП \"Витебскоблводоканал\" филиал \"Оршаводоканал\" Витебская обл. Оршанский р-н Минжилкомхоз",
+            "field_geo_point": "1250",
+            "title_1": "р. Днепр",
+            "field_source": "1304",
+            "title_2": "р. Днепр",
+            "field_period": "Август 2021",
+            "substances": [
+                {
+                    "field_name_of_substance": "Биохимическое потребление кислорода (БПК5)",
+                    "field_name_of_substance_id": "14",
+                    "field_units_referencee": "мгО2/дм3",
+                    "field_units_referencee_id": "23",
+                    "field_average_concentration_1": "218",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "не уст."
+                },
+                {
+                    "field_name_of_substance": "Нефть и нефтепродукты в растворенном и эмульгированном состоянии",
+                    "field_name_of_substance_id": "15",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "2.62",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "не уст."
+                },
+                {
+                    "field_name_of_substance": "Взвешенные вещества",
+                    "field_name_of_substance_id": "16",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "253",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "не уст."
+                },
+                {
+                    "field_name_of_substance": "Минерализация воды",
+                    "field_name_of_substance_id": "28",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "861",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "не уст."
+                },
+                {
+                    "field_name_of_substance": "СПАВ анионоактивные (в том числе алкилоксиэтилированные сульфаты, алкилсульфонаты, олефинсульфонаты, алкилбензосульфонаты, алкилсульфаты, натриевые и калиевые соли жирных кислот)",
+                    "field_name_of_substance_id": "17",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "2.4",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "не уст."
+                },
+                {
+                    "field_name_of_substance": "Медь",
+                    "field_name_of_substance_id": "29",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "0.096",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "не уст."
+                },
+                {
+                    "field_name_of_substance": "Цинк",
+                    "field_name_of_substance_id": "30",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "0.198",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "не уст."
+                },
+                {
+                    "field_name_of_substance": "Хром",
+                    "field_name_of_substance_id": "31",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "<0.005",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "не уст."
+                },
+                {
+                    "field_name_of_substance": "Никель",
+                    "field_name_of_substance_id": "32",
+                    "field_units_referencee": "мкг/дм3",
+                    "field_units_referencee_id": "39",
+                    "field_average_concentration_1": "<10",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "не уст."
+                },
+                {
+                    "field_name_of_substance": "Водородный показатель (pH)",
+                    "field_name_of_substance_id": "18",
+                    "field_units_referencee": "ед.рН",
+                    "field_units_referencee_id": "25",
+                    "field_average_concentration_1": "7.8",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "не уст."
+                },
+                {
+                    "field_name_of_substance": "Химическое потребление кислорода (ХПКCr)",
+                    "field_name_of_substance_id": "43",
+                    "field_units_referencee": "мгО2/дм3",
+                    "field_units_referencee_id": "23",
+                    "field_average_concentration_1": "484",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "не уст."
+                },
+                {
+                    "field_name_of_substance": "Фосфор общий",
+                    "field_name_of_substance_id": "27",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "8",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "не уст."
+                },
+                {
+                    "field_name_of_substance": "Железо общее",
+                    "field_name_of_substance_id": "34",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "5.33",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "не уст."
+                },
+                {
+                    "field_name_of_substance": "Озон",
+                    "field_name_of_substance_id": "137",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "<0.001",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "не уст."
+                },
+                {
+                    "field_name_of_substance": "Аммоний-ион (в пересчете на азот)",
+                    "field_name_of_substance_id": "20",
+                    "field_units_referencee": "мгN/дм3",
+                    "field_units_referencee_id": "26",
+                    "field_average_concentration_1": "40.8",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "не уст."
+                },
+                {
+                    "field_name_of_substance": "Нитрат-ион (в пересчете на азот)",
+                    "field_name_of_substance_id": "36",
+                    "field_units_referencee": "мгN/дм3",
+                    "field_units_referencee_id": "26",
+                    "field_average_concentration_1": "0.22",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "не уст."
+                },
+                {
+                    "field_name_of_substance": "Нитрит-ион (в пересчете на азот)",
+                    "field_name_of_substance_id": "37",
+                    "field_units_referencee": "мгN/дм3",
+                    "field_units_referencee_id": "26",
+                    "field_average_concentration_1": "0.075",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "не уст."
+                },
+                {
+                    "field_name_of_substance": "Сульфат-ион",
+                    "field_name_of_substance_id": "21",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "48.4",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "не уст."
+                },
+                {
+                    "field_name_of_substance": "Хлорид-ион",
+                    "field_name_of_substance_id": "22",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "156.2",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "не уст."
+                },
+                {
+                    "field_name_of_substance": "Азот по Къельдалю",
+                    "field_name_of_substance_id": "38",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "61.4",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "не уст."
+                }
+            ]
+        }
+    },
+    {
+        "node": {
+            "title": "Август 2021 фон Место выпуска сточных вод в р. Днепр, в черте г. Орша, Фоновый створ на р. Днепр, Контрольный створ на р. Днепр",
+            "field_geo_point": "1250",
+            "title_1": "р. Днепр",
+            "field_source": "1304",
+            "title_2": "р. Днепр",
+            "field_period": "Август 2021",
+            "substances": [
+                {
+                    "field_name_of_substance": "Биохимическое потребление кислорода (БПК5)",
+                    "field_name_of_substance_id": "14",
+                    "field_units_referencee": "мгО2/дм3",
+                    "field_units_referencee_id": "23",
+                    "field_average_concentration_1": "1.7",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "6"
+                },
+                {
+                    "field_name_of_substance": "Нефть и нефтепродукты в растворенном и эмульгированном состоянии",
+                    "field_name_of_substance_id": "15",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "0.0127",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "0.05"
+                },
+                {
+                    "field_name_of_substance": "Взвешенные вещества",
+                    "field_name_of_substance_id": "16",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "6.1",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "25"
+                },
+                {
+                    "field_name_of_substance": "Минерализация воды",
+                    "field_name_of_substance_id": "28",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "266",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "1000"
+                },
+                {
+                    "field_name_of_substance": "СПАВ анионоактивные (в том числе алкилоксиэтилированные сульфаты, алкилсульфонаты, олефинсульфонаты, алкилбензосульфонаты, алкилсульфаты, натриевые и калиевые соли жирных кислот)",
+                    "field_name_of_substance_id": "17",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "<п.о.",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "0.1"
+                },
+                {
+                    "field_name_of_substance": "Медь",
+                    "field_name_of_substance_id": "29",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "<п.о.",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "0.0042"
+                },
+                {
+                    "field_name_of_substance": "Цинк",
+                    "field_name_of_substance_id": "30",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "0.011",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "0.014"
+                },
+                {
+                    "field_name_of_substance": "Хром",
+                    "field_name_of_substance_id": "31",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "<п.о.",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "0.005"
+                },
+                {
+                    "field_name_of_substance": "Никель",
+                    "field_name_of_substance_id": "32",
+                    "field_units_referencee": "мкг/дм3",
+                    "field_units_referencee_id": "39",
+                    "field_average_concentration_1": "<п.о.",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "0.034"
+                },
+                {
+                    "field_name_of_substance": "Водородный показатель (pH)",
+                    "field_name_of_substance_id": "18",
+                    "field_units_referencee": "ед.рН",
+                    "field_units_referencee_id": "25",
+                    "field_average_concentration_1": "7.7",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "6.5:8.5"
+                },
+                {
+                    "field_name_of_substance": "Химическое потребление кислорода (ХПКCr)",
+                    "field_name_of_substance_id": "43",
+                    "field_units_referencee": "мгО2/дм3",
+                    "field_units_referencee_id": "23",
+                    "field_average_concentration_1": "22.2",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "30"
+                },
+                {
+                    "field_name_of_substance": "Фосфор общий",
+                    "field_name_of_substance_id": "27",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "0.151",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "0.2"
+                },
+                {
+                    "field_name_of_substance": "Азот общий (сумма концентраций азота по Кьельдалю, нитрат-иона (в пересчете на азот), нитрит-иона (в пересчете на азот))",
+                    "field_name_of_substance_id": "33",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "1.72",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "14.054"
+                },
+                {
+                    "field_name_of_substance": "Железо общее",
+                    "field_name_of_substance_id": "34",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "0.302",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "0.28"
+                },
+                {
+                    "field_name_of_substance": "Озон",
+                    "field_name_of_substance_id": "137",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "<п.о.",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "0.001"
+                },
+                {
+                    "field_name_of_substance": "Аммоний-ион (в пересчете на азот)",
+                    "field_name_of_substance_id": "20",
+                    "field_units_referencee": "мгN/дм3",
+                    "field_units_referencee_id": "26",
+                    "field_average_concentration_1": "0.269",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "0.39"
+                },
+                {
+                    "field_name_of_substance": "Нитрат-ион (в пересчете на азот)",
+                    "field_name_of_substance_id": "36",
+                    "field_units_referencee": "мгN/дм3",
+                    "field_units_referencee_id": "26",
+                    "field_average_concentration_1": "0.892",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "9.03"
+                },
+                {
+                    "field_name_of_substance": "Нитрит-ион (в пересчете на азот)",
+                    "field_name_of_substance_id": "37",
+                    "field_units_referencee": "мгN/дм3",
+                    "field_units_referencee_id": "26",
+                    "field_average_concentration_1": "0.017",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "0.024"
+                },
+                {
+                    "field_name_of_substance": "Сульфат-ион",
+                    "field_name_of_substance_id": "21",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "13.9",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "100"
+                },
+                {
+                    "field_name_of_substance": "Хлорид-ион",
+                    "field_name_of_substance_id": "22",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "12.2",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "300"
+                },
+                {
+                    "field_name_of_substance": "Азот по Къельдалю",
+                    "field_name_of_substance_id": "38",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "0.811",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "5"
+                }
+            ]
+        }
+    }
+]

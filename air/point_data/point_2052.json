@@ -1,0 +1,288 @@
+[
+    {
+        "node": {
+            "title": "2131 - 2052",
+            "Nid": "2451",
+            "timestamp": "2025-04-01 01:08:37",
+            "field_geo_point": "2052",
+            "field_source": "2131",
+            "field_period": "",
+            "title_1": "ОАО \"Агрокомбинат \"Юбилейный\"",
+            "title_2": "ОАО \"Агрокомбинат \"Юбилейный\"",
+            "substances": [
+                {
+                    "field_name_of_substance": "Кадмий и его соединения (в пересчете на кадмий)",
+                    "field_name_of_substance_id": "78",
+                    "field_code": "124",
+                    "field_danger_class": "1",
+                    "field_znachenie": "2.0E-6",
+                    "field_year_value": "1.6E-5"
+                },
+                {
+                    "field_name_of_substance": "Железо и его соединения (в пересчете на железо)",
+                    "field_name_of_substance_id": "99",
+                    "field_code": "130",
+                    "field_danger_class": "3",
+                    "field_znachenie": "0.004",
+                    "field_year_value": "0.024"
+                },
+                {
+                    "field_name_of_substance": "Медь и ее соединения (в пересчете на медь)",
+                    "field_name_of_substance_id": "133",
+                    "field_code": "140",
+                    "field_danger_class": "2",
+                    "field_znachenie": "0.001",
+                    "field_year_value": "0.001"
+                },
+                {
+                    "field_name_of_substance": "Марганец и его соединения в пересчете на марганец (IY) оксид",
+                    "field_name_of_substance_id": "79",
+                    "field_code": "143",
+                    "field_danger_class": "2",
+                    "field_znachenie": "0.001",
+                    "field_year_value": "0.003"
+                },
+                {
+                    "field_name_of_substance": "Никель и его соединения (в пересчете на никель)",
+                    "field_name_of_substance_id": "104",
+                    "field_code": "160",
+                    "field_danger_class": "1",
+                    "field_znachenie": "1.5E-5",
+                    "field_year_value": "7.4E-5"
+                },
+                {
+                    "field_name_of_substance": "Ртуть и ее соединения (в пересчете на ртуть)",
+                    "field_name_of_substance_id": "81",
+                    "field_code": "183",
+                    "field_danger_class": "1",
+                    "field_znachenie": "1.0E-6",
+                    "field_year_value": "1.1E-5"
+                },
+                {
+                    "field_name_of_substance": "Свинец и его неорганические соединения (в пересчете на свинец)",
+                    "field_name_of_substance_id": "82",
+                    "field_code": "184",
+                    "field_danger_class": "1",
+                    "field_znachenie": "1.2E-5",
+                    "field_year_value": "0.000118"
+                },
+                {
+                    "field_name_of_substance": "Хром (VI)",
+                    "field_name_of_substance_id": "135",
+                    "field_code": "203",
+                    "field_danger_class": "1",
+                    "field_znachenie": "0.00028",
+                    "field_year_value": "0.00135"
+                },
+                {
+                    "field_name_of_substance": "Хрома трехвалентные соединения (в пересчете на Сr3+)",
+                    "field_name_of_substance_id": "136",
+                    "field_code": "228",
+                    "field_danger_class": "0",
+                    "field_znachenie": "0.001",
+                    "field_year_value": "0.001"
+                },
+                {
+                    "field_name_of_substance": "Цинк и его соединения (в пересчете на цинк)",
+                    "field_name_of_substance_id": "83",
+                    "field_code": "229",
+                    "field_danger_class": "3",
+                    "field_znachenie": "0.001",
+                    "field_year_value": "0.001"
+                },
+                {
+                    "field_name_of_substance": "Азот (IV) оксид (азота диоксид)",
+                    "field_name_of_substance_id": "84",
+                    "field_code": "301",
+                    "field_danger_class": "2",
+                    "field_znachenie": "0.51",
+                    "field_year_value": "1.523"
+                },
+                {
+                    "field_name_of_substance": "Аммиак",
+                    "field_name_of_substance_id": "9",
+                    "field_code": "303",
+                    "field_danger_class": "4",
+                    "field_znachenie": "3.035",
+                    "field_year_value": "93.029"
+                },
+                {
+                    "field_name_of_substance": "Азот (IV) оксид (азота диоксид)",
+                    "field_name_of_substance_id": "84",
+                    "field_code": "304",
+                    "field_danger_class": "3",
+                    "field_znachenie": "0.001",
+                    "field_year_value": "0.231"
+                },
+                {
+                    "field_name_of_substance": "Мышьяк",
+                    "field_name_of_substance_id": "73",
+                    "field_code": "325",
+                    "field_danger_class": "2",
+                    "field_znachenie": "0.001",
+                    "field_year_value": "0.001"
+                },
+                {
+                    "field_name_of_substance": "Сера диоксид (ангидрид сернистый",
+                    "field_name_of_substance_id": "86",
+                    "field_code": "330",
+                    "field_danger_class": "3",
+                    "field_znachenie": "0.102",
+                    "field_year_value": "0.842"
+                },
+                {
+                    "field_name_of_substance": "Сероводород",
+                    "field_name_of_substance_id": "128",
+                    "field_code": "333",
+                    "field_danger_class": "2",
+                    "field_znachenie": "0.009",
+                    "field_year_value": "0.253"
+                },
+                {
+                    "field_name_of_substance": "Углерод оксид (окись углерода, угарный газ)",
+                    "field_name_of_substance_id": "201",
+                    "field_code": "337",
+                    "field_danger_class": "4",
+                    "field_znachenie": "2.675",
+                    "field_year_value": "5.917"
+                },
+                {
+                    "field_name_of_substance": "Фтористые газообразные соединения (в пересчете на фтор): - гидрофторид",
+                    "field_name_of_substance_id": "100",
+                    "field_code": "342",
+                    "field_danger_class": "2",
+                    "field_znachenie": "0.002",
+                    "field_year_value": "0.004"
+                },
+                {
+                    "field_name_of_substance": "Метан",
+                    "field_name_of_substance_id": "129",
+                    "field_code": "410",
+                    "field_danger_class": "4",
+                    "field_znachenie": "3.292",
+                    "field_year_value": "101.071"
+                },
+                {
+                    "field_name_of_substance": "Бенз(а)пирен",
+                    "field_name_of_substance_id": "183",
+                    "field_code": "703",
+                    "field_danger_class": "1",
+                    "field_znachenie": "2.0E-6",
+                    "field_year_value": "0.00036"
+                },
+                {
+                    "field_name_of_substance": "Бензо(в)флюоратен",
+                    "field_name_of_substance_id": "101",
+                    "field_code": "727",
+                    "field_danger_class": "0",
+                    "field_znachenie": "0.001",
+                    "field_year_value": "0.001"
+                },
+                {
+                    "field_name_of_substance": "Бензо(к)флюоратен",
+                    "field_name_of_substance_id": "102",
+                    "field_code": "728",
+                    "field_danger_class": "0",
+                    "field_znachenie": "0.001",
+                    "field_year_value": "0.001"
+                },
+                {
+                    "field_name_of_substance": "Индено(1,2,3-сd)пирен",
+                    "field_name_of_substance_id": "103",
+                    "field_code": "729",
+                    "field_danger_class": "0",
+                    "field_znachenie": "0.001",
+                    "field_year_value": "0.001"
+                },
+                {
+                    "field_name_of_substance": "Гексахлорбензол",
+                    "field_name_of_substance_id": "148",
+                    "field_code": "830",
+                    "field_danger_class": "0",
+                    "field_znachenie": "0.001",
+                    "field_year_value": "0.001"
+                },
+                {
+                    "field_name_of_substance": "Метанол (метиловый спирт)",
+                    "field_name_of_substance_id": "144",
+                    "field_code": "1052",
+                    "field_danger_class": "3",
+                    "field_znachenie": "0.02",
+                    "field_year_value": "0.643"
+                },
+                {
+                    "field_name_of_substance": "Фенолы летучие (фенольный индекс)",
+                    "field_name_of_substance_id": "149",
+                    "field_code": "1071",
+                    "field_danger_class": "2",
+                    "field_znachenie": "0.004",
+                    "field_year_value": "0.127"
+                },
+                {
+                    "field_name_of_substance": "Пропиональдегид (пропаналь",
+                    "field_name_of_substance_id": "150",
+                    "field_code": "1314",
+                    "field_danger_class": "3",
+                    "field_znachenie": "0.008",
+                    "field_year_value": "0.259"
+                },
+                {
+                    "field_name_of_substance": "Формальдегид (метаналь)",
+                    "field_name_of_substance_id": "105",
+                    "field_code": "1325",
+                    "field_danger_class": "2",
+                    "field_znachenie": "0.001",
+                    "field_year_value": "0.001"
+                },
+                {
+                    "field_name_of_substance": "Гексановая кислота (капроновая кислота)",
+                    "field_name_of_substance_id": "151",
+                    "field_code": "1531",
+                    "field_danger_class": "3",
+                    "field_znachenie": "0.005",
+                    "field_year_value": "0.144"
+                },
+                {
+                    "field_name_of_substance": "Диметилсульфид",
+                    "field_name_of_substance_id": "152",
+                    "field_code": "1707",
+                    "field_danger_class": "4",
+                    "field_znachenie": "0.029",
+                    "field_year_value": "0.908"
+                },
+                {
+                    "field_name_of_substance": "Твердые частицы (недифференцированная по составу пыль/аэрозоль)",
+                    "field_name_of_substance_id": "10",
+                    "field_code": "2902",
+                    "field_danger_class": "3",
+                    "field_znachenie": "0.222",
+                    "field_year_value": "7.877"
+                },
+                {
+                    "field_name_of_substance": "Пыль неорганическая",
+                    "field_name_of_substance_id": "121",
+                    "field_code": "2908",
+                    "field_danger_class": "3",
+                    "field_znachenie": "0.002",
+                    "field_year_value": "0.003"
+                },
+                {
+                    "field_name_of_substance": "Пыль меховая (шерстяная",
+                    "field_name_of_substance_id": "153",
+                    "field_code": "2920",
+                    "field_danger_class": "0",
+                    "field_znachenie": "0.097",
+                    "field_year_value": "3.045"
+                },
+                {
+                    "field_name_of_substance": "Диоксины (в пересчете на 2,3,7,8,тетрахлордибензо-1,4-диоксин)",
+                    "field_name_of_substance_id": "161",
+                    "field_code": "3620",
+                    "field_danger_class": "1",
+                    "field_znachenie": "1.0E-6",
+                    "field_year_value": "1.0E-6"
+                }
+            ]
+        }
+    }
+]

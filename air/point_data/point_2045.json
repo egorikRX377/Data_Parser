@@ -1,0 +1,72 @@
+[
+    {
+        "node": {
+            "title": "2124 - 2045",
+            "Nid": "2439",
+            "timestamp": "2025-04-01 01:08:37",
+            "field_geo_point": "2045",
+            "field_source": "2124",
+            "field_period": "",
+            "title_1": "ИООО \"Саллинг Пласт Продакшн Орша\"",
+            "title_2": "ИООО \"Саллинг Пласт Продакшн Орша\"",
+            "substances": [
+                {
+                    "field_name_of_substance": "Железо (II) оксид (в пересчете на железо)",
+                    "field_name_of_substance_id": "77",
+                    "field_code": "123",
+                    "field_danger_class": "3",
+                    "field_znachenie": "0.199",
+                    "field_year_value": "0.27"
+                },
+                {
+                    "field_name_of_substance": "Марганец и его соединения в пересчете на марганец (IY) оксид",
+                    "field_name_of_substance_id": "79",
+                    "field_code": "143",
+                    "field_danger_class": "2",
+                    "field_znachenie": "0.006",
+                    "field_year_value": "0.008"
+                },
+                {
+                    "field_name_of_substance": "Азот (IV) оксид (азота диоксид)",
+                    "field_name_of_substance_id": "84",
+                    "field_code": "301",
+                    "field_danger_class": "2",
+                    "field_znachenie": "0.332",
+                    "field_year_value": "0.461"
+                },
+                {
+                    "field_name_of_substance": "Азот (IV) оксид (азота диоксид)",
+                    "field_name_of_substance_id": "84",
+                    "field_code": "304",
+                    "field_danger_class": "3",
+                    "field_znachenie": "0.001",
+                    "field_year_value": "0.002"
+                },
+                {
+                    "field_name_of_substance": "Углерод оксид (окись углерода, угарный газ)",
+                    "field_name_of_substance_id": "201",
+                    "field_code": "337",
+                    "field_danger_class": "4",
+                    "field_znachenie": "0.081",
+                    "field_year_value": "0.121"
+                },
+                {
+                    "field_name_of_substance": "Пыль неорганическая",
+                    "field_name_of_substance_id": "121",
+                    "field_code": "2908",
+                    "field_danger_class": "3",
+                    "field_znachenie": "0.001",
+                    "field_year_value": "0.001"
+                },
+                {
+                    "field_name_of_substance": "Пыль полипропилена",
+                    "field_name_of_substance_id": "124",
+                    "field_code": "2922",
+                    "field_danger_class": "0",
+                    "field_znachenie": "0.041",
+                    "field_year_value": "0.368"
+                }
+            ]
+        }
+    }
+]

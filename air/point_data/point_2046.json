@@ -1,0 +1,24 @@
+[
+    {
+        "node": {
+            "title": "2125 - 2046",
+            "Nid": "2445",
+            "timestamp": "2025-04-01 01:08:37",
+            "field_geo_point": "2046",
+            "field_source": "2125",
+            "field_period": "",
+            "title_1": "ИП ” Леонова Е.П. “",
+            "title_2": "ИП ” Леонова Е.П. “",
+            "substances": [
+                {
+                    "field_name_of_substance": "Твердые частицы (недифференцированная по составу пыль/аэрозоль)",
+                    "field_name_of_substance_id": "10",
+                    "field_code": "2902",
+                    "field_danger_class": "3",
+                    "field_znachenie": "0.207",
+                    "field_year_value": "1.225"
+                }
+            ]
+        }
+    }
+]

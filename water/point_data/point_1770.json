@@ -1,0 +1,1541 @@
+[
+    {
+        "node": {
+            "title": "1777 - 1770",
+            "field_geo_point": "1770",
+            "title_1": "оз. Ореховское",
+            "field_source": "1777",
+            "title_2": "оз. Ореховское",
+            "field_period": "Октябрь 2019 г.",
+            "substances": [
+                {
+                    "field_period": "Октябрь 2019 г.",
+                    "field_name_of_substance": "Взвешенные вещества",
+                    "field_name_of_substance_id": "16",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_pdk_text": "<25",
+                    "field_value": "5.6"
+                },
+                {
+                    "field_period": "Октябрь 2019 г.",
+                    "field_name_of_substance": "Растворенный кислород",
+                    "field_name_of_substance_id": "41",
+                    "field_units_referencee": "мгО2/дм3",
+                    "field_units_referencee_id": "23",
+                    "field_pdk_text": ">6",
+                    "field_value": "8.6"
+                },
+                {
+                    "field_period": "Октябрь 2019 г.",
+                    "field_name_of_substance": "Биохимическое потребление кислорода (БПК5)",
+                    "field_name_of_substance_id": "14",
+                    "field_units_referencee": "мгО2/дм3",
+                    "field_units_referencee_id": "23",
+                    "field_pdk_text": "<6",
+                    "field_value": "1.9"
+                },
+                {
+                    "field_period": "Октябрь 2019 г.",
+                    "field_name_of_substance": "Химическое потребление кислорода (ХПКCr)",
+                    "field_name_of_substance_id": "43",
+                    "field_units_referencee": "мгО2/дм3",
+                    "field_units_referencee_id": "23",
+                    "field_pdk_text": "<30",
+                    "field_value": "27.1"
+                },
+                {
+                    "field_period": "Октябрь 2019 г.",
+                    "field_name_of_substance": "Аммоний-ион",
+                    "field_name_of_substance_id": "246",
+                    "field_units_referencee": "мгN/дм3",
+                    "field_units_referencee_id": "26",
+                    "field_pdk_text": "0.39",
+                    "field_value": "0.329"
+                },
+                {
+                    "field_period": "Октябрь 2019 г.",
+                    "field_name_of_substance": "Нитрит-ион",
+                    "field_name_of_substance_id": "247",
+                    "field_units_referencee": "мгN/дм3",
+                    "field_units_referencee_id": "26",
+                    "field_pdk_text": "0.024",
+                    "field_value": "0.016"
+                },
+                {
+                    "field_period": "Октябрь 2019 г.",
+                    "field_name_of_substance": "Нитрат-ион",
+                    "field_name_of_substance_id": "248",
+                    "field_units_referencee": "мгN/дм3",
+                    "field_units_referencee_id": "26",
+                    "field_pdk_text": "9.03",
+                    "field_value": "0.49"
+                },
+                {
+                    "field_period": "Октябрь 2019 г.",
+                    "field_name_of_substance": "Фосфор общий",
+                    "field_name_of_substance_id": "27",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_pdk_text": "0.2",
+                    "field_value": "0.096"
+                },
+                {
+                    "field_period": "Октябрь 2019 г.",
+                    "field_name_of_substance": "Нефть и нефтепродукты в растворенном и эмульгированном состоянии",
+                    "field_name_of_substance_id": "15",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_pdk_text": "0.05",
+                    "field_value": "0.01"
+                },
+                {
+                    "field_period": "Октябрь 2019 г.",
+                    "field_name_of_substance": "СПАВ анионоактивные",
+                    "field_name_of_substance_id": "249",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_pdk_text": "0.1",
+                    "field_value": "<0.025"
+                },
+                {
+                    "field_period": "Октябрь 2019 г.",
+                    "field_name_of_substance": "Азот общий по Къельдалю",
+                    "field_name_of_substance_id": "245",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_pdk_text": "5",
+                    "field_value": "0.918"
+                },
+                {
+                    "field_period": "Октябрь 2019 г.",
+                    "field_name_of_substance": "Водородный показатель (pH)",
+                    "field_name_of_substance_id": "18",
+                    "field_units_referencee": "pH",
+                    "field_units_referencee_id": "251",
+                    "field_pdk_text": "от 6.5 до 8.5",
+                    "field_value": "8.2"
+                },
+                {
+                    "field_period": "Октябрь 2019 г.",
+                    "field_name_of_substance": "Минерализация воды",
+                    "field_name_of_substance_id": "28",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_pdk_text": "1000",
+                    "field_value": "257"
+                },
+                {
+                    "field_period": "Октябрь 2019 г.",
+                    "field_name_of_substance": "Сульфат-ион",
+                    "field_name_of_substance_id": "21",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_pdk_text": "100",
+                    "field_value": "15.9"
+                },
+                {
+                    "field_period": "Октябрь 2019 г.",
+                    "field_name_of_substance": "Хлорид-ион",
+                    "field_name_of_substance_id": "22",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_pdk_text": "300",
+                    "field_value": "11.8"
+                }
+            ]
+        }
+    },
+    {
+        "node": {
+            "title": "1777 - 1770",
+            "field_geo_point": "1770",
+            "title_1": "оз. Ореховское",
+            "field_source": "1777",
+            "title_2": "оз. Ореховское",
+            "field_period": "Февраль 2021 г.",
+            "substances": [
+                {
+                    "field_period": "Февраль 2021 г.",
+                    "field_name_of_substance": "Взвешенные вещества",
+                    "field_name_of_substance_id": "16",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_pdk_text": "<25",
+                    "field_value": "5.2"
+                },
+                {
+                    "field_period": "Февраль 2021 г.",
+                    "field_name_of_substance": "Растворенный кислород",
+                    "field_name_of_substance_id": "41",
+                    "field_units_referencee": "мгО2/дм3",
+                    "field_units_referencee_id": "23",
+                    "field_pdk_text": ">6",
+                    "field_value": "3.55"
+                },
+                {
+                    "field_period": "Февраль 2021 г.",
+                    "field_name_of_substance": "Биохимическое потребление кислорода (БПК5)",
+                    "field_name_of_substance_id": "14",
+                    "field_units_referencee": "мгО2/дм3",
+                    "field_units_referencee_id": "23",
+                    "field_pdk_text": "<6",
+                    "field_value": "2"
+                },
+                {
+                    "field_period": "Февраль 2021 г.",
+                    "field_name_of_substance": "Химическое потребление кислорода (ХПКCr)",
+                    "field_name_of_substance_id": "43",
+                    "field_units_referencee": "мгО2/дм3",
+                    "field_units_referencee_id": "23",
+                    "field_pdk_text": "<30",
+                    "field_value": "43"
+                },
+                {
+                    "field_period": "Февраль 2021 г.",
+                    "field_name_of_substance": "Аммоний-ион",
+                    "field_name_of_substance_id": "246",
+                    "field_units_referencee": "мгN/дм3",
+                    "field_units_referencee_id": "26",
+                    "field_pdk_text": "0.39",
+                    "field_value": "0.2645"
+                },
+                {
+                    "field_period": "Февраль 2021 г.",
+                    "field_name_of_substance": "Нитрит-ион",
+                    "field_name_of_substance_id": "247",
+                    "field_units_referencee": "мгN/дм3",
+                    "field_units_referencee_id": "26",
+                    "field_pdk_text": "0.024",
+                    "field_value": "0.0155"
+                },
+                {
+                    "field_period": "Февраль 2021 г.",
+                    "field_name_of_substance": "Нитрат-ион",
+                    "field_name_of_substance_id": "248",
+                    "field_units_referencee": "мгN/дм3",
+                    "field_units_referencee_id": "26",
+                    "field_pdk_text": "9.03",
+                    "field_value": "0.69"
+                },
+                {
+                    "field_period": "Февраль 2021 г.",
+                    "field_name_of_substance": "Фосфат-ион (включая гидро- и дигидроформы)",
+                    "field_name_of_substance_id": "250",
+                    "field_units_referencee": "мгP/дм3",
+                    "field_units_referencee_id": "223",
+                    "field_pdk_text": "0.066",
+                    "field_value": "0.0415"
+                },
+                {
+                    "field_period": "Февраль 2021 г.",
+                    "field_name_of_substance": "Фосфор общий",
+                    "field_name_of_substance_id": "27",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_pdk_text": "0.2",
+                    "field_value": "0.065"
+                },
+                {
+                    "field_period": "Февраль 2021 г.",
+                    "field_name_of_substance": "Железо общее",
+                    "field_name_of_substance_id": "34",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_pdk_text": "0.135",
+                    "field_value": "0.193"
+                },
+                {
+                    "field_period": "Февраль 2021 г.",
+                    "field_name_of_substance": "Марганец",
+                    "field_name_of_substance_id": "45",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_pdk_text": "0.023",
+                    "field_value": "0.046"
+                },
+                {
+                    "field_period": "Февраль 2021 г.",
+                    "field_name_of_substance": "Медь",
+                    "field_name_of_substance_id": "29",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_pdk_text": "0.0035",
+                    "field_value": "0.005"
+                },
+                {
+                    "field_period": "Февраль 2021 г.",
+                    "field_name_of_substance": "Цинк",
+                    "field_name_of_substance_id": "30",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_pdk_text": "0.010",
+                    "field_value": "0.0155"
+                },
+                {
+                    "field_period": "Февраль 2021 г.",
+                    "field_name_of_substance": "Никель",
+                    "field_name_of_substance_id": "32",
+                    "field_units_referencee": "мкг/дм3",
+                    "field_units_referencee_id": "39",
+                    "field_pdk_text": "34",
+                    "field_value": "<5"
+                },
+                {
+                    "field_period": "Февраль 2021 г.",
+                    "field_name_of_substance": "Нефть и нефтепродукты в растворенном и эмульгированном состоянии",
+                    "field_name_of_substance_id": "15",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_pdk_text": "0.05",
+                    "field_value": "0.008"
+                },
+                {
+                    "field_period": "Февраль 2021 г.",
+                    "field_name_of_substance": "СПАВ анионоактивные",
+                    "field_name_of_substance_id": "249",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_pdk_text": "0.1",
+                    "field_value": "<0.025"
+                },
+                {
+                    "field_period": "Февраль 2021 г.",
+                    "field_name_of_substance": "Магний",
+                    "field_name_of_substance_id": "46",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_pdk_text": "40",
+                    "field_value": "9.7"
+                },
+                {
+                    "field_period": "Февраль 2021 г.",
+                    "field_name_of_substance": "Гидрокарбонат-ион",
+                    "field_name_of_substance_id": "47",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_pdk_text": null,
+                    "field_value": "107"
+                },
+                {
+                    "field_period": "Февраль 2021 г.",
+                    "field_name_of_substance": "Удельная электрическая проводимость",
+                    "field_name_of_substance_id": "48",
+                    "field_units_referencee": "мкСм/см",
+                    "field_units_referencee_id": "253",
+                    "field_pdk_text": null,
+                    "field_value": "266"
+                },
+                {
+                    "field_period": "Февраль 2021 г.",
+                    "field_name_of_substance": "Хлорид-ион",
+                    "field_name_of_substance_id": "22",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_pdk_text": "300",
+                    "field_value": "11.4"
+                },
+                {
+                    "field_period": "Февраль 2021 г.",
+                    "field_name_of_substance": "Температура",
+                    "field_name_of_substance_id": "49",
+                    "field_units_referencee": "°С",
+                    "field_units_referencee_id": "252",
+                    "field_pdk_text": null,
+                    "field_value": "0.3"
+                },
+                {
+                    "field_period": "Февраль 2021 г.",
+                    "field_name_of_substance": "Азот общий по Къельдалю",
+                    "field_name_of_substance_id": "245",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_pdk_text": "5",
+                    "field_value": "0.7845"
+                },
+                {
+                    "field_period": "Февраль 2021 г.",
+                    "field_name_of_substance": "Минерализация воды",
+                    "field_name_of_substance_id": "28",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_pdk_text": "1000",
+                    "field_value": "241"
+                },
+                {
+                    "field_period": "Февраль 2021 г.",
+                    "field_name_of_substance": "Водородный показатель (pH)",
+                    "field_name_of_substance_id": "18",
+                    "field_units_referencee": "pH",
+                    "field_units_referencee_id": "251",
+                    "field_pdk_text": "от 6.5 до 8.5",
+                    "field_value": "7.75"
+                },
+                {
+                    "field_period": "Февраль 2021 г.",
+                    "field_name_of_substance": "Сульфат-ион",
+                    "field_name_of_substance_id": "21",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_pdk_text": "100",
+                    "field_value": "14.95"
+                },
+                {
+                    "field_period": "Февраль 2021 г.",
+                    "field_name_of_substance": "Кадмий",
+                    "field_name_of_substance_id": "50",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_pdk_text": "0,005",
+                    "field_value": "<0.0005"
+                },
+                {
+                    "field_period": "Февраль 2021 г.",
+                    "field_name_of_substance": "Свинец",
+                    "field_name_of_substance_id": "51",
+                    "field_units_referencee": "мкг/дм3",
+                    "field_units_referencee_id": "39",
+                    "field_pdk_text": "14",
+                    "field_value": "<5"
+                },
+                {
+                    "field_period": "Февраль 2021 г.",
+                    "field_name_of_substance": "Кальций",
+                    "field_name_of_substance_id": "52",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_pdk_text": "180",
+                    "field_value": "37.5"
+                }
+            ]
+        }
+    },
+    {
+        "node": {
+            "title": "Февраль 2023 в 2,1 км по А 315 гр. от г.п. Ореховск",
+            "field_geo_point": "1770",
+            "title_1": "оз. Ореховское",
+            "field_source": "1777",
+            "title_2": "оз. Ореховское",
+            "field_period": "Февраль 2023",
+            "substances": [
+                {
+                    "field_period": "Февраль 2023",
+                    "field_name_of_substance": "Водородный показатель (pH)",
+                    "field_name_of_substance_id": "18",
+                    "field_units_referencee": "pH",
+                    "field_units_referencee_id": "251",
+                    "field_pdk_text": "от 6.5 до 8.5",
+                    "field_value": "7.2"
+                },
+                {
+                    "field_period": "Февраль 2023",
+                    "field_name_of_substance": "Взвешенные вещества",
+                    "field_name_of_substance_id": "16",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_pdk_text": "<25",
+                    "field_value": "6.8"
+                },
+                {
+                    "field_period": "Февраль 2023",
+                    "field_name_of_substance": "Минерализация воды",
+                    "field_name_of_substance_id": "28",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_pdk_text": "1000",
+                    "field_value": "186"
+                },
+                {
+                    "field_period": "Февраль 2023",
+                    "field_name_of_substance": "Растворенный кислород",
+                    "field_name_of_substance_id": "41",
+                    "field_units_referencee": "мгО2/дм3",
+                    "field_units_referencee_id": "23",
+                    "field_pdk_text": ">6",
+                    "field_value": "7.2"
+                },
+                {
+                    "field_period": "Февраль 2023",
+                    "field_name_of_substance": "Биохимическое потребление кислорода (БПК5)",
+                    "field_name_of_substance_id": "14",
+                    "field_units_referencee": "мгО2/дм3",
+                    "field_units_referencee_id": "23",
+                    "field_pdk_text": "<6",
+                    "field_value": "1.9"
+                },
+                {
+                    "field_period": "Февраль 2023",
+                    "field_name_of_substance": "Химическое потребление кислорода (ХПКCr)",
+                    "field_name_of_substance_id": "43",
+                    "field_units_referencee": "мгО2/дм3",
+                    "field_units_referencee_id": "23",
+                    "field_pdk_text": "<30",
+                    "field_value": "23.6"
+                },
+                {
+                    "field_period": "Февраль 2023",
+                    "field_name_of_substance": "Аммоний-ион",
+                    "field_name_of_substance_id": "246",
+                    "field_units_referencee": "мгN/дм3",
+                    "field_units_referencee_id": "26",
+                    "field_pdk_text": "0.39",
+                    "field_value": "0.279"
+                },
+                {
+                    "field_period": "Февраль 2023",
+                    "field_name_of_substance": "Нитрит-ион",
+                    "field_name_of_substance_id": "247",
+                    "field_units_referencee": "мгN/дм3",
+                    "field_units_referencee_id": "26",
+                    "field_pdk_text": "0.024",
+                    "field_value": "0.014"
+                },
+                {
+                    "field_period": "Февраль 2023",
+                    "field_name_of_substance": "Нитрат-ион",
+                    "field_name_of_substance_id": "248",
+                    "field_units_referencee": "мгN/дм3",
+                    "field_units_referencee_id": "26",
+                    "field_pdk_text": "9.03",
+                    "field_value": "0.92"
+                },
+                {
+                    "field_period": "Февраль 2023",
+                    "field_name_of_substance": "Азот общий по Къельдалю",
+                    "field_name_of_substance_id": "245",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_pdk_text": "5",
+                    "field_value": "0.749"
+                },
+                {
+                    "field_period": "Февраль 2023",
+                    "field_name_of_substance": "Фосфат-ион (включая гидро- и дигидроформы)",
+                    "field_name_of_substance_id": "250",
+                    "field_units_referencee": "мгP/дм3",
+                    "field_units_referencee_id": "223",
+                    "field_pdk_text": "0.066",
+                    "field_value": "0.036"
+                },
+                {
+                    "field_period": "Февраль 2023",
+                    "field_name_of_substance": "Фосфор общий",
+                    "field_name_of_substance_id": "27",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_pdk_text": "0.2",
+                    "field_value": "0.06"
+                },
+                {
+                    "field_period": "Февраль 2023",
+                    "field_name_of_substance": "Нефть и нефтепродукты в растворенном и эмульгированном состоянии",
+                    "field_name_of_substance_id": "15",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_pdk_text": "0.05",
+                    "field_value": "0.01"
+                },
+                {
+                    "field_period": "Февраль 2023",
+                    "field_name_of_substance": "СПАВ анионоактивные",
+                    "field_name_of_substance_id": "249",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_pdk_text": "0.1",
+                    "field_value": "<0.025"
+                },
+                {
+                    "field_period": "Февраль 2023",
+                    "field_name_of_substance": "Кальций",
+                    "field_name_of_substance_id": "52",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_pdk_text": "180",
+                    "field_value": "38"
+                },
+                {
+                    "field_period": "Февраль 2023",
+                    "field_name_of_substance": "Магний",
+                    "field_name_of_substance_id": "46",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_pdk_text": "40",
+                    "field_value": "9"
+                },
+                {
+                    "field_period": "Февраль 2023",
+                    "field_name_of_substance": "Хлорид-ион",
+                    "field_name_of_substance_id": "22",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_pdk_text": "300",
+                    "field_value": "<10"
+                },
+                {
+                    "field_period": "Февраль 2023",
+                    "field_name_of_substance": "Сульфат-ион",
+                    "field_name_of_substance_id": "21",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_pdk_text": "100",
+                    "field_value": "14.9"
+                },
+                {
+                    "field_period": "Февраль 2023",
+                    "field_name_of_substance": "Железо общее",
+                    "field_name_of_substance_id": "34",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_pdk_text": "0.135",
+                    "field_value": "0.218"
+                },
+                {
+                    "field_period": "Февраль 2023",
+                    "field_name_of_substance": "Марганец",
+                    "field_name_of_substance_id": "45",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_pdk_text": "0.023",
+                    "field_value": "0.047"
+                },
+                {
+                    "field_period": "Февраль 2023",
+                    "field_name_of_substance": "Медь",
+                    "field_name_of_substance_id": "29",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_pdk_text": "0.0035",
+                    "field_value": "0.0016"
+                },
+                {
+                    "field_period": "Февраль 2023",
+                    "field_name_of_substance": "Цинк",
+                    "field_name_of_substance_id": "30",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_pdk_text": "0.010",
+                    "field_value": "0.0081"
+                },
+                {
+                    "field_period": "Февраль 2023",
+                    "field_name_of_substance": "Никель",
+                    "field_name_of_substance_id": "32",
+                    "field_units_referencee": "мкг/дм3",
+                    "field_units_referencee_id": "39",
+                    "field_pdk_text": "34",
+                    "field_value": "<5"
+                },
+                {
+                    "field_period": "Февраль 2023",
+                    "field_name_of_substance": "Кадмий",
+                    "field_name_of_substance_id": "50",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_pdk_text": "0.005",
+                    "field_value": "<0.0005"
+                },
+                {
+                    "field_period": "Февраль 2023",
+                    "field_name_of_substance": "Свинец",
+                    "field_name_of_substance_id": "51",
+                    "field_units_referencee": "мкг/дм3",
+                    "field_units_referencee_id": "39",
+                    "field_pdk_text": "14",
+                    "field_value": "<5"
+                },
+                {
+                    "field_period": "Февраль 2023",
+                    "field_name_of_substance": "Хром",
+                    "field_name_of_substance_id": "31",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_pdk_text": "0.005",
+                    "field_value": "<0.002"
+                },
+                {
+                    "field_period": "Февраль 2023",
+                    "field_name_of_substance": "Гидрокарбонат-ион",
+                    "field_name_of_substance_id": "47",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_pdk_text": null,
+                    "field_value": "110"
+                },
+                {
+                    "field_period": "Февраль 2023",
+                    "field_name_of_substance": "Удельная электрическая проводимость",
+                    "field_name_of_substance_id": "48",
+                    "field_units_referencee": "мкСм/см",
+                    "field_units_referencee_id": "253",
+                    "field_pdk_text": null,
+                    "field_value": "212"
+                },
+                {
+                    "field_period": "Февраль 2023",
+                    "field_name_of_substance": "Температура",
+                    "field_name_of_substance_id": "49",
+                    "field_units_referencee": "°С",
+                    "field_units_referencee_id": "252",
+                    "field_pdk_text": null,
+                    "field_value": "0.3"
+                },
+                {
+                    "field_period": "Февраль 2023",
+                    "field_name_of_substance": "Прозрачность",
+                    "field_name_of_substance_id": "226",
+                    "field_units_referencee": "м",
+                    "field_units_referencee_id": "241",
+                    "field_pdk_text": null,
+                    "field_value": "1"
+                }
+            ]
+        }
+    },
+    {
+        "node": {
+            "title": "Май 2023 в 2,1 км по А 315 гр. от г.п. Ореховск",
+            "field_geo_point": "1770",
+            "title_1": "оз. Ореховское",
+            "field_source": "1777",
+            "title_2": "оз. Ореховское",
+            "field_period": "Май 2023",
+            "substances": [
+                {
+                    "field_period": "Май 2023",
+                    "field_name_of_substance": "Водородный показатель (pH)",
+                    "field_name_of_substance_id": "18",
+                    "field_units_referencee": "pH",
+                    "field_units_referencee_id": "251",
+                    "field_pdk_text": "от 6.5 до 8.5",
+                    "field_value": "7.8"
+                },
+                {
+                    "field_period": "Май 2023",
+                    "field_name_of_substance": "Взвешенные вещества",
+                    "field_name_of_substance_id": "16",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_pdk_text": "<25",
+                    "field_value": "4.8"
+                },
+                {
+                    "field_period": "Май 2023",
+                    "field_name_of_substance": "Минерализация воды",
+                    "field_name_of_substance_id": "28",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_pdk_text": "1000",
+                    "field_value": "243"
+                },
+                {
+                    "field_period": "Май 2023",
+                    "field_name_of_substance": "Растворенный кислород",
+                    "field_name_of_substance_id": "41",
+                    "field_units_referencee": "мгО2/дм3",
+                    "field_units_referencee_id": "23",
+                    "field_pdk_text": ">6",
+                    "field_value": "10.5"
+                },
+                {
+                    "field_period": "Май 2023",
+                    "field_name_of_substance": "Биохимическое потребление кислорода (БПК5)",
+                    "field_name_of_substance_id": "14",
+                    "field_units_referencee": "мгО2/дм3",
+                    "field_units_referencee_id": "23",
+                    "field_pdk_text": "<6",
+                    "field_value": "2.2"
+                },
+                {
+                    "field_period": "Май 2023",
+                    "field_name_of_substance": "Химическое потребление кислорода (ХПКCr)",
+                    "field_name_of_substance_id": "43",
+                    "field_units_referencee": "мгО2/дм3",
+                    "field_units_referencee_id": "23",
+                    "field_pdk_text": "<30",
+                    "field_value": "24.2"
+                },
+                {
+                    "field_period": "Май 2023",
+                    "field_name_of_substance": "Аммоний-ион",
+                    "field_name_of_substance_id": "246",
+                    "field_units_referencee": "мгN/дм3",
+                    "field_units_referencee_id": "26",
+                    "field_pdk_text": "0.39",
+                    "field_value": "0.244"
+                },
+                {
+                    "field_period": "Май 2023",
+                    "field_name_of_substance": "Нитрит-ион",
+                    "field_name_of_substance_id": "247",
+                    "field_units_referencee": "мгN/дм3",
+                    "field_units_referencee_id": "26",
+                    "field_pdk_text": "0.024",
+                    "field_value": "0.014"
+                },
+                {
+                    "field_period": "Май 2023",
+                    "field_name_of_substance": "Нитрат-ион",
+                    "field_name_of_substance_id": "248",
+                    "field_units_referencee": "мгN/дм3",
+                    "field_units_referencee_id": "26",
+                    "field_pdk_text": "9.03",
+                    "field_value": "0.73"
+                },
+                {
+                    "field_period": "Май 2023",
+                    "field_name_of_substance": "Азот общий по Къельдалю",
+                    "field_name_of_substance_id": "245",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_pdk_text": "5",
+                    "field_value": "0.688"
+                },
+                {
+                    "field_period": "Май 2023",
+                    "field_name_of_substance": "Фосфат-ион (включая гидро- и дигидроформы)",
+                    "field_name_of_substance_id": "250",
+                    "field_units_referencee": "мгP/дм3",
+                    "field_units_referencee_id": "223",
+                    "field_pdk_text": "0.066",
+                    "field_value": "0.042"
+                },
+                {
+                    "field_period": "Май 2023",
+                    "field_name_of_substance": "Фосфор общий",
+                    "field_name_of_substance_id": "27",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_pdk_text": "0.2",
+                    "field_value": "0.054"
+                },
+                {
+                    "field_period": "Май 2023",
+                    "field_name_of_substance": "Нефть и нефтепродукты в растворенном и эмульгированном состоянии",
+                    "field_name_of_substance_id": "15",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_pdk_text": "0.05",
+                    "field_value": "0.007"
+                },
+                {
+                    "field_period": "Май 2023",
+                    "field_name_of_substance": "СПАВ анионоактивные",
+                    "field_name_of_substance_id": "249",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_pdk_text": "0.1",
+                    "field_value": "<0.025"
+                },
+                {
+                    "field_period": "Май 2023",
+                    "field_name_of_substance": "Кальций",
+                    "field_name_of_substance_id": "52",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_pdk_text": "180",
+                    "field_value": "49"
+                },
+                {
+                    "field_period": "Май 2023",
+                    "field_name_of_substance": "Магний",
+                    "field_name_of_substance_id": "46",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_pdk_text": "40",
+                    "field_value": "12"
+                },
+                {
+                    "field_period": "Май 2023",
+                    "field_name_of_substance": "Хлорид-ион",
+                    "field_name_of_substance_id": "22",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_pdk_text": "300",
+                    "field_value": "12"
+                },
+                {
+                    "field_period": "Май 2023",
+                    "field_name_of_substance": "Сульфат-ион",
+                    "field_name_of_substance_id": "21",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_pdk_text": "100",
+                    "field_value": "12.1"
+                },
+                {
+                    "field_period": "Май 2023",
+                    "field_name_of_substance": "Железо общее",
+                    "field_name_of_substance_id": "34",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_pdk_text": "0.135",
+                    "field_value": "0.227"
+                },
+                {
+                    "field_period": "Май 2023",
+                    "field_name_of_substance": "Марганец",
+                    "field_name_of_substance_id": "45",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_pdk_text": "0.023",
+                    "field_value": "0.031"
+                },
+                {
+                    "field_period": "Май 2023",
+                    "field_name_of_substance": "Медь",
+                    "field_name_of_substance_id": "29",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_pdk_text": "0.0035",
+                    "field_value": "0.0028"
+                },
+                {
+                    "field_period": "Май 2023",
+                    "field_name_of_substance": "Цинк",
+                    "field_name_of_substance_id": "30",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_pdk_text": "0.010",
+                    "field_value": "0.01"
+                },
+                {
+                    "field_period": "Май 2023",
+                    "field_name_of_substance": "Никель",
+                    "field_name_of_substance_id": "32",
+                    "field_units_referencee": "мкг/дм3",
+                    "field_units_referencee_id": "39",
+                    "field_pdk_text": "34",
+                    "field_value": "<5"
+                },
+                {
+                    "field_period": "Май 2023",
+                    "field_name_of_substance": "Кадмий",
+                    "field_name_of_substance_id": "50",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_pdk_text": "0.005",
+                    "field_value": "<0.0005"
+                },
+                {
+                    "field_period": "Май 2023",
+                    "field_name_of_substance": "Свинец",
+                    "field_name_of_substance_id": "51",
+                    "field_units_referencee": "мкг/дм3",
+                    "field_units_referencee_id": "39",
+                    "field_pdk_text": "14",
+                    "field_value": "<5"
+                },
+                {
+                    "field_period": "Май 2023",
+                    "field_name_of_substance": "Хром",
+                    "field_name_of_substance_id": "31",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_pdk_text": "0.005",
+                    "field_value": "<0.002"
+                },
+                {
+                    "field_period": "Май 2023",
+                    "field_name_of_substance": "Гидрокарбонат-ион",
+                    "field_name_of_substance_id": "47",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_pdk_text": null,
+                    "field_value": "128"
+                },
+                {
+                    "field_period": "Май 2023",
+                    "field_name_of_substance": "Удельная электрическая проводимость",
+                    "field_name_of_substance_id": "48",
+                    "field_units_referencee": "мкСм/см",
+                    "field_units_referencee_id": "253",
+                    "field_pdk_text": null,
+                    "field_value": "267"
+                },
+                {
+                    "field_period": "Май 2023",
+                    "field_name_of_substance": "Температура",
+                    "field_name_of_substance_id": "49",
+                    "field_units_referencee": "°С",
+                    "field_units_referencee_id": "252",
+                    "field_pdk_text": null,
+                    "field_value": "9.5"
+                },
+                {
+                    "field_period": "Май 2023",
+                    "field_name_of_substance": "Прозрачность",
+                    "field_name_of_substance_id": "226",
+                    "field_units_referencee": "м",
+                    "field_units_referencee_id": "241",
+                    "field_pdk_text": null,
+                    "field_value": "1"
+                }
+            ]
+        }
+    },
+    {
+        "node": {
+            "title": "Июль 2023 в 2,1 км по А 315 гр. от г.п. Ореховск",
+            "field_geo_point": "1770",
+            "title_1": "оз. Ореховское",
+            "field_source": "1777",
+            "title_2": "оз. Ореховское",
+            "field_period": "Июль 2023",
+            "substances": [
+                {
+                    "field_period": "Июль 2023",
+                    "field_name_of_substance": "Водородный показатель (pH)",
+                    "field_name_of_substance_id": "18",
+                    "field_units_referencee": "pH",
+                    "field_units_referencee_id": "251",
+                    "field_pdk_text": "от 6.5 до 8.5",
+                    "field_value": "7.6"
+                },
+                {
+                    "field_period": "Июль 2023",
+                    "field_name_of_substance": "Взвешенные вещества",
+                    "field_name_of_substance_id": "16",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_pdk_text": "<25",
+                    "field_value": "5.4"
+                },
+                {
+                    "field_period": "Июль 2023",
+                    "field_name_of_substance": "Минерализация воды",
+                    "field_name_of_substance_id": "28",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_pdk_text": "1000",
+                    "field_value": "260"
+                },
+                {
+                    "field_period": "Июль 2023",
+                    "field_name_of_substance": "Растворенный кислород",
+                    "field_name_of_substance_id": "41",
+                    "field_units_referencee": "мгО2/дм3",
+                    "field_units_referencee_id": "23",
+                    "field_pdk_text": ">6",
+                    "field_value": "10.6"
+                },
+                {
+                    "field_period": "Июль 2023",
+                    "field_name_of_substance": "Биохимическое потребление кислорода (БПК5)",
+                    "field_name_of_substance_id": "14",
+                    "field_units_referencee": "мгО2/дм3",
+                    "field_units_referencee_id": "23",
+                    "field_pdk_text": "<6",
+                    "field_value": "2.4"
+                },
+                {
+                    "field_period": "Июль 2023",
+                    "field_name_of_substance": "Химическое потребление кислорода (ХПКCr)",
+                    "field_name_of_substance_id": "43",
+                    "field_units_referencee": "мгО2/дм3",
+                    "field_units_referencee_id": "23",
+                    "field_pdk_text": "<30",
+                    "field_value": "23.9"
+                },
+                {
+                    "field_period": "Июль 2023",
+                    "field_name_of_substance": "Аммоний-ион",
+                    "field_name_of_substance_id": "246",
+                    "field_units_referencee": "мгN/дм3",
+                    "field_units_referencee_id": "26",
+                    "field_pdk_text": "0.39",
+                    "field_value": "0.26"
+                },
+                {
+                    "field_period": "Июль 2023",
+                    "field_name_of_substance": "Нитрит-ион",
+                    "field_name_of_substance_id": "247",
+                    "field_units_referencee": "мгN/дм3",
+                    "field_units_referencee_id": "26",
+                    "field_pdk_text": "0.024",
+                    "field_value": "0.017"
+                },
+                {
+                    "field_period": "Июль 2023",
+                    "field_name_of_substance": "Нитрат-ион",
+                    "field_name_of_substance_id": "248",
+                    "field_units_referencee": "мгN/дм3",
+                    "field_units_referencee_id": "26",
+                    "field_pdk_text": "9.03",
+                    "field_value": "0.73"
+                },
+                {
+                    "field_period": "Июль 2023",
+                    "field_name_of_substance": "Азот общий по Къельдалю",
+                    "field_name_of_substance_id": "245",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_pdk_text": "5",
+                    "field_value": "0.717"
+                },
+                {
+                    "field_period": "Июль 2023",
+                    "field_name_of_substance": "Фосфат-ион (включая гидро- и дигидроформы)",
+                    "field_name_of_substance_id": "250",
+                    "field_units_referencee": "мгP/дм3",
+                    "field_units_referencee_id": "223",
+                    "field_pdk_text": "0.066",
+                    "field_value": "0.044"
+                },
+                {
+                    "field_period": "Июль 2023",
+                    "field_name_of_substance": "Фосфор общий",
+                    "field_name_of_substance_id": "27",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_pdk_text": "0.2",
+                    "field_value": "0.063"
+                },
+                {
+                    "field_period": "Июль 2023",
+                    "field_name_of_substance": "Нефть и нефтепродукты в растворенном и эмульгированном состоянии",
+                    "field_name_of_substance_id": "15",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_pdk_text": "0.05",
+                    "field_value": "0.011"
+                },
+                {
+                    "field_period": "Июль 2023",
+                    "field_name_of_substance": "СПАВ анионоактивные",
+                    "field_name_of_substance_id": "249",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_pdk_text": "0.1",
+                    "field_value": "<0.025"
+                },
+                {
+                    "field_period": "Июль 2023",
+                    "field_name_of_substance": "Кальций",
+                    "field_name_of_substance_id": "52",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_pdk_text": "180",
+                    "field_value": "39"
+                },
+                {
+                    "field_period": "Июль 2023",
+                    "field_name_of_substance": "Магний",
+                    "field_name_of_substance_id": "46",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_pdk_text": "40",
+                    "field_value": "12"
+                },
+                {
+                    "field_period": "Июль 2023",
+                    "field_name_of_substance": "Хлорид-ион",
+                    "field_name_of_substance_id": "22",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_pdk_text": "300",
+                    "field_value": "12.7"
+                },
+                {
+                    "field_period": "Июль 2023",
+                    "field_name_of_substance": "Сульфат-ион",
+                    "field_name_of_substance_id": "21",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_pdk_text": "100",
+                    "field_value": "14.5"
+                },
+                {
+                    "field_period": "Июль 2023",
+                    "field_name_of_substance": "Железо общее",
+                    "field_name_of_substance_id": "34",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_pdk_text": "0.135",
+                    "field_value": "0.209"
+                },
+                {
+                    "field_period": "Июль 2023",
+                    "field_name_of_substance": "Марганец",
+                    "field_name_of_substance_id": "45",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_pdk_text": "0.023",
+                    "field_value": "0.034"
+                },
+                {
+                    "field_period": "Июль 2023",
+                    "field_name_of_substance": "Медь",
+                    "field_name_of_substance_id": "29",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_pdk_text": "0.0035",
+                    "field_value": "0.0032"
+                },
+                {
+                    "field_period": "Июль 2023",
+                    "field_name_of_substance": "Цинк",
+                    "field_name_of_substance_id": "30",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_pdk_text": "0.010",
+                    "field_value": "0.01"
+                },
+                {
+                    "field_period": "Июль 2023",
+                    "field_name_of_substance": "Никель",
+                    "field_name_of_substance_id": "32",
+                    "field_units_referencee": "мкг/дм3",
+                    "field_units_referencee_id": "39",
+                    "field_pdk_text": "34",
+                    "field_value": "<5"
+                },
+                {
+                    "field_period": "Июль 2023",
+                    "field_name_of_substance": "Кадмий",
+                    "field_name_of_substance_id": "50",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_pdk_text": "0.005",
+                    "field_value": "<0.0005"
+                },
+                {
+                    "field_period": "Июль 2023",
+                    "field_name_of_substance": "Свинец",
+                    "field_name_of_substance_id": "51",
+                    "field_units_referencee": "мкг/дм3",
+                    "field_units_referencee_id": "39",
+                    "field_pdk_text": "14",
+                    "field_value": "<5"
+                },
+                {
+                    "field_period": "Июль 2023",
+                    "field_name_of_substance": "Хром",
+                    "field_name_of_substance_id": "31",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_pdk_text": "0.005",
+                    "field_value": "<0.002"
+                },
+                {
+                    "field_period": "Июль 2023",
+                    "field_name_of_substance": "Гидрокарбонат-ион",
+                    "field_name_of_substance_id": "47",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_pdk_text": null,
+                    "field_value": "111"
+                },
+                {
+                    "field_period": "Июль 2023",
+                    "field_name_of_substance": "Удельная электрическая проводимость",
+                    "field_name_of_substance_id": "48",
+                    "field_units_referencee": "мкСм/см",
+                    "field_units_referencee_id": "253",
+                    "field_pdk_text": null,
+                    "field_value": "287"
+                },
+                {
+                    "field_period": "Июль 2023",
+                    "field_name_of_substance": "Температура",
+                    "field_name_of_substance_id": "49",
+                    "field_units_referencee": "°С",
+                    "field_units_referencee_id": "252",
+                    "field_pdk_text": null,
+                    "field_value": "21"
+                },
+                {
+                    "field_period": "Июль 2023",
+                    "field_name_of_substance": "Прозрачность",
+                    "field_name_of_substance_id": "226",
+                    "field_units_referencee": "м",
+                    "field_units_referencee_id": "241",
+                    "field_pdk_text": null,
+                    "field_value": "1"
+                }
+            ]
+        }
+    },
+    {
+        "node": {
+            "title": "Октябрь 2023 в 2,1 км по А 315 гр. от г.п. Ореховск",
+            "field_geo_point": "1770",
+            "title_1": "оз. Ореховское",
+            "field_source": "1777",
+            "title_2": "оз. Ореховское",
+            "field_period": "Октябрь 2023",
+            "substances": [
+                {
+                    "field_period": "Октябрь 2023",
+                    "field_name_of_substance": "Водородный показатель (pH)",
+                    "field_name_of_substance_id": "18",
+                    "field_units_referencee": "pH",
+                    "field_units_referencee_id": "251",
+                    "field_pdk_text": "от 6.5 до 8.5",
+                    "field_value": "7.5"
+                },
+                {
+                    "field_period": "Октябрь 2023",
+                    "field_name_of_substance": "Взвешенные вещества",
+                    "field_name_of_substance_id": "16",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_pdk_text": "<25",
+                    "field_value": "5.9"
+                },
+                {
+                    "field_period": "Октябрь 2023",
+                    "field_name_of_substance": "Минерализация воды",
+                    "field_name_of_substance_id": "28",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_pdk_text": "1000",
+                    "field_value": "246"
+                },
+                {
+                    "field_period": "Октябрь 2023",
+                    "field_name_of_substance": "Растворенный кислород",
+                    "field_name_of_substance_id": "41",
+                    "field_units_referencee": "мгО2/дм3",
+                    "field_units_referencee_id": "23",
+                    "field_pdk_text": ">6",
+                    "field_value": "9.3"
+                },
+                {
+                    "field_period": "Октябрь 2023",
+                    "field_name_of_substance": "Биохимическое потребление кислорода (БПК5)",
+                    "field_name_of_substance_id": "14",
+                    "field_units_referencee": "мгО2/дм3",
+                    "field_units_referencee_id": "23",
+                    "field_pdk_text": "<6",
+                    "field_value": "2.2"
+                },
+                {
+                    "field_period": "Октябрь 2023",
+                    "field_name_of_substance": "Химическое потребление кислорода (ХПКCr)",
+                    "field_name_of_substance_id": "43",
+                    "field_units_referencee": "мгО2/дм3",
+                    "field_units_referencee_id": "23",
+                    "field_pdk_text": "<30",
+                    "field_value": "27.1"
+                },
+                {
+                    "field_period": "Октябрь 2023",
+                    "field_name_of_substance": "Аммоний-ион",
+                    "field_name_of_substance_id": "246",
+                    "field_units_referencee": "мгN/дм3",
+                    "field_units_referencee_id": "26",
+                    "field_pdk_text": "0.39",
+                    "field_value": "0.25"
+                },
+                {
+                    "field_period": "Октябрь 2023",
+                    "field_name_of_substance": "Нитрит-ион",
+                    "field_name_of_substance_id": "247",
+                    "field_units_referencee": "мгN/дм3",
+                    "field_units_referencee_id": "26",
+                    "field_pdk_text": "0.024",
+                    "field_value": "0.015"
+                },
+                {
+                    "field_period": "Октябрь 2023",
+                    "field_name_of_substance": "Нитрат-ион",
+                    "field_name_of_substance_id": "248",
+                    "field_units_referencee": "мгN/дм3",
+                    "field_units_referencee_id": "26",
+                    "field_pdk_text": "9.03",
+                    "field_value": "0.72"
+                },
+                {
+                    "field_period": "Октябрь 2023",
+                    "field_name_of_substance": "Азот общий по Къельдалю",
+                    "field_name_of_substance_id": "245",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_pdk_text": "5",
+                    "field_value": "0.745"
+                },
+                {
+                    "field_period": "Октябрь 2023",
+                    "field_name_of_substance": "Фосфат-ион (включая гидро- и дигидроформы)",
+                    "field_name_of_substance_id": "250",
+                    "field_units_referencee": "мгP/дм3",
+                    "field_units_referencee_id": "223",
+                    "field_pdk_text": "0.066",
+                    "field_value": "0.056"
+                },
+                {
+                    "field_period": "Октябрь 2023",
+                    "field_name_of_substance": "Фосфор общий",
+                    "field_name_of_substance_id": "27",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_pdk_text": "0.2",
+                    "field_value": "0.077"
+                },
+                {
+                    "field_period": "Октябрь 2023",
+                    "field_name_of_substance": "Нефть и нефтепродукты в растворенном и эмульгированном состоянии",
+                    "field_name_of_substance_id": "15",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_pdk_text": "0.05",
+                    "field_value": "0.013"
+                },
+                {
+                    "field_period": "Октябрь 2023",
+                    "field_name_of_substance": "СПАВ анионоактивные",
+                    "field_name_of_substance_id": "249",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_pdk_text": "0.1",
+                    "field_value": "<0.025"
+                },
+                {
+                    "field_period": "Октябрь 2023",
+                    "field_name_of_substance": "Кальций",
+                    "field_name_of_substance_id": "52",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_pdk_text": "180",
+                    "field_value": "39"
+                },
+                {
+                    "field_period": "Октябрь 2023",
+                    "field_name_of_substance": "Магний",
+                    "field_name_of_substance_id": "46",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_pdk_text": "40",
+                    "field_value": "10"
+                },
+                {
+                    "field_period": "Октябрь 2023",
+                    "field_name_of_substance": "Хлорид-ион",
+                    "field_name_of_substance_id": "22",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_pdk_text": "300",
+                    "field_value": "12.1"
+                },
+                {
+                    "field_period": "Октябрь 2023",
+                    "field_name_of_substance": "Сульфат-ион",
+                    "field_name_of_substance_id": "21",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_pdk_text": "100",
+                    "field_value": "15"
+                },
+                {
+                    "field_period": "Октябрь 2023",
+                    "field_name_of_substance": "Железо общее",
+                    "field_name_of_substance_id": "34",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_pdk_text": "0.135",
+                    "field_value": "0.212"
+                },
+                {
+                    "field_period": "Октябрь 2023",
+                    "field_name_of_substance": "Марганец",
+                    "field_name_of_substance_id": "45",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_pdk_text": "0.023",
+                    "field_value": "0.032"
+                },
+                {
+                    "field_period": "Октябрь 2023",
+                    "field_name_of_substance": "Медь",
+                    "field_name_of_substance_id": "29",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_pdk_text": "0.0035",
+                    "field_value": "<0.001"
+                },
+                {
+                    "field_period": "Октябрь 2023",
+                    "field_name_of_substance": "Цинк",
+                    "field_name_of_substance_id": "30",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_pdk_text": "0.010",
+                    "field_value": "0.011"
+                },
+                {
+                    "field_period": "Октябрь 2023",
+                    "field_name_of_substance": "Никель",
+                    "field_name_of_substance_id": "32",
+                    "field_units_referencee": "мкг/дм3",
+                    "field_units_referencee_id": "39",
+                    "field_pdk_text": "34",
+                    "field_value": "<5"
+                },
+                {
+                    "field_period": "Октябрь 2023",
+                    "field_name_of_substance": "Кадмий",
+                    "field_name_of_substance_id": "50",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_pdk_text": "0.005",
+                    "field_value": "<0.0005"
+                },
+                {
+                    "field_period": "Октябрь 2023",
+                    "field_name_of_substance": "Свинец",
+                    "field_name_of_substance_id": "51",
+                    "field_units_referencee": "мкг/дм3",
+                    "field_units_referencee_id": "39",
+                    "field_pdk_text": "14",
+                    "field_value": "<5"
+                },
+                {
+                    "field_period": "Октябрь 2023",
+                    "field_name_of_substance": "Хром",
+                    "field_name_of_substance_id": "31",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_pdk_text": "0.005",
+                    "field_value": "<0.002"
+                },
+                {
+                    "field_period": "Октябрь 2023",
+                    "field_name_of_substance": "Гидрокарбонат-ион",
+                    "field_name_of_substance_id": "47",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_pdk_text": null,
+                    "field_value": "109"
+                },
+                {
+                    "field_period": "Октябрь 2023",
+                    "field_name_of_substance": "Удельная электрическая проводимость",
+                    "field_name_of_substance_id": "48",
+                    "field_units_referencee": "мкСм/см",
+                    "field_units_referencee_id": "253",
+                    "field_pdk_text": null,
+                    "field_value": "282"
+                },
+                {
+                    "field_period": "Октябрь 2023",
+                    "field_name_of_substance": "Температура",
+                    "field_name_of_substance_id": "49",
+                    "field_units_referencee": "°С",
+                    "field_units_referencee_id": "252",
+                    "field_pdk_text": null,
+                    "field_value": "10.2"
+                },
+                {
+                    "field_period": "Октябрь 2023",
+                    "field_name_of_substance": "Прозрачность",
+                    "field_name_of_substance_id": "226",
+                    "field_units_referencee": "м",
+                    "field_units_referencee_id": "241",
+                    "field_pdk_text": null,
+                    "field_value": "1"
+                }
+            ]
+        }
+    }
+]

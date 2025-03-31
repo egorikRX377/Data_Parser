@@ -1,0 +1,152 @@
+[
+    {
+        "node": {
+            "title": "2183 - 2104",
+            "Nid": "2504",
+            "timestamp": "2025-04-01 01:08:37",
+            "field_geo_point": "2104",
+            "field_source": "2183",
+            "field_period": "",
+            "title_1": "Филиал Оршанское УМГ ОАО Газпром трансгаз Беларусь Компрессорная станция",
+            "title_2": "Филиал Оршанское УМГ ОАО Газпром трансгаз Беларусь Компрессорная станция",
+            "substances": [
+                {
+                    "field_name_of_substance": "Железо (II) оксид (в пересчете на железо)",
+                    "field_name_of_substance_id": "77",
+                    "field_code": "123",
+                    "field_danger_class": "3",
+                    "field_znachenie": "0.067",
+                    "field_year_value": "0.164"
+                },
+                {
+                    "field_name_of_substance": "Марганец и его соединения в пересчете на марганец (IY) оксид",
+                    "field_name_of_substance_id": "79",
+                    "field_code": "143",
+                    "field_danger_class": "2",
+                    "field_znachenie": "0.001",
+                    "field_year_value": "0.004"
+                },
+                {
+                    "field_name_of_substance": "Ртуть и ее соединения (в пересчете на ртуть)",
+                    "field_name_of_substance_id": "81",
+                    "field_code": "183",
+                    "field_danger_class": "1",
+                    "field_znachenie": "1.0E-6",
+                    "field_year_value": "2.0E-6"
+                },
+                {
+                    "field_name_of_substance": "Свинец и его неорганические соединения (в пересчете на свинец)",
+                    "field_name_of_substance_id": "82",
+                    "field_code": "184",
+                    "field_danger_class": "1",
+                    "field_znachenie": "1.6E-5",
+                    "field_year_value": "4.0E-6"
+                },
+                {
+                    "field_name_of_substance": "Азот (IV) оксид (азота диоксид)",
+                    "field_name_of_substance_id": "84",
+                    "field_code": "301",
+                    "field_danger_class": "2",
+                    "field_znachenie": "0.23",
+                    "field_year_value": "3.201"
+                },
+                {
+                    "field_name_of_substance": "Аммиак",
+                    "field_name_of_substance_id": "9",
+                    "field_code": "303",
+                    "field_danger_class": "4",
+                    "field_znachenie": "0.001",
+                    "field_year_value": "0.002"
+                },
+                {
+                    "field_name_of_substance": "Азот (IV) оксид (азота диоксид)",
+                    "field_name_of_substance_id": "84",
+                    "field_code": "304",
+                    "field_danger_class": "3",
+                    "field_znachenie": "0.001",
+                    "field_year_value": "0.532"
+                },
+                {
+                    "field_name_of_substance": "Углерод оксид (окись углерода, угарный газ)",
+                    "field_name_of_substance_id": "201",
+                    "field_code": "337",
+                    "field_danger_class": "4",
+                    "field_znachenie": "0.151",
+                    "field_year_value": "2.204"
+                },
+                {
+                    "field_name_of_substance": "Фтористые газообразные соединения (в пересчете на фтор): - гидрофторид",
+                    "field_name_of_substance_id": "100",
+                    "field_code": "342",
+                    "field_danger_class": "2",
+                    "field_znachenie": "0.001",
+                    "field_year_value": "0.002"
+                },
+                {
+                    "field_name_of_substance": "Хлор",
+                    "field_name_of_substance_id": "196",
+                    "field_code": "349",
+                    "field_danger_class": "2",
+                    "field_znachenie": "0.002",
+                    "field_year_value": "0.001"
+                },
+                {
+                    "field_name_of_substance": "Углеводороды предельные алифатического ряда С1-С10 (алканы)",
+                    "field_name_of_substance_id": "88",
+                    "field_code": "401",
+                    "field_danger_class": "4",
+                    "field_znachenie": "0.004",
+                    "field_year_value": "0.058"
+                },
+                {
+                    "field_name_of_substance": "Метан",
+                    "field_name_of_substance_id": "129",
+                    "field_code": "410",
+                    "field_danger_class": "4",
+                    "field_znachenie": "111321.519",
+                    "field_year_value": "568.456"
+                },
+                {
+                    "field_name_of_substance": "Бензол",
+                    "field_name_of_substance_id": "95",
+                    "field_code": "602",
+                    "field_danger_class": "2",
+                    "field_znachenie": "0.001",
+                    "field_year_value": "0.001"
+                },
+                {
+                    "field_name_of_substance": "Толуол (метилбензол)",
+                    "field_name_of_substance_id": "96",
+                    "field_code": "621",
+                    "field_danger_class": "3",
+                    "field_znachenie": "0.001",
+                    "field_year_value": "0.001"
+                },
+                {
+                    "field_name_of_substance": "Углеводороды предельные C12-C19",
+                    "field_name_of_substance_id": "98",
+                    "field_code": "2754",
+                    "field_danger_class": "4",
+                    "field_znachenie": "0.022",
+                    "field_year_value": "0.06"
+                },
+                {
+                    "field_name_of_substance": "Твердые частицы (недифференцированная по составу пыль/аэрозоль)",
+                    "field_name_of_substance_id": "10",
+                    "field_code": "2902",
+                    "field_danger_class": "3",
+                    "field_znachenie": "0.023",
+                    "field_year_value": "0.007"
+                },
+                {
+                    "field_name_of_substance": "Пыль неорганическая",
+                    "field_name_of_substance_id": "121",
+                    "field_code": "2908",
+                    "field_danger_class": "3",
+                    "field_znachenie": "0.328",
+                    "field_year_value": "0.33"
+                }
+            ]
+        }
+    }
+]

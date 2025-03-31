@@ -1,0 +1,44 @@
+[
+    {
+        "node": {
+            "title": "Июнь т.13.3 15 м выше выпуска 13 ПСВ с очистных сооружений в р.Оршица  (54°3034.2с.ш. 30°2518.1в.д.)",
+            "field_geo_point": "2635",
+            "title_1": "КУП \"Оршанская спецавтобаза\" Витебская обл. г.Орша Минжилкомхоз",
+            "field_source": "2664",
+            "title_2": "т.13.3 15 м выше выпуска 13 ПСВ с очистных сооружений в р.Оршица (54°30'34.2\"с.ш. 30°25'18.1\"в.д.)",
+            "field_period": "Июнь 2021",
+            "substances": [
+                {
+                    "field_name_of_substance": "Нефть и нефтепродукты в растворенном и эмульгированном состоянии",
+                    "field_name_of_substance_id": "15",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "0.015",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "0.05"
+                },
+                {
+                    "field_name_of_substance": "Взвешенные вещества",
+                    "field_name_of_substance_id": "16",
+                    "field_units_referencee": "мг/дм3",
+                    "field_units_referencee_id": "24",
+                    "field_average_concentration_1": "7.3",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "25"
+                },
+                {
+                    "field_name_of_substance": "Водородный показатель (pH)",
+                    "field_name_of_substance_id": "18",
+                    "field_units_referencee": "ед.рН",
+                    "field_units_referencee_id": "25",
+                    "field_average_concentration_1": "7.6",
+                    "field_average_concentration_2": null,
+                    "field_average_concentration_3": null,
+                    "field_pdk_text": "6.5:8.5"
+                }
+            ]
+        }
+    }
+]

@@ -1,0 +1,136 @@
+[
+    {
+        "node": {
+            "title": "2122 - 2043",
+            "Nid": "2443",
+            "timestamp": "2025-04-01 01:08:37",
+            "field_geo_point": "2043",
+            "field_source": "2122",
+            "field_period": "",
+            "title_1": "Завод ЖБИ ОАО \"Оршанский строительный трест № 18\"",
+            "title_2": "Завод ЖБИ ОАО \"Оршанский строительный трест № 18\"",
+            "substances": [
+                {
+                    "field_name_of_substance": "Кальций оксид (известь негашеная)",
+                    "field_name_of_substance_id": "126",
+                    "field_code": "128",
+                    "field_danger_class": "0",
+                    "field_znachenie": "0.386",
+                    "field_year_value": "0.098"
+                },
+                {
+                    "field_name_of_substance": "Железо и его соединения (в пересчете на железо)",
+                    "field_name_of_substance_id": "99",
+                    "field_code": "130",
+                    "field_danger_class": "3",
+                    "field_znachenie": "0.09",
+                    "field_year_value": "0.122"
+                },
+                {
+                    "field_name_of_substance": "Марганец и его соединения в пересчете на марганец (IY) оксид",
+                    "field_name_of_substance_id": "79",
+                    "field_code": "143",
+                    "field_danger_class": "2",
+                    "field_znachenie": "0.009",
+                    "field_year_value": "0.008"
+                },
+                {
+                    "field_name_of_substance": "Кальций гидрооксид",
+                    "field_name_of_substance_id": "127",
+                    "field_code": "214",
+                    "field_danger_class": "3",
+                    "field_znachenie": "0.009",
+                    "field_year_value": "0.031"
+                },
+                {
+                    "field_name_of_substance": "Азот (IV) оксид (азота диоксид)",
+                    "field_name_of_substance_id": "84",
+                    "field_code": "301",
+                    "field_danger_class": "2",
+                    "field_znachenie": "0.053",
+                    "field_year_value": "0.138"
+                },
+                {
+                    "field_name_of_substance": "Азот (IV) оксид (азота диоксид)",
+                    "field_name_of_substance_id": "84",
+                    "field_code": "304",
+                    "field_danger_class": "3",
+                    "field_znachenie": "0.001",
+                    "field_year_value": "0.01"
+                },
+                {
+                    "field_name_of_substance": "Углерод оксид (окись углерода, угарный газ)",
+                    "field_name_of_substance_id": "201",
+                    "field_code": "337",
+                    "field_danger_class": "4",
+                    "field_znachenie": "0.131",
+                    "field_year_value": "0.439"
+                },
+                {
+                    "field_name_of_substance": "Фтористые газообразные соединения (в пересчете на фтор): - гидрофторид",
+                    "field_name_of_substance_id": "100",
+                    "field_code": "342",
+                    "field_danger_class": "2",
+                    "field_znachenie": "0.001",
+                    "field_year_value": "0.001"
+                },
+                {
+                    "field_name_of_substance": "Углеводороды предельные алифатического ряда С1-С10 (алканы)",
+                    "field_name_of_substance_id": "88",
+                    "field_code": "401",
+                    "field_danger_class": "4",
+                    "field_znachenie": "0.004",
+                    "field_year_value": "0.001"
+                },
+                {
+                    "field_name_of_substance": "Углеводороды непредельные (алкены)",
+                    "field_name_of_substance_id": "89",
+                    "field_code": "550",
+                    "field_danger_class": "4",
+                    "field_znachenie": "0.008",
+                    "field_year_value": "0.002"
+                },
+                {
+                    "field_name_of_substance": "Углеводороды алициклические (нафтены)",
+                    "field_name_of_substance_id": "90",
+                    "field_code": "551",
+                    "field_danger_class": "4",
+                    "field_znachenie": "0.007",
+                    "field_year_value": "0.001"
+                },
+                {
+                    "field_name_of_substance": "Ксилолы (смесь изомеров о-,м-,п-)",
+                    "field_name_of_substance_id": "91",
+                    "field_code": "616",
+                    "field_danger_class": "3",
+                    "field_znachenie": "0.05",
+                    "field_year_value": "0.253"
+                },
+                {
+                    "field_name_of_substance": "Углеводороды ароматические - производные бензола",
+                    "field_name_of_substance_id": "92",
+                    "field_code": "655",
+                    "field_danger_class": "2",
+                    "field_znachenie": "0.006",
+                    "field_year_value": "0.001"
+                },
+                {
+                    "field_name_of_substance": "Пыль неорганическая",
+                    "field_name_of_substance_id": "121",
+                    "field_code": "2908",
+                    "field_danger_class": "3",
+                    "field_znachenie": "5",
+                    "field_year_value": "21.343"
+                },
+                {
+                    "field_name_of_substance": "Пыль древесная",
+                    "field_name_of_substance_id": "123",
+                    "field_code": "2936",
+                    "field_danger_class": "3",
+                    "field_znachenie": "1.429",
+                    "field_year_value": "1.693"
+                }
+            ]
+        }
+    }
+]

@@ -1,0 +1,80 @@
+[
+    {
+        "node": {
+            "title": "2121 - 2042",
+            "Nid": "2442",
+            "timestamp": "2025-04-01 01:08:37",
+            "field_geo_point": "2042",
+            "field_source": "2121",
+            "field_period": "",
+            "title_1": "Филиал \"Дорожно - строительное управление №7\" ОАО \"ДСТ № 1 г. Витебск\"",
+            "title_2": "Филиал \"Дорожно - строительное управление №7\" ОАО \"ДСТ № 1 г. Витебск\"",
+            "substances": [
+                {
+                    "field_name_of_substance": "Ртуть и ее соединения (в пересчете на ртуть)",
+                    "field_name_of_substance_id": "81",
+                    "field_code": "183",
+                    "field_danger_class": "1",
+                    "field_znachenie": "1.0E-6",
+                    "field_year_value": "2.0E-6"
+                },
+                {
+                    "field_name_of_substance": "Свинец и его неорганические соединения (в пересчете на свинец)",
+                    "field_name_of_substance_id": "82",
+                    "field_code": "184",
+                    "field_danger_class": "1",
+                    "field_znachenie": "1.8E-5",
+                    "field_year_value": "3.0E-5"
+                },
+                {
+                    "field_name_of_substance": "Азот (IV) оксид (азота диоксид)",
+                    "field_name_of_substance_id": "84",
+                    "field_code": "301",
+                    "field_danger_class": "2",
+                    "field_znachenie": "2.739",
+                    "field_year_value": "6.719"
+                },
+                {
+                    "field_name_of_substance": "Азот (IV) оксид (азота диоксид)",
+                    "field_name_of_substance_id": "84",
+                    "field_code": "304",
+                    "field_danger_class": "3",
+                    "field_znachenie": "0.001",
+                    "field_year_value": "0.038"
+                },
+                {
+                    "field_name_of_substance": "Сера диоксид (ангидрид сернистый",
+                    "field_name_of_substance_id": "86",
+                    "field_code": "330",
+                    "field_danger_class": "3",
+                    "field_znachenie": "0.052",
+                    "field_year_value": "0.176"
+                },
+                {
+                    "field_name_of_substance": "Углерод оксид (окись углерода, угарный газ)",
+                    "field_name_of_substance_id": "201",
+                    "field_code": "337",
+                    "field_danger_class": "4",
+                    "field_znachenie": "18.68",
+                    "field_year_value": "47.671"
+                },
+                {
+                    "field_name_of_substance": "Углеводороды предельные C12-C19",
+                    "field_name_of_substance_id": "98",
+                    "field_code": "2754",
+                    "field_danger_class": "4",
+                    "field_znachenie": "0.998",
+                    "field_year_value": "3.078"
+                },
+                {
+                    "field_name_of_substance": "Твердые частицы (недифференцированная по составу пыль/аэрозоль)",
+                    "field_name_of_substance_id": "10",
+                    "field_code": "2902",
+                    "field_danger_class": "3",
+                    "field_znachenie": "3.104",
+                    "field_year_value": "15.521"
+                }
+            ]
+        }
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "node": {
+            "title": "2186 - 2107",
+            "Nid": "2507",
+            "timestamp": "2025-04-01 01:08:37",
+            "field_geo_point": "2107",
+            "field_source": "2186",
+            "field_period": "",
+            "title_1": "Филиал ДЭУ-7 РУП \"Витебскавтодор\"",
+            "title_2": "Филиал ДЭУ-7 РУП \"Витебскавтодор\"",
+            "substances": [
+                {
+                    "field_name_of_substance": "Пыль неорганическая",
+                    "field_name_of_substance_id": "121",
+                    "field_code": "2908",
+                    "field_danger_class": "3",
+                    "field_znachenie": "1.323",
+                    "field_year_value": "1.117"
+                }
+            ]
+        }
+    }
+]
