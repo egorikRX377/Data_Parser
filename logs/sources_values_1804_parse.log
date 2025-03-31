@@ -1,3 +1,0 @@
-2025-04-01 01:08:41,694 - INFO - Попытка 1/3. Отправляем запрос к API: https://orsha-ecokarta.gov.by/api/sources_values?geo_point=1804
-2025-04-01 01:08:41,956 - INFO - Запрос успешен. Статус: 200
-2025-04-01 01:08:42,023 - INFO - Данные сохранены в файл: groundwater\point_data\point_1804.json (всего записей: 19)
